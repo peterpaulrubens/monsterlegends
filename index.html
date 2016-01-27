@@ -7,10 +7,9 @@
             $(document).ready(function() {
                 var legends;
                 $.get( "data/legendary.csv", function( data ) {
-                    legends = data;
+                    $('#monsters').DataTable(data);
                     alert( "Load was performed." );
                 });
-                $('#monsters').DataTable(legends);
             } );
         </script>
     </head>
