@@ -13,11 +13,12 @@
         <script type="text/javascript" charset="utf8" src="jquery-csv/src/jquery.csv.min.js"></script>
         <script>
             $(document).ready(function() {
+                var legends;
                 $.get( "data/legendary.csv", function( data ) {
-                    $( ".result" ).html( data );
+                    legends = data;
                     alert( "Load was performed." );
                 });
-                $('#monsters').DataTable();
+                $('#monsters').DataTable(legends);
             } );
         </script>
     </head>
