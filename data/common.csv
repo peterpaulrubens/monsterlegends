@@ -1,10 +1,10 @@
-Name,Power,Life,Speed,GPM,Type,Type 2
-Rockilla,875,3521,875,62,Earth,Light
-Light Spirit,875,3521,875,17,Light,Dark
-Metalsaur,1120,2976,1000,32,Metal,Water
-Mersnake,1125,2777,1000,32,Water,Light
-Treezard,1125,2777,100,32,Nature,Earth
-Thunder Eagle,875,2480,1250,62,Thunder,Light
-Firesaur,1375,2480,875,62,Fire,Thunder
-Genie,950,2480,1250,32,Magic,Earth
-Tyrannoking,1150,2480,875,17,Dark,Light
+Tier,Name,Power,Life,Speed,GPM,Type1,Type2
+Common,Rockilla,875,3521,875,62,Earth,Light
+Common,Light Spirit,875,3521,875,17,Light,Dark
+Common,Metalsaur,1120,2976,1000,32,Metal,Water
+Common,Mersnake,1125,2777,1000,32,Water,Light
+Common,Treezard,1125,2777,100,32,Nature,Earth
+Common,Thunder Eagle,875,2480,1250,62,Thunder,Light
+Common,Firesaur,1375,2480,875,62,Fire,Thunder
+Common,Genie,950,2480,1250,32,Magic,Earth
+Common,Tyrannoking,1150,2480,875,17,Dark,Light

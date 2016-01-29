@@ -1,0 +1,256 @@
+Tier,Name,Power,Life,Speed,GPM,Type1,Type2
+Common,Rockilla,875,3521,875,62,Earth,Light
+Common,Light Spirit,875,3521,875,17,Light,Dark
+Common,Metalsaur,1120,2976,1000,32,Metal,Water
+Common,Mersnake,1125,2777,1000,32,Water,Light
+Common,Treezard,1125,2777,100,32,Nature,Earth
+Common,Thunder Eagle,875,2480,1250,62,Thunder,Light
+Common,Firesaur,1375,2480,875,62,Fire,Thunder
+Common,Genie,950,2480,1250,32,Magic,Earth
+Common,Tyrannoking,1150,2480,875,17,Dark,Light
+Uncommon,Light Sphinx,1351,"9,316",1232,62,Earth,Light
+Uncommon,Omethyst,1463,"8,000",1505,82,Metal,Dark
+Uncommon,Metanephrops,1722,"7,891",1549,82,Metal,Water
+Uncommon,Heimdal,1540,"7,672",1568,82,Metal,Light
+Uncommon,Rockneto,1351,"7,672",1582,82,Metal,Earth
+Uncommon,Blesstle,1428,"7,562",1463,62,Water,Light
+Uncommon,Electrex,1309,"7,562",1736,103,Earth,Thunder
+Uncommon,Firekong,1771,"7,562",1232,103,Fire,Earth
+Uncommon,Flawless,1309,"7,562",1771,62,Magic,Light
+Uncommon,Gastosquish,1351,"7,562",1540,103,Earth,Water
+Uncommon,Giragast,1715,"7,562",1232,62,Dark,Magic
+Uncommon,Peltiwirl,1309,"7,562",1736,62,Thunder,Light
+Uncommon,Rarawr,1351,"7,562",1540,103,Nature,Earth
+Uncommon,Succuba,1736,"7,562",1232,42,Dark,Light
+Uncommon,Vixsun,1540,"7,562",1351,62,Nature,Light
+Uncommon,Jonskeer,1617,"7,343",1549,82,Metal,Nature
+Uncommon,Bloomskips,1337,"6,795",1743,62,Nature,Magic
+Uncommon,Dolphchamp,1351,"6,795",1736,62,Water,Magic
+Uncommon,Obsidia,1540,"6,795",1540,62,Earth,Dark
+Uncommon,Sheluke,1540,"6,795",1540,62,Nature,Water
+Uncommon,Utochomp,1694,"6,795",1386,62,Nature,Dark
+Uncommon,Esmelter,1463,"6,466",1582,82,Metal,Fire
+Uncommon,Lesaki,1813,"6,137",1722,82,Metal,Thunder
+Uncommon,Manolyth,1799,"6,137",1540,82,Metal,Magic
+Uncommon,Firanda,1736,"6,028",1540,103,Fire,Nature
+Uncommon,Greenasaur,1736,"6,028",1540,103,Fire,Nature
+Uncommon,Sealion,1736,"6,028",1540,103,Fire,Water
+Uncommon,Shock Turtle,1540,"6,028",1736,103,Thunder,Water
+Uncommon,Flickie,1925,"5,041",1351,62,Fire,Dark
+Uncommon,Gigram,1736,"5,041",1736,103,Fire,Thunder
+Uncommon,Raydex,1351,"5,041",2121,103,Thunder,Magic
+Uncommon,Terror Dactyl,1736,"5,041",1736,62,Thunder,Dark
+Uncommon,Pyrook,1736,"4,932",1757,103,Fire,Magic
+Rare,Molem,1989,"14,479",1581,204,Earth,Nature
+Rare,Tarzape,1989,"14,479",1581,154,Earth,Nature
+Rare,Freettle,2295,"14,479",1530,154,Earth,Fire
+Rare,LaCroc,2142,"14,139",2133,102,Earth,Nature
+Rare,Trevor,2227,"14,139",2040,102,Earth,Nature
+Rare,Sludger,2286,"13,968",2244,154,Water,Earth
+Rare,Cristobal,2091,"13,968",2142,154,Water,Earth
+Rare,Crux,2286,"13,116",1938,128,Metal,Nature
+Rare,Boneticore,2193,"13,116",2201,204,Fire,Light
+Rare,Crushmore,2252,"13,116",2142,102,Earth,Nature
+Rare,Bonbon,1785,"12,946",2040,154,Thunder,Earth
+Rare,Nereida,2040,"12,946",2193,103,Magic,Nature
+Rare,Djinn,2295,"12,946",1530,154,Magic,Fire
+Rare,Zim,1632,"12,946",2303,103,Light,Magic
+Rare,Pulseprism,1632,"12,946",2295,103,Light,Thunder
+Rare,Raane,1785,"12,946",2040,103,Light,Water
+Rare,Rudicius,2040,"12,946",1785,103,Light,Nature
+Rare,Beefcake,2295,"12,946",1530,103,Dark,Earth
+Rare,Aurinia,2142,"12,435",2082,128,Metal,Light
+Rare,Slayentaur,2278,"12,435",2286,128,Light,Earth
+Rare,Vortux,2142,"11,583",2286,128,Metal,Dark
+Rare,Shanky,2346,"11,414",1734,103,Dark,Thunder
+Rare,Komocat,1938,"11,413",2142,154,Water,Nature
+Rare,Bumblesnout,2040,"11,413",2040,103,Water,Nature
+Rare,Octocrush,1793,"11,413",2286,154,Magic,Water
+Rare,Rhodent,2040,"11,243",2295,130,Thunder,Dark
+Rare,Dommeath,2040,"10,902",2295,128,Metal,Magic
+Rare,Gravoid,2244,"10,902",1887,128,Metal,Earth
+Rare,Dan Felino,2303,"10,902",2244,128,Light,Thunder
+Rare,Metaselach,2303,"10,391",2278,128,Metal,Water
+Rare,Koopigg,2040,"10,221",2295,154,Water,Thunder
+Rare,Vapwhirl,2295,"10,221",2040,154,Water,Fire
+Rare,Pandaken,2295,"10,221",2040,154,Nature,Fire
+Rare,Fornax,2312,"10,221",2031,128,Metal,Fire
+Rare,Sparkwedge,1785,"10,221",2550,154,Magic,Thunder
+Rare,Dendrosaur,2295,"10,221",2040,103,Dark,Nature
+Rare,Garuda M3,2303,"10,050",2286,128,Metal,Thunder
+Rare,Thundenix,2295,"8,517",2295,154,Thunder,Fire
+Rare,Firetaur,2448,"8,517",1785,103,Dark,Fire
+Rare,Haze,2337,"8,347",2295,103,Magic,Dark
+Rare,Thunderon,2261,"13,287",2184,103,Thunder,Nature
+Epic,Greygoyle,2600,"15,899",3120,142,Rock,Dark
+Epic,Rosanha,2860,"16,632",3070,142,Nature,Dark
+Epic,Volray,2280,"18,834",3060,224,Thunder,Water
+Epic,Darknubis,2080,"21,524",2990,142,Magic,Dark
+Epic,Erpham,1950,"20,057",2990,142,Nature,Magic
+Epic,Evaranae,2630,"20,301",2990,142,Nature,Dark
+Epic,Horus,2850,"23,237",2990,142,Magic,Dark
+Epic,Rodolph,2460,"17,855",2990,224,Magic,Thunder
+Epic,Wolfkami,2730,"14,431",2990,224,Thunder,Nature
+Epic,Goath'el,2700,"18,834",2980,142,Light,Thunder
+Epic,Griffex,2570,"13,697",2980,250,Thunder,Nature
+Epic,Mecharasu,2720,"20,057",2980,224,Metal,Thunder
+Epic,Punchie,2820,"19,323",2980,224,Dark,Magic
+Epic,Chordim,2650,"19,812",2960,224,Magic,Thunder
+Epic,Gold Ra,2870,"19,812",2960,224,Metal,Fire
+Epic,Aiden,2670,"18,345",2950,142,Water,Fire
+Epic,Duchess,2080,"20,057",2950,224,Magic,Earth
+Epic,Karasu,2670,"18,100",2950,224,Thunder,Dark
+Epic,Stoirm,2830,"19,078",2950,224,Thunder,Water
+Epic,Eburwin,2650,"21,280",2940,224,Metal,Light
+Epic,Firesque,2860,"18,100",2940,224,Dark,Fire
+Epic,Rockovan,2650,"20,301",2940,224,Earth,Fire
+Epic,MonsterFace,2860,"19,323",2930,224,Metal,Dark
+Epic,Pandafest,2600,"15,899",2930,142,Magic,Nature
+Epic,Pandalf,2600,"15,899",2930,142,Magic,Nature
+Epic,Pandaval,2600,"15,899",2930,142,Magic,Nature
+Epic,Pandaxplorer,2600,"15,899",2930,142,Magic,Nature
+Epic,Rabidex,2600,"15,899",2930,224,Thunder,Nature
+Epic,Rhynex,2280,"17,855",2930,224,Nature,Thunder
+Epic,Skeel Trooper,2830,"19,078",2930,224,Thunder,Dark
+Epic,Skuller,2650,"17,122",2930,224,Dark,Magic
+Epic,Squamata Jr.,2850,"18,834",2930,224,Metal,Earth
+Epic,Terracrank,1950,"20,057",2930,224,Earth,Magic
+Epic,Zomdalf,2600,"15,899",2930,142,Magic,Nature
+Epic,Haku,2890,"19,078",2910,224,Metal,Dark
+Epic,Ipug,2850,"18,100",2900,142,Metal,Thunder
+Epic,Xpug,2850,"18,100",2900,142,Metal,Thunder
+Epic,Van Rock,2770,"20,057",2890,224,Earth,Thunder
+Epic,Rascal,2700,"20,057",2870,224,Dark,Magic
+Epic,Rockham,2760,"19,323",2870,224,Earth,Magic
+Epic,Rockinho,2730,"19,323",2870,224,Earth,Thunder
+Epic,Esthirel,2340,"21,524",2860,142,Fire,Light
+Epic,Neandertaler,2860,"19,078",2860,224,Earth,Water
+Epic,Sasquach,2860,"19,078",2860,224,Earth,Nature
+Epic,Tao Tao,2730,"22,258",2860,142,Dark,Nature
+Epic,Seraphim,2780,"19,812",2859,114,Light,Dark
+Epic,Hydnora,2610,"15,654",2850,142,Magic,Nature
+Epic,Rockidson,2730,"19,812",2850,224,Earth,Thunder
+Epic,Rocksteiger,2740,"20,301",2850,224,Earth,Magic
+Epic,Ledovech,2810,"20,057",2830,224,Water,Rock
+Epic,Rockadona,2730,"19,078",2830,224,Earth,Magic
+Epic,Rockarito,2720,"19,078",2830,224,Earth,Magic
+Epic,Wisteria,2600,"19,323",2830,142,Dark,Magic
+Epic,Rhinoram,2870,"20,791",2820,224,Metal,Fire
+Epic,Dusty Fear,2340,"24,215",2800,142,Magic,Dark
+Epic,Hellborne,2770,"19,812",2800,224,Fire,Dark
+Epic,Master Fong,2770,"19,812",2800,224,Fire,Light
+Epic,Rockaggio,2760,"20,057",2800,224,Earth,Water
+Epic,Rootziel,2330,"19,078",2800,142,Light,Nature
+Epic,Teddy Fear,2340,"24,215",2800,142,Earth,Dark
+Epic,Bjarni,2760,"20,301",2780,142,Fire,Thunder
+Epic,Kal'Drekk,2760,"20,301",2780,142,Dark,Nature
+Epic,Rockamura,2770,"19,812",2770,224,Earth,Water
+Epic,Rockanne,2760,"19,812",2740,224,Earth,Water
+Epic,Drop Elemental,2080,"20,057",2730,142,Water,Magic
+Epic,Hyperion,2800,"20,301",2730,142,Metal,Thunder
+Epic,Rockiesta,2770,"19,078",2720,224,Earth,Fire
+Epic,Plethodon,2780,"22,258",2700,224,Fire,Earth
+Epic,Rock Li-Sun,2670,"18,834",2700,224,Earth,Fire
+Epic,Coldberus,2600,"18,834",2670,142,Dark,Water
+Epic,Freeza,2810,"20,057",2610,224,Water,Magic
+Epic,Arnu,2070,"18,345",2600,142,Nature,Water
+Epic,Fliploch,2860,"15,654",2600,142,Water,Dark
+Epic,Frank S. Tein,2590,"21,524",2600,142,Dark,Earth
+Epic,Medussha,2650,"16,143",2600,224,Light,Rock
+Epic,Pegasus,2600,"17,855",2600,142,Nature,Light
+Epic,Scorchpeg,2600,"17,855",2600,142,Fire,Light
+Epic,Kimmel's Gift,2720,"16,877",2570,142,Dark,Magic
+Epic,Cthulhu,2800,"20,301",2560,142,Dark,Water
+Epic,Freedom Feather,2800,"20,301",2560,224,Fire,Water
+Epic,Hellberus,2740,"19,323",2380,224,Dark,Fire
+Epic,Rock Druid,2630,"22,258",2350,224,Rock,Light
+Epic,w'Olftagnan,2630,"18,834",2350,114,Light,Dark
+Epic,Ao Loong,2540,"20,057",2340,224,Fire,Rock
+Epic,Drag Beast,2600,"21,524",2340,224,Rock,Nature
+Epic,Elder Sporeling,2670,"20,301",2340,224,Nature,Fire
+Epic,Musu,2540,"20,057",2340,224,Rock,Water
+Epic,Razfeesh,2860,"17,855",2340,142,Dark,Water
+Epic,Tartarus,2730,"22,992",2080,224,Earth,Magic
+Epic,Donaturtle,2340,"22,503",2050,142,Nature,Water
+Epic,Skipples,2860,"20,057",1990,142,Light,Fire
+Epic,Faymelina,2860,"20,057",1980,114,Light,Dark
+Epic,Goldcore,2280,"24,460",1950,142,Light,Earth
+Epic,Irockman,2860,"22,992",1950,224,Rock,Thunder
+Epic,Beetrat,2340,"22,503",2340,142,Magic,Nature
+Legendary,Lostyghost,2926,"33,779",3542,244,Dark,Legendary
+Legendary,Panda Claus,2464,"31,668",3542,244,Magic,Legendary
+Legendary,Cupid,2310,"25,334",3542,305,Magic,Legendary
+Legendary,Krampus,3124,"28,651",3531,244,Dark,Legendary
+Legendary,Thorder,2926,"21,112",3509,305,Thunder,Legendary
+Legendary,Queen Luthien,3223,"27,143",3476,244,Light,Legendary
+Legendary,Laomu,3047,"29,556",3476,305,Nature,Legendary
+Legendary,R.O.F.L,3322,"26,540",3476,305,Thunder,Legendary
+Legendary,Klectus,3509,"22,318",3465,244,Dark,Legendary
+Legendary,Lilysha,3146,"25,635",3465,244,Dark,Legendary
+Legendary,Noctum,3300,"27,144",3465,244,Dark,Legendary
+Legendary,Caillech,3146,"28,651",3465,244,Water,Legendary
+Legendary,Darmith,3509,"27,747",3465,305,Fire,Legendary
+Legendary,Annihilator R2,3575,"27,747",3465,305,Metal,Legendary
+Legendary,VoltaiK,3355,"24,429",3465,305,Thunder,Legendary
+Legendary,Oghma,3267,"29,255",3454,244,Light,Legendary
+Legendary,Cavenfish,3080,"28,651",3454,244,Water,Legendary
+Legendary,Raccoon,3399,"28,651",3454,305,Fire,Legendary
+Legendary,Greedy Dragon,3311,"28,651",3454,305,Fire,Legendary
+Legendary,Shannara,3454,"25,334",3454,305,Magic,Legendary
+Legendary,Ultrabot,3322,"28,652",3454,305,Metal,Legendary
+Legendary,Killeraptor,3553,"29,858",3432,305,Earth,Legendary
+Legendary,White Pandalf,3311,"29,255",3432,305,Magic,Legendary
+Legendary,Uria,3454,"29,858",3432,305,Thunder,Legendary
+Legendary,Dr. Hazard,3157,"30,461",3421,244,Dark,Legendary
+Legendary,Master Skeel,3355,"30,461",3421,244,Dark,Legendary
+Legendary,Mmonster,3311,"26,239",3421,244,Dark,Legendary
+Legendary,Thetys,3278,"26,540",3421,244,Water,Legendary
+Legendary,Qin,3432,"30,763",3421,305,Earth,Legendary
+Legendary,Pixelion,3278,"29,255",3421,305,Magic,Legendary
+Legendary,Reptie,3157,"26,540",3421,305,Magic,Legendary
+Legendary,Drazz,3542,"31,366",3421,305,Metal,Legendary
+Legendary,Metalhead,3542,"31,366",3421,305,Metal,Legendary
+Legendary,Akhenotep,3300,"29,556",3399,244,Dark,Legendary
+Legendary,Count Vlad,3344,"29,556",3399,244,Dark,Legendary
+Legendary,King Daeron,3454,"27,747",3399,244,Light,Legendary
+Legendary,Varuna,3311,"28,652",3399,244,Water,Legendary
+Legendary,Atum,3454,"31,969",3399,305,Earth,Legendary
+Legendary,Megaosteum,3575,"26,239",3399,305,Fire,Legendary
+Legendary,Barbatos,3467,"28,350",3388,244,Dark,Legendary
+Legendary,Nemestrinus,2772,"29,556",3388,244,Nature,Legendary
+Legendary,Lord Atlantis,2926,"26,540",3388,244,Water,Legendary
+Legendary,Deadwolf,3542,"27,143",3388,305,Earth,Legendary
+Legendary,Monster Clutch,3509,"32,572",3388,305,Magic,Legendary
+Legendary,Timerion,2310,"26,239",3388,305,Metal,Legendary
+Legendary,Thundhare,3003,"22,016",3388,305,Thunder,Legendary
+Legendary,Minotarus,3388,"31,366",3377,305,Earth,Legendary
+Legendary,Megapolaris,3509,"27,143",3377,305,Metal,Legendary
+Legendary,Exo Skeel,3531,"29,652",3377,305,Thunder,Legendary
+Legendary,Basthet,3278,"30,763",3355,305,Earth,Legendary
+Legendary,Ralbog,3465,"30,763",3344,305,Fire,Legendary
+Legendary,Layth,3498,"31,969",3311,244,Light,Legendary
+Legendary,Ingvar,3234,"31,366",3267,244,Light,Legendary
+Legendary,Cyan,3465,"29,858",3267,305,Nature,Legendary
+Legendary,Uriel,3047,"31,366",3245,244,Light,Legendary
+Legendary,Flirty,3201,"31,969",3245,305,Nature,Legendary
+Legendary,Darkzgul,3311,"19,000",3234,244,Dark,Legendary
+Legendary,Nebotus,2772,"25,032",3234,244,Dark,Legendary
+Legendary,Chocolove,3300,"28,651",3234,305,Magic,Legendary
+Legendary,Son-Cookie,3388,"25,636",3157,305,Magic,Legendary
+Legendary,CYMO,3322,"26,540",3157,305,Thunder,Legendary
+Legendary,Firelequin,2761,"29,255",3124,305,Fire,Legendary
+Legendary,Lord Mammoth,3465,"31,667",3091,244,Water,Legendary
+Legendary,The Firestorm,3575,"28,652",3091,305,Fire,Legendary
+Legendary,Sir Slumberly,3234,"22,016",3080,244,Dark,Legendary
+Legendary,Arch Knight,3080,"23,524",3080,244,Light,Legendary
+Legendary,Goldfield,2464,"32,572",3080,244,Magic,Legendary
+Legendary,White Walker,3080,"23,524",3080,244,Water,Legendary
+Legendary,Lord Moltus,3322,"25,334",3080,305,Fire,Legendary
+Legendary,Roastie,2937,"29,255",3080,305,Nature,Legendary
+Legendary,Vadamagma,3311,"25,032",3003,305,Fire,Legendary
+Legendary,Firus,2970,"29,858",2926,244,Nature,Legendary
+Legendary,Shi Hou,2926,"27,445",2926,305,Earth,Legendary
+Legendary,Lagerchaun,2937,"27,144",2783,244,Nature,Legendary
+Legendary,Ouros,3498,"40,112",2772,305,Earth,Legendary
+Legendary,Rockantium,3311,"32,572",2464,305,Earth,Legendary
+Legendary,Worker Hulk,3619,"26,540",2156,244,Magic,Legendary
