@@ -1,0 +1,2297 @@
+[
+   {
+      "type1" : "Earth",
+      "type2" : "Light",
+      "speed" : "875",
+      "gpm" : "62",
+      "power" : "875",
+      "name" : "Rockilla",
+      "life" : "3521"
+   },
+   {
+      "type1" : "Light",
+      "type2" : "Dark",
+      "speed" : "875",
+      "gpm" : "17",
+      "power" : "875",
+      "name" : "Light Spirit",
+      "life" : "3521"
+   },
+   {
+      "type1" : "Metal",
+      "type2" : "Water",
+      "speed" : "1000",
+      "gpm" : "32",
+      "power" : "1120",
+      "name" : "Metalsaur",
+      "life" : "2976"
+   },
+   {
+      "type1" : "Water",
+      "type2" : "Light",
+      "speed" : "1000",
+      "gpm" : "32",
+      "power" : "1125",
+      "name" : "Mersnake",
+      "life" : "2777"
+   },
+   {
+      "type1" : "Nature",
+      "type2" : "Earth",
+      "speed" : "100",
+      "gpm" : "32",
+      "power" : "1125",
+      "name" : "Treezard",
+      "life" : "2777"
+   },
+   {
+      "type1" : "Thunder",
+      "type2" : "Light",
+      "speed" : "1250",
+      "gpm" : "62",
+      "power" : "875",
+      "name" : "Thunder Eagle",
+      "life" : "2480"
+   },
+   {
+      "type1" : "Fire",
+      "type2" : "Thunder",
+      "speed" : "875",
+      "gpm" : "62",
+      "power" : "1375",
+      "name" : "Firesaur",
+      "life" : "2480"
+   },
+   {
+      "type1" : "Magic",
+      "type2" : "Earth",
+      "speed" : "1250",
+      "gpm" : "32",
+      "power" : "950",
+      "name" : "Genie",
+      "life" : "2480"
+   },
+   {
+      "type1" : "Dark",
+      "type2" : "Light",
+      "speed" : "875",
+      "gpm" : "17",
+      "power" : "1150",
+      "name" : "Tyrannoking",
+      "life" : "2480"
+   },
+   {
+      "type1" : "Earth",
+      "type2" : "Light",
+      "speed" : "1232",
+      "gpm" : "62",
+      "power" : "1351",
+      "name" : "Light Sphinx",
+      "life" : "9,316"
+   },
+   {
+      "type1" : "Metal",
+      "type2" : "Dark",
+      "speed" : "1505",
+      "gpm" : "82",
+      "power" : "1463",
+      "name" : "Omethyst",
+      "life" : "8,000"
+   },
+   {
+      "type1" : "Metal",
+      "type2" : "Water",
+      "speed" : "1549",
+      "gpm" : "82",
+      "power" : "1722",
+      "name" : "Metanephrops",
+      "life" : "7,891"
+   },
+   {
+      "type1" : "Metal",
+      "type2" : "Light",
+      "speed" : "1568",
+      "gpm" : "82",
+      "power" : "1540",
+      "name" : "Heimdal",
+      "life" : "7,672"
+   },
+   {
+      "type1" : "Metal",
+      "type2" : "Earth",
+      "speed" : "1582",
+      "gpm" : "82",
+      "power" : "1351",
+      "name" : "Rockneto",
+      "life" : "7,672"
+   },
+   {
+      "type1" : "Water",
+      "type2" : "Light",
+      "speed" : "1463",
+      "gpm" : "62",
+      "power" : "1428",
+      "name" : "Blesstle",
+      "life" : "7,562"
+   },
+   {
+      "type1" : "Earth",
+      "type2" : "Thunder",
+      "speed" : "1736",
+      "gpm" : "103",
+      "power" : "1309",
+      "name" : "Electrex",
+      "life" : "7,562"
+   },
+   {
+      "type1" : "Fire",
+      "type2" : "Earth",
+      "speed" : "1232",
+      "gpm" : "103",
+      "power" : "1771",
+      "name" : "Firekong",
+      "life" : "7,562"
+   },
+   {
+      "type1" : "Magic",
+      "type2" : "Light",
+      "speed" : "1771",
+      "gpm" : "62",
+      "power" : "1309",
+      "name" : "Flawless",
+      "life" : "7,562"
+   },
+   {
+      "type1" : "Earth",
+      "type2" : "Water",
+      "speed" : "1540",
+      "gpm" : "103",
+      "power" : "1351",
+      "name" : "Gastosquish",
+      "life" : "7,562"
+   },
+   {
+      "type1" : "Dark",
+      "type2" : "Magic",
+      "speed" : "1232",
+      "gpm" : "62",
+      "power" : "1715",
+      "name" : "Giragast",
+      "life" : "7,562"
+   },
+   {
+      "type1" : "Thunder",
+      "type2" : "Light",
+      "speed" : "1736",
+      "gpm" : "62",
+      "power" : "1309",
+      "name" : "Peltiwirl",
+      "life" : "7,562"
+   },
+   {
+      "type1" : "Nature",
+      "type2" : "Earth",
+      "speed" : "1540",
+      "gpm" : "103",
+      "power" : "1351",
+      "name" : "Rarawr",
+      "life" : "7,562"
+   },
+   {
+      "type1" : "Dark",
+      "type2" : "Light",
+      "speed" : "1232",
+      "gpm" : "42",
+      "power" : "1736",
+      "name" : "Succuba",
+      "life" : "7,562"
+   },
+   {
+      "type1" : "Nature",
+      "type2" : "Light",
+      "speed" : "1351",
+      "gpm" : "62",
+      "power" : "1540",
+      "name" : "Vixsun",
+      "life" : "7,562"
+   },
+   {
+      "type1" : "Metal",
+      "type2" : "Nature",
+      "speed" : "1549",
+      "gpm" : "82",
+      "power" : "1617",
+      "name" : "Jonskeer",
+      "life" : "7,343"
+   },
+   {
+      "type1" : "Nature",
+      "type2" : "Magic",
+      "speed" : "1743",
+      "gpm" : "62",
+      "power" : "1337",
+      "name" : "Bloomskips",
+      "life" : "6,795"
+   },
+   {
+      "type1" : "Water",
+      "type2" : "Magic",
+      "speed" : "1736",
+      "gpm" : "62",
+      "power" : "1351",
+      "name" : "Dolphchamp",
+      "life" : "6,795"
+   },
+   {
+      "type1" : "Earth",
+      "type2" : "Dark",
+      "speed" : "1540",
+      "gpm" : "62",
+      "power" : "1540",
+      "name" : "Obsidia",
+      "life" : "6,795"
+   },
+   {
+      "type1" : "Nature",
+      "type2" : "Water",
+      "speed" : "1540",
+      "gpm" : "62",
+      "power" : "1540",
+      "name" : "Sheluke",
+      "life" : "6,795"
+   },
+   {
+      "type1" : "Nature",
+      "type2" : "Dark",
+      "speed" : "1386",
+      "gpm" : "62",
+      "power" : "1694",
+      "name" : "Utochomp",
+      "life" : "6,795"
+   },
+   {
+      "type1" : "Metal",
+      "type2" : "Fire",
+      "speed" : "1582",
+      "gpm" : "82",
+      "power" : "1463",
+      "name" : "Esmelter",
+      "life" : "6,466"
+   },
+   {
+      "type1" : "Metal",
+      "type2" : "Thunder",
+      "speed" : "1722",
+      "gpm" : "82",
+      "power" : "1813",
+      "name" : "Lesaki",
+      "life" : "6,137"
+   },
+   {
+      "type1" : "Metal",
+      "type2" : "Magic",
+      "speed" : "1540",
+      "gpm" : "82",
+      "power" : "1799",
+      "name" : "Manolyth",
+      "life" : "6,137"
+   },
+   {
+      "type1" : "Fire",
+      "type2" : "Nature",
+      "speed" : "1540",
+      "gpm" : "103",
+      "power" : "1736",
+      "name" : "Firanda",
+      "life" : "6,028"
+   },
+   {
+      "type1" : "Fire",
+      "type2" : "Nature",
+      "speed" : "1540",
+      "gpm" : "103",
+      "power" : "1736",
+      "name" : "Greenasaur",
+      "life" : "6,028"
+   },
+   {
+      "type1" : "Fire",
+      "type2" : "Water",
+      "speed" : "1540",
+      "gpm" : "103",
+      "power" : "1736",
+      "name" : "Sealion",
+      "life" : "6,028"
+   },
+   {
+      "type1" : "Thunder",
+      "type2" : "Water",
+      "speed" : "1736",
+      "gpm" : "103",
+      "power" : "1540",
+      "name" : "Shock Turtle",
+      "life" : "6,028"
+   },
+   {
+      "type1" : "Fire",
+      "type2" : "Dark",
+      "speed" : "1351",
+      "gpm" : "62",
+      "power" : "1925",
+      "name" : "Flickie",
+      "life" : "5,041"
+   },
+   {
+      "type1" : "Fire",
+      "type2" : "Thunder",
+      "speed" : "1736",
+      "gpm" : "103",
+      "power" : "1736",
+      "name" : "Gigram",
+      "life" : "5,041"
+   },
+   {
+      "type1" : "Thunder",
+      "type2" : "Magic",
+      "speed" : "2121",
+      "gpm" : "103",
+      "power" : "1351",
+      "name" : "Raydex",
+      "life" : "5,041"
+   },
+   {
+      "type1" : "Thunder",
+      "type2" : "Dark",
+      "speed" : "1736",
+      "gpm" : "62",
+      "power" : "1736",
+      "name" : "Terror Dactyl",
+      "life" : "5,041"
+   },
+   {
+      "type1" : "Fire",
+      "type2" : "Magic",
+      "speed" : "1757",
+      "gpm" : "103",
+      "power" : "1736",
+      "name" : "Pyrook",
+      "life" : "4,932"
+   },
+   {
+      "type1" : "Earth",
+      "type2" : "Nature",
+      "speed" : "1581",
+      "gpm" : "204",
+      "power" : "1989",
+      "name" : "Molem",
+      "life" : "14,479"
+   },
+   {
+      "type1" : "Earth",
+      "type2" : "Nature",
+      "speed" : "1581",
+      "gpm" : "154",
+      "power" : "1989",
+      "name" : "Tarzape",
+      "life" : "14,479"
+   },
+   {
+      "type1" : "Earth",
+      "type2" : "Fire",
+      "speed" : "1530",
+      "gpm" : "154",
+      "power" : "2295",
+      "name" : "Freettle",
+      "life" : "14,479"
+   },
+   {
+      "type1" : "Earth",
+      "type2" : "Nature",
+      "speed" : "2133",
+      "gpm" : "102",
+      "power" : "2142",
+      "name" : "LaCroc",
+      "life" : "14,139"
+   },
+   {
+      "type1" : "Earth",
+      "type2" : "Nature",
+      "speed" : "2040",
+      "gpm" : "102",
+      "power" : "2227",
+      "name" : "Trevor",
+      "life" : "14,139"
+   },
+   {
+      "type1" : "Water",
+      "type2" : "Earth",
+      "speed" : "2244",
+      "gpm" : "154",
+      "power" : "2286",
+      "name" : "Sludger",
+      "life" : "13,968"
+   },
+   {
+      "type1" : "Water",
+      "type2" : "Earth",
+      "speed" : "2142",
+      "gpm" : "154",
+      "power" : "2091",
+      "name" : "Cristobal",
+      "life" : "13,968"
+   },
+   {
+      "type1" : "Metal",
+      "type2" : "Nature",
+      "speed" : "1938",
+      "gpm" : "128",
+      "power" : "2286",
+      "name" : "Crux",
+      "life" : "13,116"
+   },
+   {
+      "type1" : "Fire",
+      "type2" : "Light",
+      "speed" : "2201",
+      "gpm" : "204",
+      "power" : "2193",
+      "name" : "Boneticore",
+      "life" : "13,116"
+   },
+   {
+      "type1" : "Earth",
+      "type2" : "Nature",
+      "speed" : "2142",
+      "gpm" : "102",
+      "power" : "2252",
+      "name" : "Crushmore",
+      "life" : "13,116"
+   },
+   {
+      "type1" : "Thunder",
+      "type2" : "Earth",
+      "speed" : "2040",
+      "gpm" : "154",
+      "power" : "1785",
+      "name" : "Bonbon",
+      "life" : "12,946"
+   },
+   {
+      "type1" : "Magic",
+      "type2" : "Nature",
+      "speed" : "2193",
+      "gpm" : "103",
+      "power" : "2040",
+      "name" : "Nereida",
+      "life" : "12,946"
+   },
+   {
+      "type1" : "Magic",
+      "type2" : "Fire",
+      "speed" : "1530",
+      "gpm" : "154",
+      "power" : "2295",
+      "name" : "Djinn",
+      "life" : "12,946"
+   },
+   {
+      "type1" : "Light",
+      "type2" : "Magic",
+      "speed" : "2303",
+      "gpm" : "103",
+      "power" : "1632",
+      "name" : "Zim",
+      "life" : "12,946"
+   },
+   {
+      "type1" : "Light",
+      "type2" : "Thunder",
+      "speed" : "2295",
+      "gpm" : "103",
+      "power" : "1632",
+      "name" : "Pulseprism",
+      "life" : "12,946"
+   },
+   {
+      "type1" : "Light",
+      "type2" : "Water",
+      "speed" : "2040",
+      "gpm" : "103",
+      "power" : "1785",
+      "name" : "Raane",
+      "life" : "12,946"
+   },
+   {
+      "type1" : "Light",
+      "type2" : "Nature",
+      "speed" : "1785",
+      "gpm" : "103",
+      "power" : "2040",
+      "name" : "Rudicius",
+      "life" : "12,946"
+   },
+   {
+      "type1" : "Dark",
+      "type2" : "Earth",
+      "speed" : "1530",
+      "gpm" : "103",
+      "power" : "2295",
+      "name" : "Beefcake",
+      "life" : "12,946"
+   },
+   {
+      "type1" : "Metal",
+      "type2" : "Light",
+      "speed" : "2082",
+      "gpm" : "128",
+      "power" : "2142",
+      "name" : "Aurinia",
+      "life" : "12,435"
+   },
+   {
+      "type1" : "Light",
+      "type2" : "Earth",
+      "speed" : "2286",
+      "gpm" : "128",
+      "power" : "2278",
+      "name" : "Slayentaur",
+      "life" : "12,435"
+   },
+   {
+      "type1" : "Metal",
+      "type2" : "Dark",
+      "speed" : "2286",
+      "gpm" : "128",
+      "power" : "2142",
+      "name" : "Vortux",
+      "life" : "11,583"
+   },
+   {
+      "type1" : "Dark",
+      "type2" : "Thunder",
+      "speed" : "1734",
+      "gpm" : "103",
+      "power" : "2346",
+      "name" : "Shanky",
+      "life" : "11,414"
+   },
+   {
+      "type1" : "Water",
+      "type2" : "Nature",
+      "speed" : "2142",
+      "gpm" : "154",
+      "power" : "1938",
+      "name" : "Komocat",
+      "life" : "11,413"
+   },
+   {
+      "type1" : "Water",
+      "type2" : "Nature",
+      "speed" : "2040",
+      "gpm" : "103",
+      "power" : "2040",
+      "name" : "Bumblesnout",
+      "life" : "11,413"
+   },
+   {
+      "type1" : "Magic",
+      "type2" : "Water",
+      "speed" : "2286",
+      "gpm" : "154",
+      "power" : "1793",
+      "name" : "Octocrush",
+      "life" : "11,413"
+   },
+   {
+      "type1" : "Thunder",
+      "type2" : "Dark",
+      "speed" : "2295",
+      "gpm" : "130",
+      "power" : "2040",
+      "name" : "Rhodent",
+      "life" : "11,243"
+   },
+   {
+      "type1" : "Metal",
+      "type2" : "Magic",
+      "speed" : "2295",
+      "gpm" : "128",
+      "power" : "2040",
+      "name" : "Dommeath",
+      "life" : "10,902"
+   },
+   {
+      "type1" : "Metal",
+      "type2" : "Earth",
+      "speed" : "1887",
+      "gpm" : "128",
+      "power" : "2244",
+      "name" : "Gravoid",
+      "life" : "10,902"
+   },
+   {
+      "type1" : "Light",
+      "type2" : "Thunder",
+      "speed" : "2244",
+      "gpm" : "128",
+      "power" : "2303",
+      "name" : "Dan Felino",
+      "life" : "10,902"
+   },
+   {
+      "type1" : "Metal",
+      "type2" : "Water",
+      "speed" : "2278",
+      "gpm" : "128",
+      "power" : "2303",
+      "name" : "Metaselach",
+      "life" : "10,391"
+   },
+   {
+      "type1" : "Water",
+      "type2" : "Thunder",
+      "speed" : "2295",
+      "gpm" : "154",
+      "power" : "2040",
+      "name" : "Koopigg",
+      "life" : "10,221"
+   },
+   {
+      "type1" : "Water",
+      "type2" : "Fire",
+      "speed" : "2040",
+      "gpm" : "154",
+      "power" : "2295",
+      "name" : "Vapwhirl",
+      "life" : "10,221"
+   },
+   {
+      "type1" : "Nature",
+      "type2" : "Fire",
+      "speed" : "2040",
+      "gpm" : "154",
+      "power" : "2295",
+      "name" : "Pandaken",
+      "life" : "10,221"
+   },
+   {
+      "type1" : "Metal",
+      "type2" : "Fire",
+      "speed" : "2031",
+      "gpm" : "128",
+      "power" : "2312",
+      "name" : "Fornax",
+      "life" : "10,221"
+   },
+   {
+      "type1" : "Magic",
+      "type2" : "Thunder",
+      "speed" : "2550",
+      "gpm" : "154",
+      "power" : "1785",
+      "name" : "Sparkwedge",
+      "life" : "10,221"
+   },
+   {
+      "type1" : "Dark",
+      "type2" : "Nature",
+      "speed" : "2040",
+      "gpm" : "103",
+      "power" : "2295",
+      "name" : "Dendrosaur",
+      "life" : "10,221"
+   },
+   {
+      "type1" : "Metal",
+      "type2" : "Thunder",
+      "speed" : "2286",
+      "gpm" : "128",
+      "power" : "2303",
+      "name" : "Garuda M3",
+      "life" : "10,050"
+   },
+   {
+      "type1" : "Thunder",
+      "type2" : "Fire",
+      "speed" : "2295",
+      "gpm" : "154",
+      "power" : "2295",
+      "name" : "Thundenix",
+      "life" : "8,517"
+   },
+   {
+      "type1" : "Dark",
+      "type2" : "Fire",
+      "speed" : "1785",
+      "gpm" : "103",
+      "power" : "2448",
+      "name" : "Firetaur",
+      "life" : "8,517"
+   },
+   {
+      "type1" : "Magic",
+      "type2" : "Dark",
+      "speed" : "2295",
+      "gpm" : "103",
+      "power" : "2337",
+      "name" : "Haze",
+      "life" : "8,347"
+   },
+   {
+      "type1" : "Thunder",
+      "type2" : "Nature",
+      "speed" : "2184",
+      "gpm" : "103",
+      "power" : "2261",
+      "name" : "Thunderon",
+      "life" : "13,287"
+   },
+   {
+      "type1" : "Rock",
+      "type2" : "Dark",
+      "speed" : "3120",
+      "gpm" : "142",
+      "power" : "2600",
+      "name" : "Greygoyle",
+      "life" : "15,899"
+   },
+   {
+      "type1" : "Nature",
+      "type2" : "Dark",
+      "speed" : "3070",
+      "gpm" : "142",
+      "power" : "2860",
+      "name" : "Rosanha",
+      "life" : "16,632"
+   },
+   {
+      "type1" : "Thunder",
+      "type2" : "Water",
+      "speed" : "3060",
+      "gpm" : "224",
+      "power" : "2280",
+      "name" : "Volray",
+      "life" : "18,834"
+   },
+   {
+      "type1" : "Magic",
+      "type2" : "Dark",
+      "speed" : "2990",
+      "gpm" : "142",
+      "power" : "2080",
+      "name" : "Darknubis",
+      "life" : "21,524"
+   },
+   {
+      "type1" : "Nature",
+      "type2" : "Magic",
+      "speed" : "2990",
+      "gpm" : "142",
+      "power" : "1950",
+      "name" : "Erpham",
+      "life" : "20,057"
+   },
+   {
+      "type1" : "Nature",
+      "type2" : "Dark",
+      "speed" : "2990",
+      "gpm" : "142",
+      "power" : "2630",
+      "name" : "Evaranae",
+      "life" : "20,301"
+   },
+   {
+      "type1" : "Magic",
+      "type2" : "Dark",
+      "speed" : "2990",
+      "gpm" : "142",
+      "power" : "2850",
+      "name" : "Horus",
+      "life" : "23,237"
+   },
+   {
+      "type1" : "Magic",
+      "type2" : "Thunder",
+      "speed" : "2990",
+      "gpm" : "224",
+      "power" : "2460",
+      "name" : "Rodolph",
+      "life" : "17,855"
+   },
+   {
+      "type1" : "Thunder",
+      "type2" : "Nature",
+      "speed" : "2990",
+      "gpm" : "224",
+      "power" : "2730",
+      "name" : "Wolfkami",
+      "life" : "14,431"
+   },
+   {
+      "type1" : "Light",
+      "type2" : "Thunder",
+      "speed" : "2980",
+      "gpm" : "142",
+      "power" : "2700",
+      "name" : "Goath'el",
+      "life" : "18,834"
+   },
+   {
+      "type1" : "Thunder",
+      "type2" : "Nature",
+      "speed" : "2980",
+      "gpm" : "250",
+      "power" : "2570",
+      "name" : "Griffex",
+      "life" : "13,697"
+   },
+   {
+      "type1" : "Metal",
+      "type2" : "Thunder",
+      "speed" : "2980",
+      "gpm" : "224",
+      "power" : "2720",
+      "name" : "Mecharasu",
+      "life" : "20,057"
+   },
+   {
+      "type1" : "Dark",
+      "type2" : "Magic",
+      "speed" : "2980",
+      "gpm" : "224",
+      "power" : "2820",
+      "name" : "Punchie",
+      "life" : "19,323"
+   },
+   {
+      "type1" : "Magic",
+      "type2" : "Thunder",
+      "speed" : "2960",
+      "gpm" : "224",
+      "power" : "2650",
+      "name" : "Chordim",
+      "life" : "19,812"
+   },
+   {
+      "type1" : "Metal",
+      "type2" : "Fire",
+      "speed" : "2960",
+      "gpm" : "224",
+      "power" : "2870",
+      "name" : "Gold Ra",
+      "life" : "19,812"
+   },
+   {
+      "type1" : "Water",
+      "type2" : "Fire",
+      "speed" : "2950",
+      "gpm" : "142",
+      "power" : "2670",
+      "name" : "Aiden",
+      "life" : "18,345"
+   },
+   {
+      "type1" : "Magic",
+      "type2" : "Earth",
+      "speed" : "2950",
+      "gpm" : "224",
+      "power" : "2080",
+      "name" : "Duchess",
+      "life" : "20,057"
+   },
+   {
+      "type1" : "Thunder",
+      "type2" : "Dark",
+      "speed" : "2950",
+      "gpm" : "224",
+      "power" : "2670",
+      "name" : "Karasu",
+      "life" : "18,100"
+   },
+   {
+      "type1" : "Thunder",
+      "type2" : "Water",
+      "speed" : "2950",
+      "gpm" : "224",
+      "power" : "2830",
+      "name" : "Stoirm",
+      "life" : "19,078"
+   },
+   {
+      "type1" : "Metal",
+      "type2" : "Light",
+      "speed" : "2940",
+      "gpm" : "224",
+      "power" : "2650",
+      "name" : "Eburwin",
+      "life" : "21,280"
+   },
+   {
+      "type1" : "Dark",
+      "type2" : "Fire",
+      "speed" : "2940",
+      "gpm" : "224",
+      "power" : "2860",
+      "name" : "Firesque",
+      "life" : "18,100"
+   },
+   {
+      "type1" : "Earth",
+      "type2" : "Fire",
+      "speed" : "2940",
+      "gpm" : "224",
+      "power" : "2650",
+      "name" : "Rockovan",
+      "life" : "20,301"
+   },
+   {
+      "type1" : "Metal",
+      "type2" : "Dark",
+      "speed" : "2930",
+      "gpm" : "224",
+      "power" : "2860",
+      "name" : "MonsterFace",
+      "life" : "19,323"
+   },
+   {
+      "type1" : "Magic",
+      "type2" : "Nature",
+      "speed" : "2930",
+      "gpm" : "142",
+      "power" : "2600",
+      "name" : "Pandafest",
+      "life" : "15,899"
+   },
+   {
+      "type1" : "Magic",
+      "type2" : "Nature",
+      "speed" : "2930",
+      "gpm" : "142",
+      "power" : "2600",
+      "name" : "Pandalf",
+      "life" : "15,899"
+   },
+   {
+      "type1" : "Magic",
+      "type2" : "Nature",
+      "speed" : "2930",
+      "gpm" : "142",
+      "power" : "2600",
+      "name" : "Pandaval",
+      "life" : "15,899"
+   },
+   {
+      "type1" : "Magic",
+      "type2" : "Nature",
+      "speed" : "2930",
+      "gpm" : "142",
+      "power" : "2600",
+      "name" : "Pandaxplorer",
+      "life" : "15,899"
+   },
+   {
+      "type1" : "Thunder",
+      "type2" : "Nature",
+      "speed" : "2930",
+      "gpm" : "224",
+      "power" : "2600",
+      "name" : "Rabidex",
+      "life" : "15,899"
+   },
+   {
+      "type1" : "Nature",
+      "type2" : "Thunder",
+      "speed" : "2930",
+      "gpm" : "224",
+      "power" : "2280",
+      "name" : "Rhynex",
+      "life" : "17,855"
+   },
+   {
+      "type1" : "Thunder",
+      "type2" : "Dark",
+      "speed" : "2930",
+      "gpm" : "224",
+      "power" : "2830",
+      "name" : "Skeel Trooper",
+      "life" : "19,078"
+   },
+   {
+      "type1" : "Dark",
+      "type2" : "Magic",
+      "speed" : "2930",
+      "gpm" : "224",
+      "power" : "2650",
+      "name" : "Skuller",
+      "life" : "17,122"
+   },
+   {
+      "type1" : "Metal",
+      "type2" : "Earth",
+      "speed" : "2930",
+      "gpm" : "224",
+      "power" : "2850",
+      "name" : "Squamata Jr.",
+      "life" : "18,834"
+   },
+   {
+      "type1" : "Earth",
+      "type2" : "Magic",
+      "speed" : "2930",
+      "gpm" : "224",
+      "power" : "1950",
+      "name" : "Terracrank",
+      "life" : "20,057"
+   },
+   {
+      "type1" : "Magic",
+      "type2" : "Nature",
+      "speed" : "2930",
+      "gpm" : "142",
+      "power" : "2600",
+      "name" : "Zomdalf",
+      "life" : "15,899"
+   },
+   {
+      "type1" : "Metal",
+      "type2" : "Dark",
+      "speed" : "2910",
+      "gpm" : "224",
+      "power" : "2890",
+      "name" : "Haku",
+      "life" : "19,078"
+   },
+   {
+      "type1" : "Metal",
+      "type2" : "Thunder",
+      "speed" : "2900",
+      "gpm" : "142",
+      "power" : "2850",
+      "name" : "Ipug",
+      "life" : "18,100"
+   },
+   {
+      "type1" : "Metal",
+      "type2" : "Thunder",
+      "speed" : "2900",
+      "gpm" : "142",
+      "power" : "2850",
+      "name" : "Xpug",
+      "life" : "18,100"
+   },
+   {
+      "type1" : "Earth",
+      "type2" : "Thunder",
+      "speed" : "2890",
+      "gpm" : "224",
+      "power" : "2770",
+      "name" : "Van Rock",
+      "life" : "20,057"
+   },
+   {
+      "type1" : "Dark",
+      "type2" : "Magic",
+      "speed" : "2870",
+      "gpm" : "224",
+      "power" : "2700",
+      "name" : "Rascal",
+      "life" : "20,057"
+   },
+   {
+      "type1" : "Earth",
+      "type2" : "Magic",
+      "speed" : "2870",
+      "gpm" : "224",
+      "power" : "2760",
+      "name" : "Rockham",
+      "life" : "19,323"
+   },
+   {
+      "type1" : "Earth",
+      "type2" : "Thunder",
+      "speed" : "2870",
+      "gpm" : "224",
+      "power" : "2730",
+      "name" : "Rockinho",
+      "life" : "19,323"
+   },
+   {
+      "type1" : "Fire",
+      "type2" : "Light",
+      "speed" : "2860",
+      "gpm" : "142",
+      "power" : "2340",
+      "name" : "Esthirel",
+      "life" : "21,524"
+   },
+   {
+      "type1" : "Earth",
+      "type2" : "Water",
+      "speed" : "2860",
+      "gpm" : "224",
+      "power" : "2860",
+      "name" : "Neandertaler",
+      "life" : "19,078"
+   },
+   {
+      "type1" : "Earth",
+      "type2" : "Nature",
+      "speed" : "2860",
+      "gpm" : "224",
+      "power" : "2860",
+      "name" : "Sasquach",
+      "life" : "19,078"
+   },
+   {
+      "type1" : "Dark",
+      "type2" : "Nature",
+      "speed" : "2860",
+      "gpm" : "142",
+      "power" : "2730",
+      "name" : "Tao Tao",
+      "life" : "22,258"
+   },
+   {
+      "type1" : "Light",
+      "type2" : "Dark",
+      "speed" : "2859",
+      "gpm" : "114",
+      "power" : "2780",
+      "name" : "Seraphim",
+      "life" : "19,812"
+   },
+   {
+      "type1" : "Magic",
+      "type2" : "Nature",
+      "speed" : "2850",
+      "gpm" : "142",
+      "power" : "2610",
+      "name" : "Hydnora",
+      "life" : "15,654"
+   },
+   {
+      "type1" : "Earth",
+      "type2" : "Thunder",
+      "speed" : "2850",
+      "gpm" : "224",
+      "power" : "2730",
+      "name" : "Rockidson",
+      "life" : "19,812"
+   },
+   {
+      "type1" : "Earth",
+      "type2" : "Magic",
+      "speed" : "2850",
+      "gpm" : "224",
+      "power" : "2740",
+      "name" : "Rocksteiger",
+      "life" : "20,301"
+   },
+   {
+      "type1" : "Water",
+      "type2" : "Rock",
+      "speed" : "2830",
+      "gpm" : "224",
+      "power" : "2810",
+      "name" : "Ledovech",
+      "life" : "20,057"
+   },
+   {
+      "type1" : "Earth",
+      "type2" : "Magic",
+      "speed" : "2830",
+      "gpm" : "224",
+      "power" : "2730",
+      "name" : "Rockadona",
+      "life" : "19,078"
+   },
+   {
+      "type1" : "Earth",
+      "type2" : "Magic",
+      "speed" : "2830",
+      "gpm" : "224",
+      "power" : "2720",
+      "name" : "Rockarito",
+      "life" : "19,078"
+   },
+   {
+      "type1" : "Dark",
+      "type2" : "Magic",
+      "speed" : "2830",
+      "gpm" : "142",
+      "power" : "2600",
+      "name" : "Wisteria",
+      "life" : "19,323"
+   },
+   {
+      "type1" : "Metal",
+      "type2" : "Fire",
+      "speed" : "2820",
+      "gpm" : "224",
+      "power" : "2870",
+      "name" : "Rhinoram",
+      "life" : "20,791"
+   },
+   {
+      "type1" : "Magic",
+      "type2" : "Dark",
+      "speed" : "2800",
+      "gpm" : "142",
+      "power" : "2340",
+      "name" : "Dusty Fear",
+      "life" : "24,215"
+   },
+   {
+      "type1" : "Fire",
+      "type2" : "Dark",
+      "speed" : "2800",
+      "gpm" : "224",
+      "power" : "2770",
+      "name" : "Hellborne",
+      "life" : "19,812"
+   },
+   {
+      "type1" : "Fire",
+      "type2" : "Light",
+      "speed" : "2800",
+      "gpm" : "224",
+      "power" : "2770",
+      "name" : "Master Fong",
+      "life" : "19,812"
+   },
+   {
+      "type1" : "Earth",
+      "type2" : "Water",
+      "speed" : "2800",
+      "gpm" : "224",
+      "power" : "2760",
+      "name" : "Rockaggio",
+      "life" : "20,057"
+   },
+   {
+      "type1" : "Light",
+      "type2" : "Nature",
+      "speed" : "2800",
+      "gpm" : "142",
+      "power" : "2330",
+      "name" : "Rootziel",
+      "life" : "19,078"
+   },
+   {
+      "type1" : "Earth",
+      "type2" : "Dark",
+      "speed" : "2800",
+      "gpm" : "142",
+      "power" : "2340",
+      "name" : "Teddy Fear",
+      "life" : "24,215"
+   },
+   {
+      "type1" : "Fire",
+      "type2" : "Thunder",
+      "speed" : "2780",
+      "gpm" : "142",
+      "power" : "2760",
+      "name" : "Bjarni",
+      "life" : "20,301"
+   },
+   {
+      "type1" : "Dark",
+      "type2" : "Nature",
+      "speed" : "2780",
+      "gpm" : "142",
+      "power" : "2760",
+      "name" : "Kal'Drekk",
+      "life" : "20,301"
+   },
+   {
+      "type1" : "Earth",
+      "type2" : "Water",
+      "speed" : "2770",
+      "gpm" : "224",
+      "power" : "2770",
+      "name" : "Rockamura",
+      "life" : "19,812"
+   },
+   {
+      "type1" : "Earth",
+      "type2" : "Water",
+      "speed" : "2740",
+      "gpm" : "224",
+      "power" : "2760",
+      "name" : "Rockanne",
+      "life" : "19,812"
+   },
+   {
+      "type1" : "Water",
+      "type2" : "Magic",
+      "speed" : "2730",
+      "gpm" : "142",
+      "power" : "2080",
+      "name" : "Drop Elemental",
+      "life" : "20,057"
+   },
+   {
+      "type1" : "Metal",
+      "type2" : "Thunder",
+      "speed" : "2730",
+      "gpm" : "142",
+      "power" : "2800",
+      "name" : "Hyperion",
+      "life" : "20,301"
+   },
+   {
+      "type1" : "Earth",
+      "type2" : "Fire",
+      "speed" : "2720",
+      "gpm" : "224",
+      "power" : "2770",
+      "name" : "Rockiesta",
+      "life" : "19,078"
+   },
+   {
+      "type1" : "Fire",
+      "type2" : "Earth",
+      "speed" : "2700",
+      "gpm" : "224",
+      "power" : "2780",
+      "name" : "Plethodon",
+      "life" : "22,258"
+   },
+   {
+      "type1" : "Earth",
+      "type2" : "Fire",
+      "speed" : "2700",
+      "gpm" : "224",
+      "power" : "2670",
+      "name" : "Rock Li-Sun",
+      "life" : "18,834"
+   },
+   {
+      "type1" : "Dark",
+      "type2" : "Water",
+      "speed" : "2670",
+      "gpm" : "142",
+      "power" : "2600",
+      "name" : "Coldberus",
+      "life" : "18,834"
+   },
+   {
+      "type1" : "Water",
+      "type2" : "Magic",
+      "speed" : "2610",
+      "gpm" : "224",
+      "power" : "2810",
+      "name" : "Freeza",
+      "life" : "20,057"
+   },
+   {
+      "type1" : "Nature",
+      "type2" : "Water",
+      "speed" : "2600",
+      "gpm" : "142",
+      "power" : "2070",
+      "name" : "Arnu",
+      "life" : "18,345"
+   },
+   {
+      "type1" : "Water",
+      "type2" : "Dark",
+      "speed" : "2600",
+      "gpm" : "142",
+      "power" : "2860",
+      "name" : "Fliploch",
+      "life" : "15,654"
+   },
+   {
+      "type1" : "Dark",
+      "type2" : "Earth",
+      "speed" : "2600",
+      "gpm" : "142",
+      "power" : "2590",
+      "name" : "Frank S. Tein",
+      "life" : "21,524"
+   },
+   {
+      "type1" : "Light",
+      "type2" : "Rock",
+      "speed" : "2600",
+      "gpm" : "224",
+      "power" : "2650",
+      "name" : "Medussha",
+      "life" : "16,143"
+   },
+   {
+      "type1" : "Nature",
+      "type2" : "Light",
+      "speed" : "2600",
+      "gpm" : "142",
+      "power" : "2600",
+      "name" : "Pegasus",
+      "life" : "17,855"
+   },
+   {
+      "type1" : "Fire",
+      "type2" : "Light",
+      "speed" : "2600",
+      "gpm" : "142",
+      "power" : "2600",
+      "name" : "Scorchpeg",
+      "life" : "17,855"
+   },
+   {
+      "type1" : "Dark",
+      "type2" : "Magic",
+      "speed" : "2570",
+      "gpm" : "142",
+      "power" : "2720",
+      "name" : "Kimmel's Gift",
+      "life" : "16,877"
+   },
+   {
+      "type1" : "Dark",
+      "type2" : "Water",
+      "speed" : "2560",
+      "gpm" : "142",
+      "power" : "2800",
+      "name" : "Cthulhu",
+      "life" : "20,301"
+   },
+   {
+      "type1" : "Fire",
+      "type2" : "Water",
+      "speed" : "2560",
+      "gpm" : "224",
+      "power" : "2800",
+      "name" : "Freedom Feather",
+      "life" : "20,301"
+   },
+   {
+      "type1" : "Dark",
+      "type2" : "Fire",
+      "speed" : "2380",
+      "gpm" : "224",
+      "power" : "2740",
+      "name" : "Hellberus",
+      "life" : "19,323"
+   },
+   {
+      "type1" : "Rock",
+      "type2" : "Light",
+      "speed" : "2350",
+      "gpm" : "224",
+      "power" : "2630",
+      "name" : "Rock Druid",
+      "life" : "22,258"
+   },
+   {
+      "type1" : "Light",
+      "type2" : "Dark",
+      "speed" : "2350",
+      "gpm" : "114",
+      "power" : "2630",
+      "name" : "w'Olftagnan",
+      "life" : "18,834"
+   },
+   {
+      "type1" : "Fire",
+      "type2" : "Rock",
+      "speed" : "2340",
+      "gpm" : "224",
+      "power" : "2540",
+      "name" : "Ao Loong",
+      "life" : "20,057"
+   },
+   {
+      "type1" : "Rock",
+      "type2" : "Nature",
+      "speed" : "2340",
+      "gpm" : "224",
+      "power" : "2600",
+      "name" : "Drag Beast",
+      "life" : "21,524"
+   },
+   {
+      "type1" : "Nature",
+      "type2" : "Fire",
+      "speed" : "2340",
+      "gpm" : "224",
+      "power" : "2670",
+      "name" : "Elder Sporeling",
+      "life" : "20,301"
+   },
+   {
+      "type1" : "Rock",
+      "type2" : "Water",
+      "speed" : "2340",
+      "gpm" : "224",
+      "power" : "2540",
+      "name" : "Musu",
+      "life" : "20,057"
+   },
+   {
+      "type1" : "Dark",
+      "type2" : "Water",
+      "speed" : "2340",
+      "gpm" : "142",
+      "power" : "2860",
+      "name" : "Razfeesh",
+      "life" : "17,855"
+   },
+   {
+      "type1" : "Earth",
+      "type2" : "Magic",
+      "speed" : "2080",
+      "gpm" : "224",
+      "power" : "2730",
+      "name" : "Tartarus",
+      "life" : "22,992"
+   },
+   {
+      "type1" : "Nature",
+      "type2" : "Water",
+      "speed" : "2050",
+      "gpm" : "142",
+      "power" : "2340",
+      "name" : "Donaturtle",
+      "life" : "22,503"
+   },
+   {
+      "type1" : "Light",
+      "type2" : "Fire",
+      "speed" : "1990",
+      "gpm" : "142",
+      "power" : "2860",
+      "name" : "Skipples",
+      "life" : "20,057"
+   },
+   {
+      "type1" : "Light",
+      "type2" : "Dark",
+      "speed" : "1980",
+      "gpm" : "114",
+      "power" : "2860",
+      "name" : "Faymelina",
+      "life" : "20,057"
+   },
+   {
+      "type1" : "Light",
+      "type2" : "Earth",
+      "speed" : "1950",
+      "gpm" : "142",
+      "power" : "2280",
+      "name" : "Goldcore",
+      "life" : "24,460"
+   },
+   {
+      "type1" : "Rock",
+      "type2" : "Thunder",
+      "speed" : "1950",
+      "gpm" : "224",
+      "power" : "2860",
+      "name" : "Irockman",
+      "life" : "22,992"
+   },
+   {
+      "type1" : "Magic",
+      "type2" : "Nature",
+      "speed" : "2340",
+      "gpm" : "142",
+      "power" : "2340",
+      "name" : "Beetrat",
+      "life" : "22,503"
+   },
+   {
+      "type1" : "Dark",
+      "type2" : "Legendary",
+      "speed" : "3542",
+      "gpm" : "244",
+      "power" : "2926",
+      "name" : "Lostyghost",
+      "life" : "33,779"
+   },
+   {
+      "type1" : "Magic",
+      "type2" : "Legendary",
+      "speed" : "3542",
+      "gpm" : "244",
+      "power" : "2464",
+      "name" : "Panda Claus",
+      "life" : "31,668"
+   },
+   {
+      "type1" : "Magic",
+      "type2" : "Legendary",
+      "speed" : "3542",
+      "gpm" : "305",
+      "power" : "2310",
+      "name" : "Cupid",
+      "life" : "25,334"
+   },
+   {
+      "type1" : "Dark",
+      "type2" : "Legendary",
+      "speed" : "3531",
+      "gpm" : "244",
+      "power" : "3124",
+      "name" : "Krampus",
+      "life" : "28,651"
+   },
+   {
+      "type1" : "Thunder",
+      "type2" : "Legendary",
+      "speed" : "3509",
+      "gpm" : "305",
+      "power" : "2926",
+      "name" : "Thorder",
+      "life" : "21,112"
+   },
+   {
+      "type1" : "Light",
+      "type2" : "Legendary",
+      "speed" : "3476",
+      "gpm" : "244",
+      "power" : "3223",
+      "name" : "Queen Luthien",
+      "life" : "27,143"
+   },
+   {
+      "type1" : "Nature",
+      "type2" : "Legendary",
+      "speed" : "3476",
+      "gpm" : "305",
+      "power" : "3047",
+      "name" : "Laomu",
+      "life" : "29,556"
+   },
+   {
+      "type1" : "Thunder",
+      "type2" : "Legendary",
+      "speed" : "3476",
+      "gpm" : "305",
+      "power" : "3322",
+      "name" : "R.O.F.L",
+      "life" : "26,540"
+   },
+   {
+      "type1" : "Dark",
+      "type2" : "Legendary",
+      "speed" : "3465",
+      "gpm" : "244",
+      "power" : "3509",
+      "name" : "Klectus",
+      "life" : "22,318"
+   },
+   {
+      "type1" : "Dark",
+      "type2" : "Legendary",
+      "speed" : "3465",
+      "gpm" : "244",
+      "power" : "3146",
+      "name" : "Lilysha",
+      "life" : "25,635"
+   },
+   {
+      "type1" : "Dark",
+      "type2" : "Legendary",
+      "speed" : "3465",
+      "gpm" : "244",
+      "power" : "3300",
+      "name" : "Noctum",
+      "life" : "27,144"
+   },
+   {
+      "type1" : "Water",
+      "type2" : "Legendary",
+      "speed" : "3465",
+      "gpm" : "244",
+      "power" : "3146",
+      "name" : "Caillech",
+      "life" : "28,651"
+   },
+   {
+      "type1" : "Fire",
+      "type2" : "Legendary",
+      "speed" : "3465",
+      "gpm" : "305",
+      "power" : "3509",
+      "name" : "Darmith",
+      "life" : "27,747"
+   },
+   {
+      "type1" : "Metal",
+      "type2" : "Legendary",
+      "speed" : "3465",
+      "gpm" : "305",
+      "power" : "3575",
+      "name" : "Annihilator R2",
+      "life" : "27,747"
+   },
+   {
+      "type1" : "Thunder",
+      "type2" : "Legendary",
+      "speed" : "3465",
+      "gpm" : "305",
+      "power" : "3355",
+      "name" : "VoltaiK",
+      "life" : "24,429"
+   },
+   {
+      "type1" : "Light",
+      "type2" : "Legendary",
+      "speed" : "3454",
+      "gpm" : "244",
+      "power" : "3267",
+      "name" : "Oghma",
+      "life" : "29,255"
+   },
+   {
+      "type1" : "Water",
+      "type2" : "Legendary",
+      "speed" : "3454",
+      "gpm" : "244",
+      "power" : "3080",
+      "name" : "Cavenfish",
+      "life" : "28,651"
+   },
+   {
+      "type1" : "Fire",
+      "type2" : "Legendary",
+      "speed" : "3454",
+      "gpm" : "305",
+      "power" : "3399",
+      "name" : "Raccoon",
+      "life" : "28,651"
+   },
+   {
+      "type1" : "Fire",
+      "type2" : "Legendary",
+      "speed" : "3454",
+      "gpm" : "305",
+      "power" : "3311",
+      "name" : "Greedy Dragon",
+      "life" : "28,651"
+   },
+   {
+      "type1" : "Magic",
+      "type2" : "Legendary",
+      "speed" : "3454",
+      "gpm" : "305",
+      "power" : "3454",
+      "name" : "Shannara",
+      "life" : "25,334"
+   },
+   {
+      "type1" : "Metal",
+      "type2" : "Legendary",
+      "speed" : "3454",
+      "gpm" : "305",
+      "power" : "3322",
+      "name" : "Ultrabot",
+      "life" : "28,652"
+   },
+   {
+      "type1" : "Earth",
+      "type2" : "Legendary",
+      "speed" : "3432",
+      "gpm" : "305",
+      "power" : "3553",
+      "name" : "Killeraptor",
+      "life" : "29,858"
+   },
+   {
+      "type1" : "Magic",
+      "type2" : "Legendary",
+      "speed" : "3432",
+      "gpm" : "305",
+      "power" : "3311",
+      "name" : "White Pandalf",
+      "life" : "29,255"
+   },
+   {
+      "type1" : "Thunder",
+      "type2" : "Legendary",
+      "speed" : "3432",
+      "gpm" : "305",
+      "power" : "3454",
+      "name" : "Uria",
+      "life" : "29,858"
+   },
+   {
+      "type1" : "Dark",
+      "type2" : "Legendary",
+      "speed" : "3421",
+      "gpm" : "244",
+      "power" : "3157",
+      "name" : "Dr. Hazard",
+      "life" : "30,461"
+   },
+   {
+      "type1" : "Dark",
+      "type2" : "Legendary",
+      "speed" : "3421",
+      "gpm" : "244",
+      "power" : "3355",
+      "name" : "Master Skeel",
+      "life" : "30,461"
+   },
+   {
+      "type1" : "Dark",
+      "type2" : "Legendary",
+      "speed" : "3421",
+      "gpm" : "244",
+      "power" : "3311",
+      "name" : "Mmonster",
+      "life" : "26,239"
+   },
+   {
+      "type1" : "Water",
+      "type2" : "Legendary",
+      "speed" : "3421",
+      "gpm" : "244",
+      "power" : "3278",
+      "name" : "Thetys",
+      "life" : "26,540"
+   },
+   {
+      "type1" : "Earth",
+      "type2" : "Legendary",
+      "speed" : "3421",
+      "gpm" : "305",
+      "power" : "3432",
+      "name" : "Qin",
+      "life" : "30,763"
+   },
+   {
+      "type1" : "Magic",
+      "type2" : "Legendary",
+      "speed" : "3421",
+      "gpm" : "305",
+      "power" : "3278",
+      "name" : "Pixelion",
+      "life" : "29,255"
+   },
+   {
+      "type1" : "Magic",
+      "type2" : "Legendary",
+      "speed" : "3421",
+      "gpm" : "305",
+      "power" : "3157",
+      "name" : "Reptie",
+      "life" : "26,540"
+   },
+   {
+      "type1" : "Metal",
+      "type2" : "Legendary",
+      "speed" : "3421",
+      "gpm" : "305",
+      "power" : "3542",
+      "name" : "Drazz",
+      "life" : "31,366"
+   },
+   {
+      "type1" : "Metal",
+      "type2" : "Legendary",
+      "speed" : "3421",
+      "gpm" : "305",
+      "power" : "3542",
+      "name" : "Metalhead",
+      "life" : "31,366"
+   },
+   {
+      "type1" : "Dark",
+      "type2" : "Legendary",
+      "speed" : "3399",
+      "gpm" : "244",
+      "power" : "3300",
+      "name" : "Akhenotep",
+      "life" : "29,556"
+   },
+   {
+      "type1" : "Dark",
+      "type2" : "Legendary",
+      "speed" : "3399",
+      "gpm" : "244",
+      "power" : "3344",
+      "name" : "Count Vlad",
+      "life" : "29,556"
+   },
+   {
+      "type1" : "Light",
+      "type2" : "Legendary",
+      "speed" : "3399",
+      "gpm" : "244",
+      "power" : "3454",
+      "name" : "King Daeron",
+      "life" : "27,747"
+   },
+   {
+      "type1" : "Water",
+      "type2" : "Legendary",
+      "speed" : "3399",
+      "gpm" : "244",
+      "power" : "3311",
+      "name" : "Varuna",
+      "life" : "28,652"
+   },
+   {
+      "type1" : "Earth",
+      "type2" : "Legendary",
+      "speed" : "3399",
+      "gpm" : "305",
+      "power" : "3454",
+      "name" : "Atum",
+      "life" : "31,969"
+   },
+   {
+      "type1" : "Fire",
+      "type2" : "Legendary",
+      "speed" : "3399",
+      "gpm" : "305",
+      "power" : "3575",
+      "name" : "Megaosteum",
+      "life" : "26,239"
+   },
+   {
+      "type1" : "Dark",
+      "type2" : "Legendary",
+      "speed" : "3388",
+      "gpm" : "244",
+      "power" : "3467",
+      "name" : "Barbatos",
+      "life" : "28,350"
+   },
+   {
+      "type1" : "Nature",
+      "type2" : "Legendary",
+      "speed" : "3388",
+      "gpm" : "244",
+      "power" : "2772",
+      "name" : "Nemestrinus",
+      "life" : "29,556"
+   },
+   {
+      "type1" : "Water",
+      "type2" : "Legendary",
+      "speed" : "3388",
+      "gpm" : "244",
+      "power" : "2926",
+      "name" : "Lord Atlantis",
+      "life" : "26,540"
+   },
+   {
+      "type1" : "Earth",
+      "type2" : "Legendary",
+      "speed" : "3388",
+      "gpm" : "305",
+      "power" : "3542",
+      "name" : "Deadwolf",
+      "life" : "27,143"
+   },
+   {
+      "type1" : "Magic",
+      "type2" : "Legendary",
+      "speed" : "3388",
+      "gpm" : "305",
+      "power" : "3509",
+      "name" : "Monster Clutch",
+      "life" : "32,572"
+   },
+   {
+      "type1" : "Metal",
+      "type2" : "Legendary",
+      "speed" : "3388",
+      "gpm" : "305",
+      "power" : "2310",
+      "name" : "Timerion",
+      "life" : "26,239"
+   },
+   {
+      "type1" : "Thunder",
+      "type2" : "Legendary",
+      "speed" : "3388",
+      "gpm" : "305",
+      "power" : "3003",
+      "name" : "Thundhare",
+      "life" : "22,016"
+   },
+   {
+      "type1" : "Earth",
+      "type2" : "Legendary",
+      "speed" : "3377",
+      "gpm" : "305",
+      "power" : "3388",
+      "name" : "Minotarus",
+      "life" : "31,366"
+   },
+   {
+      "type1" : "Metal",
+      "type2" : "Legendary",
+      "speed" : "3377",
+      "gpm" : "305",
+      "power" : "3509",
+      "name" : "Megapolaris",
+      "life" : "27,143"
+   },
+   {
+      "type1" : "Thunder",
+      "type2" : "Legendary",
+      "speed" : "3377",
+      "gpm" : "305",
+      "power" : "3531",
+      "name" : "Exo Skeel",
+      "life" : "29,652"
+   },
+   {
+      "type1" : "Earth",
+      "type2" : "Legendary",
+      "speed" : "3355",
+      "gpm" : "305",
+      "power" : "3278",
+      "name" : "Basthet",
+      "life" : "30,763"
+   },
+   {
+      "type1" : "Fire",
+      "type2" : "Legendary",
+      "speed" : "3344",
+      "gpm" : "305",
+      "power" : "3465",
+      "name" : "Ralbog",
+      "life" : "30,763"
+   },
+   {
+      "type1" : "Light",
+      "type2" : "Legendary",
+      "speed" : "3311",
+      "gpm" : "244",
+      "power" : "3498",
+      "name" : "Layth",
+      "life" : "31,969"
+   },
+   {
+      "type1" : "Light",
+      "type2" : "Legendary",
+      "speed" : "3267",
+      "gpm" : "244",
+      "power" : "3234",
+      "name" : "Ingvar",
+      "life" : "31,366"
+   },
+   {
+      "type1" : "Nature",
+      "type2" : "Legendary",
+      "speed" : "3267",
+      "gpm" : "305",
+      "power" : "3465",
+      "name" : "Cyan",
+      "life" : "29,858"
+   },
+   {
+      "type1" : "Light",
+      "type2" : "Legendary",
+      "speed" : "3245",
+      "gpm" : "244",
+      "power" : "3047",
+      "name" : "Uriel",
+      "life" : "31,366"
+   },
+   {
+      "type1" : "Nature",
+      "type2" : "Legendary",
+      "speed" : "3245",
+      "gpm" : "305",
+      "power" : "3201",
+      "name" : "Flirty",
+      "life" : "31,969"
+   },
+   {
+      "type1" : "Dark",
+      "type2" : "Legendary",
+      "speed" : "3234",
+      "gpm" : "244",
+      "power" : "3311",
+      "name" : "Darkzgul",
+      "life" : "19,000"
+   },
+   {
+      "type1" : "Dark",
+      "type2" : "Legendary",
+      "speed" : "3234",
+      "gpm" : "244",
+      "power" : "2772",
+      "name" : "Nebotus",
+      "life" : "25,032"
+   },
+   {
+      "type1" : "Magic",
+      "type2" : "Legendary",
+      "speed" : "3234",
+      "gpm" : "305",
+      "power" : "3300",
+      "name" : "Chocolove",
+      "life" : "28,651"
+   },
+   {
+      "type1" : "Magic",
+      "type2" : "Legendary",
+      "speed" : "3157",
+      "gpm" : "305",
+      "power" : "3388",
+      "name" : "Son-Cookie",
+      "life" : "25,636"
+   },
+   {
+      "type1" : "Thunder",
+      "type2" : "Legendary",
+      "speed" : "3157",
+      "gpm" : "305",
+      "power" : "3322",
+      "name" : "CYMO",
+      "life" : "26,540"
+   },
+   {
+      "type1" : "Fire",
+      "type2" : "Legendary",
+      "speed" : "3124",
+      "gpm" : "305",
+      "power" : "2761",
+      "name" : "Firelequin",
+      "life" : "29,255"
+   },
+   {
+      "type1" : "Water",
+      "type2" : "Legendary",
+      "speed" : "3091",
+      "gpm" : "244",
+      "power" : "3465",
+      "name" : "Lord Mammoth",
+      "life" : "31,667"
+   },
+   {
+      "type1" : "Fire",
+      "type2" : "Legendary",
+      "speed" : "3091",
+      "gpm" : "305",
+      "power" : "3575",
+      "name" : "The Firestorm",
+      "life" : "28,652"
+   },
+   {
+      "type1" : "Dark",
+      "type2" : "Legendary",
+      "speed" : "3080",
+      "gpm" : "244",
+      "power" : "3234",
+      "name" : "Sir Slumberly",
+      "life" : "22,016"
+   },
+   {
+      "type1" : "Light",
+      "type2" : "Legendary",
+      "speed" : "3080",
+      "gpm" : "244",
+      "power" : "3080",
+      "name" : "Arch Knight",
+      "life" : "23,524"
+   },
+   {
+      "type1" : "Magic",
+      "type2" : "Legendary",
+      "speed" : "3080",
+      "gpm" : "244",
+      "power" : "2464",
+      "name" : "Goldfield",
+      "life" : "32,572"
+   },
+   {
+      "type1" : "Water",
+      "type2" : "Legendary",
+      "speed" : "3080",
+      "gpm" : "244",
+      "power" : "3080",
+      "name" : "White Walker",
+      "life" : "23,524"
+   },
+   {
+      "type1" : "Fire",
+      "type2" : "Legendary",
+      "speed" : "3080",
+      "gpm" : "305",
+      "power" : "3322",
+      "name" : "Lord Moltus",
+      "life" : "25,334"
+   },
+   {
+      "type1" : "Nature",
+      "type2" : "Legendary",
+      "speed" : "3080",
+      "gpm" : "305",
+      "power" : "2937",
+      "name" : "Roastie",
+      "life" : "29,255"
+   },
+   {
+      "type1" : "Fire",
+      "type2" : "Legendary",
+      "speed" : "3003",
+      "gpm" : "305",
+      "power" : "3311",
+      "name" : "Vadamagma",
+      "life" : "25,032"
+   },
+   {
+      "type1" : "Nature",
+      "type2" : "Legendary",
+      "speed" : "2926",
+      "gpm" : "244",
+      "power" : "2970",
+      "name" : "Firus",
+      "life" : "29,858"
+   },
+   {
+      "type1" : "Earth",
+      "type2" : "Legendary",
+      "speed" : "2926",
+      "gpm" : "305",
+      "power" : "2926",
+      "name" : "Shi Hou",
+      "life" : "27,445"
+   },
+   {
+      "type1" : "Nature",
+      "type2" : "Legendary",
+      "speed" : "2783",
+      "gpm" : "244",
+      "power" : "2937",
+      "name" : "Lagerchaun",
+      "life" : "27,144"
+   },
+   {
+      "type1" : "Earth",
+      "type2" : "Legendary",
+      "speed" : "2772",
+      "gpm" : "305",
+      "power" : "3498",
+      "name" : "Ouros",
+      "life" : "40,112"
+   },
+   {
+      "type1" : "Earth",
+      "type2" : "Legendary",
+      "speed" : "2464",
+      "gpm" : "305",
+      "power" : "3311",
+      "name" : "Rockantium",
+      "life" : "32,572"
+   },
+   {
+      "type1" : "Magic",
+      "type2" : "Legendary",
+      "speed" : "2156",
+      "gpm" : "244",
+      "power" : "3619",
+      "name" : "Worker Hulk",
+      "life" : "26,540"
+   }
+]
