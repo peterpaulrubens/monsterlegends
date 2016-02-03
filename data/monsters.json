@@ -832,6 +832,16 @@
       "life" : "13,287"
    },
    {
+      "type1" : "Magic",
+      "type2" : "Nature",
+      "gpm" : "142",
+      "name" : "Super Pandalf",
+      "tier" : "Epic",
+      "speed" : "2930",
+      "power" : "2600",
+      "life" : "15,899"
+   },
+   {
       "type1" : "Rock",
       "type2" : "Dark",
       "gpm" : "142",
@@ -1780,6 +1790,46 @@
       "speed" : "2340",
       "power" : "2340",
       "life" : "22,503"
+   },
+   {
+      "type1" : "Earth",
+      "type2" : "Legendary",
+      "gpm" : "305",
+      "name" : "Darude",
+      "tier" : "Legendary",
+      "speed" : "3355",
+      "power" : "3245",
+      "life" : "31,667"
+   },
+   {
+      "type1" : "Water",
+      "type2" : "Legendary",
+      "gpm" : "244",
+      "name" : "Sphyyrnus",
+      "tier" : "Legendary",
+      "speed" : "3432",
+      "power" : "3388",
+      "life" : "28,651"
+   },
+   {
+      "type1" : "Magic",
+      "type2" : "Legendary",
+      "gpm" : "305",
+      "name" : "Malair",
+      "tier" : "Legendary",
+      "speed" : "3454",
+      "power" : "3553",
+      "life" : "27,445"
+   },
+   {
+      "type1" : "Light",
+      "type2" : "Legendary",
+      "gpm" : "244",
+      "name" : "Lux Aura",
+      "tier" : "Legendary",
+      "speed" : "3454",
+      "power" : "3322",
+      "life" : "29,255"
    },
    {
       "type1" : "Dark",
