@@ -832,6 +832,26 @@
       "life" : "13,287"
    },
    {
+      "type1" : "Metal",
+      "type2" : "Earth",
+      "gpm" : "224",
+      "name" : "Gridiron",
+      "tier" : "Epic",
+      "speed" : "2760",
+      "power" : "2650",
+      "life" : "23,481"
+   },
+   {
+      "type1" : "Magic",
+      "type2" : "Nature",
+      "gpm" : "142",
+      "name" : "Sambacadabra",
+      "tier" : "Epic",
+      "speed" : "2810",
+      "power" : "2700",
+      "life" : "19,323"
+   },
+   {
       "type1" : "Magic",
       "type2" : "Nature",
       "gpm" : "142",
@@ -1790,6 +1810,16 @@
       "speed" : "2340",
       "power" : "2340",
       "life" : "22,503"
+   },
+   {
+      "type1" : "Magic",
+      "type2" : "Legendary",
+      "gpm" : "305",
+      "name" : "Galante",
+      "tier" : "Legendary",
+      "speed" : "3476",
+      "power" : "3157",
+      "life" : "28,350"
    },
    {
       "type1" : "Earth",
