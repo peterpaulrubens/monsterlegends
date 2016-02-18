@@ -1815,6 +1815,26 @@
       "type1" : "Magic",
       "type2" : "Legendary",
       "gpm" : "305",
+      "name" : "Scarr The Outcast",
+      "tier" : "Legendary",
+      "speed" : "3465",
+      "power" : "3531",
+      "life" : "31,366"
+   },
+   {
+      "type1" : "Nature",
+      "type2" : "Legendary",
+      "gpm" : "305",
+      "name" : "General Alces",
+      "tier" : "Legendary",
+      "speed" : "3432",
+      "power" : "3300",
+      "life" : "30,461"
+   },
+   {
+      "type1" : "Magic",
+      "type2" : "Legendary",
+      "gpm" : "305",
       "name" : "Galante",
       "tier" : "Legendary",
       "speed" : "3476",
