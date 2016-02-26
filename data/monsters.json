@@ -1812,6 +1812,36 @@
       "life" : "22,503"
    },
    {
+      "type1" : "Water",
+      "type2" : "Legendary",
+      "gpm" : "244",
+      "name" : "Anton Acorne",
+      "tier" : "Legendary",
+      "speed" : "3465",
+      "power" : "3531",
+      "life" : "28,350"
+   },
+   {
+      "type1" : "Magic",
+      "type2" : "Legendary",
+      "gpm" : "305",
+      "name" : "Uru",
+      "tier" : "Legendary",
+      "speed" : "3465",
+      "power" : "3509",
+      "life" : "26,239"
+   },
+   {
+      "type1" : "Metal",
+      "type2" : "Legendary",
+      "gpm" : "305",
+      "name" : "ML-1 Yamato",
+      "tier" : "Legendary",
+      "speed" : "3399",
+      "power" : "3388",
+      "life" : "29,255"
+   },
+   {
       "type1" : "Magic",
       "type2" : "Legendary",
       "gpm" : "305",
