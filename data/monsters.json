@@ -1815,6 +1815,16 @@
       "type1" : "Water",
       "type2" : "Legendary",
       "gpm" : "244",
+      "name" : "The Prisoner",
+      "tier" : "Legendary",
+      "speed" : "2816",
+      "power" : "3234",
+      "life" : "31,667"
+   },
+   {
+      "type1" : "Water",
+      "type2" : "Legendary",
+      "gpm" : "244",
       "name" : "Anton Acorne",
       "tier" : "Legendary",
       "speed" : "3465",
