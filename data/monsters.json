@@ -2,6 +2,36 @@
     "data":
 [
    {
+      "type1" : "Fire",
+      "type2" : null,
+      "gpm" : "62",
+      "name" : "Fire Lion",
+      "tier" : "Common",
+      "speed" : "875",
+      "power" : "1100",
+      "life" : "2480"
+   },
+   {
+      "type1" : "Water",
+      "type2" : null,
+      "gpm" : "32",
+      "name" : "Turtle",
+      "tier" : "Common",
+      "speed" : "1000",
+      "power" : "1000",
+      "life" : "2777"
+   },
+   {
+      "type1" : "Nature",
+      "type2" : null,
+      "gpm" : "32",
+      "name" : "Panda",
+      "tier" : "Common",
+      "speed" : "1000",
+      "power" : "950",
+      "life" : "2777"
+   },
+   {
       "type1" : "Earth",
       "type2" : "Light",
       "gpm" : "62",
