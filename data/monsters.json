@@ -1842,6 +1842,16 @@
       "life" : "22503"
    },
    {
+      "type1" : "Nature",
+      "type2" : "Legendary",
+      "gpm" : "244",
+      "name" : "The Judgment",
+      "tier" : "Legendary",
+      "speed" : "3377",
+      "power" : "3542",
+      "life" : "29556"
+   },
+   {
       "type1" : "Magic",
       "type2" : "Legendary",
       "gpm" : "244",
