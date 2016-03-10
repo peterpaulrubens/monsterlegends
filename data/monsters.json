@@ -1742,14 +1742,14 @@
       "life" : "21524"
    },
    {
-      "type1" : "224",
-      "type2" : "Nature",
-      "gpm" : "2340",
+      "type1" : "Nature",
+      "type2" : "Fire",
+      "gpm" : "224",
       "name" : "Elder Sporeling",
       "tier" : "Epic",
-      "speed" : "301",
+      "speed" : "2340",
       "power" : "2670",
-      "life" : "20"
+      "life" : "20301"
    },
    {
       "type1" : "Rock",
