@@ -1812,6 +1812,36 @@
       "life" : "22503"
    },
    {
+      "type1" : "Magic",
+      "type2" : "Legendary",
+      "gpm" : "244",
+      "name" : "Toy Master",
+      "tier" : "Legendary",
+      "speed" : "3465",
+      "power" : "3278",
+      "life" : "27143"
+   },
+   {
+      "type1" : "Magic",
+      "type2" : "Legendary",
+      "gpm" : "244",
+      "name" : "Blockheart",
+      "tier" : "Legendary",
+      "speed" : "3432",
+      "power" : "3388",
+      "life" : "24429"
+   },
+   {
+      "type1" : "Nature",
+      "type2" : "Legendary",
+      "gpm" : "244",
+      "name" : "Sarah",
+      "tier" : "Legendary",
+      "speed" : "3476",
+      "power" : "3234",
+      "life" : "27445"
+   },
+   {
       "type1" : "Water",
       "type2" : "Legendary",
       "gpm" : "244",
