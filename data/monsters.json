@@ -3,7 +3,7 @@
 [
    {
       "type1" : "Fire",
-      "type2" : null,
+      "type2" : "",
       "gpm" : "62",
       "name" : "Fire Lion",
       "tier" : "Common",
@@ -13,7 +13,7 @@
    },
    {
       "type1" : "Water",
-      "type2" : null,
+      "type2" : "",
       "gpm" : "32",
       "name" : "Turtle",
       "tier" : "Common",
@@ -23,7 +23,7 @@
    },
    {
       "type1" : "Nature",
-      "type2" : null,
+      "type2" : "",
       "gpm" : "32",
       "name" : "Panda",
       "tier" : "Common",

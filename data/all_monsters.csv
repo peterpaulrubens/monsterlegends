@@ -1,7 +1,7 @@
 Tier,Name,Power,Life,Speed,GPM,Type1,Type2
-Common,Fire Lion,1100,2480,875,62,Fire
-Common,Turtle,1000,2777,1000,32,Water
-Common,Panda,950,2777,1000,32,Nature
+Common,Fire Lion,1100,2480,875,62,Fire,
+Common,Turtle,1000,2777,1000,32,Water,
+Common,Panda,950,2777,1000,32,Nature,
 Common,Rockilla,875,3521,875,62,Earth,Light
 Common,Light Spirit,875,3521,875,17,Light,Dark
 Common,Metalsaur,1120,2976,1000,32,Metal,Water
