@@ -4,7 +4,6 @@
         <script type="text/javascript" src="https://cdn.datatables.net/s/bs-3.3.5/jq-2.1.4,dt-1.10.10,b-1.1.0,cr-1.3.0,fh-3.1.0,r-2.0.0,rr-1.1.0/datatables.min.js"></script>
         <script>
             function drawSelects() {
-alert('moo');
                 this.api().columns().every( function () {
                     var column = this;
                     var select = $('<select><option value=""></option></select>')
@@ -23,9 +22,8 @@ alert('moo');
                 });
             }
             $(document).ready(function() {
-alert('oink');
                 $('#monsters').DataTable( {
-                    "ajax": "http://peterpaulrubens.github.io/monsterlegends/data/all_monsters.json",
+                    "ajax": "/data/all_monsters.json",
                     "columns": [
                             { "data": "tier" },
                             { "data": "name", "render" : function (data,type,row) { return '<a href="http://monster-wiki.com/monsters/' + data.replace(" ", "_") + '">' + data + '</a>' } },
@@ -37,24 +35,30 @@ alert('oink');
                             { "data": "type2" }
                     ],
                     "initComplete": function() { 
-                    this.api().columns().every( function () {
-                        var column = this;
-                        var select = $('<select><option value=""></option></select>')
-                            .appendTo( $(column.footer()).empty() )
-                            .on( 'change', function () {
-                                var val = $.fn.dataTable.util.escapeRegex( $(this).val() );
-
-                                column
-                                    .search( val ? '^'+val+'$' : '', true, false )
-                                    .draw();
-                        });
-
-                        column.data().unique().sort().each( function ( d, j ) {
-                            select.append( '<option value="'+d+'">'+d+'</option>' )
-                        });
-                    });
-                } );
-            } );
+                        this.api().columns().every( 
+                            function () {
+                                var column = this;
+                                var select = $('<select><option value=""></option></select>')
+                                    .appendTo( $(column.footer()).empty() )
+                                    .on( 'change', 
+                                        function () {
+                                            var val = $.fn.dataTable.util.escapeRegex( $(this).val() );
+                                            column.search( val ? '^'+val+'$' : '', true, false ).draw();
+                                        }
+                                    )
+                                ;
+                                column.data().unique().sort().each( 
+                                    function ( d, j ) {
+                                        select.append( '<option value="'+d+'">'+d+'</option>' )
+                                    }
+                                );
+                            }
+                        );
+                    }
+                 );
+            } 
+            alert('oink');
+            );
         </script>
     </head>
     <body>
