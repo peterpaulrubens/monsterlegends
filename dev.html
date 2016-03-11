@@ -23,7 +23,7 @@
             }
             $(document).ready(function() {
                 $('#monsters').DataTable( {
-                    "ajax": "/data/all_monsters.json",
+                    "ajax": "/monsterlegends/data/all_monsters.json",
                     "columns": [
                             { "data": "tier" },
                             { "data": "name", "render" : function (data,type,row) { return '<a href="http://monster-wiki.com/monsters/' + data.replace(" ", "_") + '">' + data + '</a>' } },
