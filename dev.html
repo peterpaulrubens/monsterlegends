@@ -5,7 +5,7 @@
         <script type="text/javascript" src="http://peterpaulrubens.github.io/monsterlegends/jquery.dataTables.columnFilter.js"></script>
         <script>
             function drawSelects() {
-                this.api().columns().every( function () {
+                $('#monsters').DataTable().api().columns().every( function () {
                     var column = this;
                     var select = $('<select><option value=""></option></select>')
                         .appendTo( $(column.footer()).empty() )
@@ -35,7 +35,8 @@
                             { "data": "type1" },
                             { "data": "type2" }
                     ],
-                }).columnFilter();
+                    "initComplete": drawSelects()
+                });
             });
         </script>
     </head>
