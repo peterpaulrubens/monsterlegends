@@ -2,10 +2,9 @@
     <head>
         <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/s/bs-3.3.5/jq-2.1.4,dt-1.10.10,b-1.1.0,cr-1.3.0,fh-3.1.0,r-2.0.0,rr-1.1.0/datatables.min.css"/>
         <script type="text/javascript" src="https://cdn.datatables.net/s/bs-3.3.5/jq-2.1.4,dt-1.10.10,b-1.1.0,cr-1.3.0,fh-3.1.0,r-2.0.0,rr-1.1.0/datatables.min.js"></script>
-        <script type="text/javascript" src="http://peterpaulrubens.github.io/monsterlegends/jquery.dataTables.columnFilter.js"></script>
         <script>
             function drawSelects() {
-                $('#monsters').DataTable().api().columns().every( function () {
+                $('#monsters').api().columns().every( function () {
                     var column = this;
                     var select = $('<select><option value=""></option></select>')
                         .appendTo( $(column.footer()).empty() )
