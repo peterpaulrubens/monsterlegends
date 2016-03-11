@@ -5,8 +5,8 @@
         <script>
             $(document).ready(function() {
                 $('#monsters').DataTable( {
-                    ajax: "http://peterpaulrubens.github.io/monsterlegends/data/all_monsters.json",
-                    columns: [
+                    "ajax": "http://peterpaulrubens.github.io/monsterlegends/data/all_monsters.json",
+                    "columns": [
                             { "data": "tier" },
                             { "data": "name", "render" : function (data,type,row) { return '<a href="http://monster-wiki.com/monsters/' + data.replace(" ", "_") + '">' + data + '</a>' } },
                             { "data": "speed" },
@@ -15,6 +15,10 @@
                             { "data": "gpm" },
                             { "data": "type1" },
                             { "data": "type2" }
+                    ],
+                    //"initComplete": drawSelects(),
+                    buttons: [
+                        'copy', 'excel', 'pdf'
                     ]
                 } );
             } );
