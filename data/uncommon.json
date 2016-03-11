@@ -1,0 +1,325 @@
+{ 
+    "data":
+[
+   {
+      "uncommon" : "Uncommon",
+      "light_sphinx" : "Omethyst",
+      "light" : "Dark",
+      "1232" : "1505",
+      "1351" : "1463",
+      "9316" : "8000",
+      "earth" : "Metal",
+      "62" : "82"
+   },
+   {
+      "uncommon" : "Uncommon",
+      "light_sphinx" : "Metanephrops",
+      "light" : "Water",
+      "1232" : "1549",
+      "1351" : "1722",
+      "9316" : "7891",
+      "earth" : "Metal",
+      "62" : "82"
+   },
+   {
+      "uncommon" : "Uncommon",
+      "light_sphinx" : "Heimdal",
+      "light" : "Light",
+      "1232" : "1568",
+      "1351" : "1540",
+      "9316" : "7672",
+      "earth" : "Metal",
+      "62" : "82"
+   },
+   {
+      "uncommon" : "Uncommon",
+      "light_sphinx" : "Rockneto",
+      "light" : "Earth",
+      "1232" : "1582",
+      "1351" : "1351",
+      "9316" : "7672",
+      "earth" : "Metal",
+      "62" : "82"
+   },
+   {
+      "uncommon" : "Uncommon",
+      "light_sphinx" : "Blesstle",
+      "light" : "Light",
+      "1232" : "1463",
+      "1351" : "1428",
+      "9316" : "7562",
+      "earth" : "Water",
+      "62" : "62"
+   },
+   {
+      "uncommon" : "Uncommon",
+      "light_sphinx" : "Electrex",
+      "light" : "Thunder",
+      "1232" : "1736",
+      "1351" : "1309",
+      "9316" : "7562",
+      "earth" : "Earth",
+      "62" : "103"
+   },
+   {
+      "uncommon" : "Uncommon",
+      "light_sphinx" : "Firekong",
+      "light" : "Earth",
+      "1232" : "1232",
+      "1351" : "1771",
+      "9316" : "7562",
+      "earth" : "Fire",
+      "62" : "103"
+   },
+   {
+      "uncommon" : "Uncommon",
+      "light_sphinx" : "Flawless",
+      "light" : "Light",
+      "1232" : "1771",
+      "1351" : "1309",
+      "9316" : "7562",
+      "earth" : "Magic",
+      "62" : "62"
+   },
+   {
+      "uncommon" : "Uncommon",
+      "light_sphinx" : "Gastosquish",
+      "light" : "Water",
+      "1232" : "1540",
+      "1351" : "1351",
+      "9316" : "7562",
+      "earth" : "Earth",
+      "62" : "103"
+   },
+   {
+      "uncommon" : "Uncommon",
+      "light_sphinx" : "Giragast",
+      "light" : "Magic",
+      "1232" : "1232",
+      "1351" : "1715",
+      "9316" : "7562",
+      "earth" : "Dark",
+      "62" : "62"
+   },
+   {
+      "uncommon" : "Uncommon",
+      "light_sphinx" : "Peltiwirl",
+      "light" : "Light",
+      "1232" : "1736",
+      "1351" : "1309",
+      "9316" : "7562",
+      "earth" : "Thunder",
+      "62" : "62"
+   },
+   {
+      "uncommon" : "Uncommon",
+      "light_sphinx" : "Rarawr",
+      "light" : "Earth",
+      "1232" : "1540",
+      "1351" : "1351",
+      "9316" : "7562",
+      "earth" : "Nature",
+      "62" : "103"
+   },
+   {
+      "uncommon" : "Uncommon",
+      "light_sphinx" : "Succuba",
+      "light" : "Light",
+      "1232" : "1232",
+      "1351" : "1736",
+      "9316" : "7562",
+      "earth" : "Dark",
+      "62" : "42"
+   },
+   {
+      "uncommon" : "Uncommon",
+      "light_sphinx" : "Vixsun",
+      "light" : "Light",
+      "1232" : "1351",
+      "1351" : "1540",
+      "9316" : "7562",
+      "earth" : "Nature",
+      "62" : "62"
+   },
+   {
+      "uncommon" : "Uncommon",
+      "light_sphinx" : "Jonskeer",
+      "light" : "Nature",
+      "1232" : "1549",
+      "1351" : "1617",
+      "9316" : "7343",
+      "earth" : "Metal",
+      "62" : "82"
+   },
+   {
+      "uncommon" : "Uncommon",
+      "light_sphinx" : "Bloomskips",
+      "light" : "Magic",
+      "1232" : "1743",
+      "1351" : "1337",
+      "9316" : "6795",
+      "earth" : "Nature",
+      "62" : "62"
+   },
+   {
+      "uncommon" : "Uncommon",
+      "light_sphinx" : "Dolphchamp",
+      "light" : "Magic",
+      "1232" : "1736",
+      "1351" : "1351",
+      "9316" : "6795",
+      "earth" : "Water",
+      "62" : "62"
+   },
+   {
+      "uncommon" : "Uncommon",
+      "light_sphinx" : "Obsidia",
+      "light" : "Dark",
+      "1232" : "1540",
+      "1351" : "1540",
+      "9316" : "6795",
+      "earth" : "Earth",
+      "62" : "62"
+   },
+   {
+      "uncommon" : "Uncommon",
+      "light_sphinx" : "Sheluke",
+      "light" : "Water",
+      "1232" : "1540",
+      "1351" : "1540",
+      "9316" : "6795",
+      "earth" : "Nature",
+      "62" : "62"
+   },
+   {
+      "uncommon" : "Uncommon",
+      "light_sphinx" : "Utochomp",
+      "light" : "Dark",
+      "1232" : "1386",
+      "1351" : "1694",
+      "9316" : "6795",
+      "earth" : "Nature",
+      "62" : "62"
+   },
+   {
+      "uncommon" : "Uncommon",
+      "light_sphinx" : "Esmelter",
+      "light" : "Fire",
+      "1232" : "1582",
+      "1351" : "1463",
+      "9316" : "6466",
+      "earth" : "Metal",
+      "62" : "82"
+   },
+   {
+      "uncommon" : "Uncommon",
+      "light_sphinx" : "Lesaki",
+      "light" : "Thunder",
+      "1232" : "1722",
+      "1351" : "1813",
+      "9316" : "6137",
+      "earth" : "Metal",
+      "62" : "82"
+   },
+   {
+      "uncommon" : "Uncommon",
+      "light_sphinx" : "Manolyth",
+      "light" : "Magic",
+      "1232" : "1540",
+      "1351" : "1799",
+      "9316" : "6137",
+      "earth" : "Metal",
+      "62" : "82"
+   },
+   {
+      "uncommon" : "Uncommon",
+      "light_sphinx" : "Firanda",
+      "light" : "Nature",
+      "1232" : "1540",
+      "1351" : "1736",
+      "9316" : "6028",
+      "earth" : "Fire",
+      "62" : "103"
+   },
+   {
+      "uncommon" : "Uncommon",
+      "light_sphinx" : "Greenasaur",
+      "light" : "Nature",
+      "1232" : "1540",
+      "1351" : "1736",
+      "9316" : "6028",
+      "earth" : "Fire",
+      "62" : "103"
+   },
+   {
+      "uncommon" : "Uncommon",
+      "light_sphinx" : "Sealion",
+      "light" : "Water",
+      "1232" : "1540",
+      "1351" : "1736",
+      "9316" : "6028",
+      "earth" : "Fire",
+      "62" : "103"
+   },
+   {
+      "uncommon" : "Uncommon",
+      "light_sphinx" : "Shock Turtle",
+      "light" : "Water",
+      "1232" : "1736",
+      "1351" : "1540",
+      "9316" : "6028",
+      "earth" : "Thunder",
+      "62" : "103"
+   },
+   {
+      "uncommon" : "Uncommon",
+      "light_sphinx" : "Flickie",
+      "light" : "Dark",
+      "1232" : "1351",
+      "1351" : "1925",
+      "9316" : "5041",
+      "earth" : "Fire",
+      "62" : "62"
+   },
+   {
+      "uncommon" : "Uncommon",
+      "light_sphinx" : "Gigram",
+      "light" : "Thunder",
+      "1232" : "1736",
+      "1351" : "1736",
+      "9316" : "5041",
+      "earth" : "Fire",
+      "62" : "103"
+   },
+   {
+      "uncommon" : "Uncommon",
+      "light_sphinx" : "Raydex",
+      "light" : "Magic",
+      "1232" : "2121",
+      "1351" : "1351",
+      "9316" : "5041",
+      "earth" : "Thunder",
+      "62" : "103"
+   },
+   {
+      "uncommon" : "Uncommon",
+      "light_sphinx" : "Terror Dactyl",
+      "light" : "Dark",
+      "1232" : "1736",
+      "1351" : "1736",
+      "9316" : "5041",
+      "earth" : "Thunder",
+      "62" : "62"
+   },
+   {
+      "uncommon" : "Uncommon",
+      "light_sphinx" : "Pyrook",
+      "light" : "Magic",
+      "1232" : "1757",
+      "1351" : "1736",
+      "9316" : "4932",
+      "earth" : "Fire",
+      "62" : "103"
+   }
+]
+}

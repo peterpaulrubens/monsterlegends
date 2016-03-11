@@ -1,0 +1,975 @@
+{ 
+    "data":
+[
+   {
+      "23481" : "19323",
+      "epic" : "Epic",
+      "gridiron" : "Sambacadabra",
+      "earth" : "Nature",
+      "224" : "142",
+      "2760" : "2810",
+      "metal" : "Magic",
+      "2650" : "2700"
+   },
+   {
+      "23481" : "15899",
+      "epic" : "Epic",
+      "gridiron" : "Super Pandalf",
+      "earth" : "Nature",
+      "224" : "142",
+      "2760" : "2930",
+      "metal" : "Magic",
+      "2650" : "2600"
+   },
+   {
+      "23481" : "15899",
+      "epic" : "Epic",
+      "gridiron" : "Greygoyle",
+      "earth" : "Dark",
+      "224" : "142",
+      "2760" : "3120",
+      "metal" : "Rock",
+      "2650" : "2600"
+   },
+   {
+      "23481" : "16632",
+      "epic" : "Epic",
+      "gridiron" : "Rosanha",
+      "earth" : "Dark",
+      "224" : "142",
+      "2760" : "3070",
+      "metal" : "Nature",
+      "2650" : "2860"
+   },
+   {
+      "23481" : "18834",
+      "epic" : "Epic",
+      "gridiron" : "Volray",
+      "earth" : "Water",
+      "224" : "224",
+      "2760" : "3060",
+      "metal" : "Thunder",
+      "2650" : "2280"
+   },
+   {
+      "23481" : "21524",
+      "epic" : "Epic",
+      "gridiron" : "Darknubis",
+      "earth" : "Dark",
+      "224" : "142",
+      "2760" : "2990",
+      "metal" : "Magic",
+      "2650" : "2080"
+   },
+   {
+      "23481" : "20057",
+      "epic" : "Epic",
+      "gridiron" : "Erpham",
+      "earth" : "Magic",
+      "224" : "142",
+      "2760" : "2990",
+      "metal" : "Nature",
+      "2650" : "1950"
+   },
+   {
+      "23481" : "20301",
+      "epic" : "Epic",
+      "gridiron" : "Evaranae",
+      "earth" : "Dark",
+      "224" : "142",
+      "2760" : "2990",
+      "metal" : "Nature",
+      "2650" : "2630"
+   },
+   {
+      "23481" : "23237",
+      "epic" : "Epic",
+      "gridiron" : "Horus",
+      "earth" : "Dark",
+      "224" : "142",
+      "2760" : "2990",
+      "metal" : "Magic",
+      "2650" : "2850"
+   },
+   {
+      "23481" : "17855",
+      "epic" : "Epic",
+      "gridiron" : "Rodolph",
+      "earth" : "Thunder",
+      "224" : "224",
+      "2760" : "2990",
+      "metal" : "Magic",
+      "2650" : "2460"
+   },
+   {
+      "23481" : "14431",
+      "epic" : "Epic",
+      "gridiron" : "Wolfkami",
+      "earth" : "Nature",
+      "224" : "224",
+      "2760" : "2990",
+      "metal" : "Thunder",
+      "2650" : "2730"
+   },
+   {
+      "23481" : "18834",
+      "epic" : "Epic",
+      "gridiron" : "Goath'el",
+      "earth" : "Thunder",
+      "224" : "142",
+      "2760" : "2980",
+      "metal" : "Light",
+      "2650" : "2700"
+   },
+   {
+      "23481" : "13697",
+      "epic" : "Epic",
+      "gridiron" : "Griffex",
+      "earth" : "Nature",
+      "224" : "250",
+      "2760" : "2980",
+      "metal" : "Thunder",
+      "2650" : "2570"
+   },
+   {
+      "23481" : "20057",
+      "epic" : "Epic",
+      "gridiron" : "Mecharasu",
+      "earth" : "Thunder",
+      "224" : "224",
+      "2760" : "2980",
+      "metal" : "Metal",
+      "2650" : "2720"
+   },
+   {
+      "23481" : "19323",
+      "epic" : "Epic",
+      "gridiron" : "Punchie",
+      "earth" : "Magic",
+      "224" : "224",
+      "2760" : "2980",
+      "metal" : "Dark",
+      "2650" : "2820"
+   },
+   {
+      "23481" : "19812",
+      "epic" : "Epic",
+      "gridiron" : "Chordim",
+      "earth" : "Thunder",
+      "224" : "224",
+      "2760" : "2960",
+      "metal" : "Magic",
+      "2650" : "2650"
+   },
+   {
+      "23481" : "19812",
+      "epic" : "Epic",
+      "gridiron" : "Gold Ra",
+      "earth" : "Fire",
+      "224" : "224",
+      "2760" : "2960",
+      "metal" : "Metal",
+      "2650" : "2870"
+   },
+   {
+      "23481" : "18345",
+      "epic" : "Epic",
+      "gridiron" : "Aiden",
+      "earth" : "Fire",
+      "224" : "142",
+      "2760" : "2950",
+      "metal" : "Water",
+      "2650" : "2670"
+   },
+   {
+      "23481" : "20057",
+      "epic" : "Epic",
+      "gridiron" : "Duchess",
+      "earth" : "Earth",
+      "224" : "224",
+      "2760" : "2950",
+      "metal" : "Magic",
+      "2650" : "2080"
+   },
+   {
+      "23481" : "18100",
+      "epic" : "Epic",
+      "gridiron" : "Karasu",
+      "earth" : "Dark",
+      "224" : "224",
+      "2760" : "2950",
+      "metal" : "Thunder",
+      "2650" : "2670"
+   },
+   {
+      "23481" : "19078",
+      "epic" : "Epic",
+      "gridiron" : "Stoirm",
+      "earth" : "Water",
+      "224" : "224",
+      "2760" : "2950",
+      "metal" : "Thunder",
+      "2650" : "2830"
+   },
+   {
+      "23481" : "21280",
+      "epic" : "Epic",
+      "gridiron" : "Eburwin",
+      "earth" : "Light",
+      "224" : "224",
+      "2760" : "2940",
+      "metal" : "Metal",
+      "2650" : "2650"
+   },
+   {
+      "23481" : "18100",
+      "epic" : "Epic",
+      "gridiron" : "Firesque",
+      "earth" : "Fire",
+      "224" : "224",
+      "2760" : "2940",
+      "metal" : "Dark",
+      "2650" : "2860"
+   },
+   {
+      "23481" : "20301",
+      "epic" : "Epic",
+      "gridiron" : "Rockovan",
+      "earth" : "Fire",
+      "224" : "224",
+      "2760" : "2940",
+      "metal" : "Earth",
+      "2650" : "2650"
+   },
+   {
+      "23481" : "19323",
+      "epic" : "Epic",
+      "gridiron" : "MonsterFace",
+      "earth" : "Dark",
+      "224" : "224",
+      "2760" : "2930",
+      "metal" : "Metal",
+      "2650" : "2860"
+   },
+   {
+      "23481" : "15899",
+      "epic" : "Epic",
+      "gridiron" : "Pandafest",
+      "earth" : "Nature",
+      "224" : "142",
+      "2760" : "2930",
+      "metal" : "Magic",
+      "2650" : "2600"
+   },
+   {
+      "23481" : "15899",
+      "epic" : "Epic",
+      "gridiron" : "Pandalf",
+      "earth" : "Nature",
+      "224" : "142",
+      "2760" : "2930",
+      "metal" : "Magic",
+      "2650" : "2600"
+   },
+   {
+      "23481" : "15899",
+      "epic" : "Epic",
+      "gridiron" : "Pandaval",
+      "earth" : "Nature",
+      "224" : "142",
+      "2760" : "2930",
+      "metal" : "Magic",
+      "2650" : "2600"
+   },
+   {
+      "23481" : "15899",
+      "epic" : "Epic",
+      "gridiron" : "Pandaxplorer",
+      "earth" : "Nature",
+      "224" : "142",
+      "2760" : "2930",
+      "metal" : "Magic",
+      "2650" : "2600"
+   },
+   {
+      "23481" : "15899",
+      "epic" : "Epic",
+      "gridiron" : "Rabidex",
+      "earth" : "Nature",
+      "224" : "224",
+      "2760" : "2930",
+      "metal" : "Thunder",
+      "2650" : "2600"
+   },
+   {
+      "23481" : "17855",
+      "epic" : "Epic",
+      "gridiron" : "Rhynex",
+      "earth" : "Thunder",
+      "224" : "224",
+      "2760" : "2930",
+      "metal" : "Nature",
+      "2650" : "2280"
+   },
+   {
+      "23481" : "19078",
+      "epic" : "Epic",
+      "gridiron" : "Skeel Trooper",
+      "earth" : "Dark",
+      "224" : "224",
+      "2760" : "2930",
+      "metal" : "Thunder",
+      "2650" : "2830"
+   },
+   {
+      "23481" : "17122",
+      "epic" : "Epic",
+      "gridiron" : "Skuller",
+      "earth" : "Magic",
+      "224" : "224",
+      "2760" : "2930",
+      "metal" : "Dark",
+      "2650" : "2650"
+   },
+   {
+      "23481" : "18834",
+      "epic" : "Epic",
+      "gridiron" : "Squamata Jr.",
+      "earth" : "Earth",
+      "224" : "224",
+      "2760" : "2930",
+      "metal" : "Metal",
+      "2650" : "2850"
+   },
+   {
+      "23481" : "20057",
+      "epic" : "Epic",
+      "gridiron" : "Terracrank",
+      "earth" : "Magic",
+      "224" : "224",
+      "2760" : "2930",
+      "metal" : "Earth",
+      "2650" : "1950"
+   },
+   {
+      "23481" : "15899",
+      "epic" : "Epic",
+      "gridiron" : "Zomdalf",
+      "earth" : "Nature",
+      "224" : "142",
+      "2760" : "2930",
+      "metal" : "Magic",
+      "2650" : "2600"
+   },
+   {
+      "23481" : "19078",
+      "epic" : "Epic",
+      "gridiron" : "Haku",
+      "earth" : "Dark",
+      "224" : "224",
+      "2760" : "2910",
+      "metal" : "Metal",
+      "2650" : "2890"
+   },
+   {
+      "23481" : "18100",
+      "epic" : "Epic",
+      "gridiron" : "Ipug",
+      "earth" : "Thunder",
+      "224" : "142",
+      "2760" : "2900",
+      "metal" : "Metal",
+      "2650" : "2850"
+   },
+   {
+      "23481" : "18100",
+      "epic" : "Epic",
+      "gridiron" : "Xpug",
+      "earth" : "Thunder",
+      "224" : "142",
+      "2760" : "2900",
+      "metal" : "Metal",
+      "2650" : "2850"
+   },
+   {
+      "23481" : "20057",
+      "epic" : "Epic",
+      "gridiron" : "Van Rock",
+      "earth" : "Thunder",
+      "224" : "224",
+      "2760" : "2890",
+      "metal" : "Earth",
+      "2650" : "2770"
+   },
+   {
+      "23481" : "20057",
+      "epic" : "Epic",
+      "gridiron" : "Rascal",
+      "earth" : "Magic",
+      "224" : "224",
+      "2760" : "2870",
+      "metal" : "Dark",
+      "2650" : "2700"
+   },
+   {
+      "23481" : "19323",
+      "epic" : "Epic",
+      "gridiron" : "Rockham",
+      "earth" : "Magic",
+      "224" : "224",
+      "2760" : "2870",
+      "metal" : "Earth",
+      "2650" : "2760"
+   },
+   {
+      "23481" : "19323",
+      "epic" : "Epic",
+      "gridiron" : "Rockinho",
+      "earth" : "Thunder",
+      "224" : "224",
+      "2760" : "2870",
+      "metal" : "Earth",
+      "2650" : "2730"
+   },
+   {
+      "23481" : "21524",
+      "epic" : "Epic",
+      "gridiron" : "Esthirel",
+      "earth" : "Light",
+      "224" : "142",
+      "2760" : "2860",
+      "metal" : "Fire",
+      "2650" : "2340"
+   },
+   {
+      "23481" : "19078",
+      "epic" : "Epic",
+      "gridiron" : "Neandertaler",
+      "earth" : "Water",
+      "224" : "224",
+      "2760" : "2860",
+      "metal" : "Earth",
+      "2650" : "2860"
+   },
+   {
+      "23481" : "19078",
+      "epic" : "Epic",
+      "gridiron" : "Sasquach",
+      "earth" : "Nature",
+      "224" : "224",
+      "2760" : "2860",
+      "metal" : "Earth",
+      "2650" : "2860"
+   },
+   {
+      "23481" : "22258",
+      "epic" : "Epic",
+      "gridiron" : "Tao Tao",
+      "earth" : "Nature",
+      "224" : "142",
+      "2760" : "2860",
+      "metal" : "Dark",
+      "2650" : "2730"
+   },
+   {
+      "23481" : "19812",
+      "epic" : "Epic",
+      "gridiron" : "Seraphim",
+      "earth" : "Dark",
+      "224" : "114",
+      "2760" : "2859",
+      "metal" : "Light",
+      "2650" : "2780"
+   },
+   {
+      "23481" : "15654",
+      "epic" : "Epic",
+      "gridiron" : "Hydnora",
+      "earth" : "Nature",
+      "224" : "142",
+      "2760" : "2850",
+      "metal" : "Magic",
+      "2650" : "2610"
+   },
+   {
+      "23481" : "19812",
+      "epic" : "Epic",
+      "gridiron" : "Rockidson",
+      "earth" : "Thunder",
+      "224" : "224",
+      "2760" : "2850",
+      "metal" : "Earth",
+      "2650" : "2730"
+   },
+   {
+      "23481" : "20301",
+      "epic" : "Epic",
+      "gridiron" : "Rocksteiger",
+      "earth" : "Magic",
+      "224" : "224",
+      "2760" : "2850",
+      "metal" : "Earth",
+      "2650" : "2740"
+   },
+   {
+      "23481" : "20057",
+      "epic" : "Epic",
+      "gridiron" : "Ledovech",
+      "earth" : "Rock",
+      "224" : "224",
+      "2760" : "2830",
+      "metal" : "Water",
+      "2650" : "2810"
+   },
+   {
+      "23481" : "19078",
+      "epic" : "Epic",
+      "gridiron" : "Rockadona",
+      "earth" : "Magic",
+      "224" : "224",
+      "2760" : "2830",
+      "metal" : "Earth",
+      "2650" : "2730"
+   },
+   {
+      "23481" : "19078",
+      "epic" : "Epic",
+      "gridiron" : "Rockarito",
+      "earth" : "Magic",
+      "224" : "224",
+      "2760" : "2830",
+      "metal" : "Earth",
+      "2650" : "2720"
+   },
+   {
+      "23481" : "19323",
+      "epic" : "Epic",
+      "gridiron" : "Wisteria",
+      "earth" : "Magic",
+      "224" : "142",
+      "2760" : "2830",
+      "metal" : "Dark",
+      "2650" : "2600"
+   },
+   {
+      "23481" : "20791",
+      "epic" : "Epic",
+      "gridiron" : "Rhinoram",
+      "earth" : "Fire",
+      "224" : "224",
+      "2760" : "2820",
+      "metal" : "Metal",
+      "2650" : "2870"
+   },
+   {
+      "23481" : "24215",
+      "epic" : "Epic",
+      "gridiron" : "Dusty Fear",
+      "earth" : "Dark",
+      "224" : "142",
+      "2760" : "2800",
+      "metal" : "Magic",
+      "2650" : "2340"
+   },
+   {
+      "23481" : "19812",
+      "epic" : "Epic",
+      "gridiron" : "Hellborne",
+      "earth" : "Dark",
+      "224" : "224",
+      "2760" : "2800",
+      "metal" : "Fire",
+      "2650" : "2770"
+   },
+   {
+      "23481" : "19812",
+      "epic" : "Epic",
+      "gridiron" : "Master Fong",
+      "earth" : "Light",
+      "224" : "224",
+      "2760" : "2800",
+      "metal" : "Fire",
+      "2650" : "2770"
+   },
+   {
+      "23481" : "20057",
+      "epic" : "Epic",
+      "gridiron" : "Rockaggio",
+      "earth" : "Water",
+      "224" : "224",
+      "2760" : "2800",
+      "metal" : "Earth",
+      "2650" : "2760"
+   },
+   {
+      "23481" : "19078",
+      "epic" : "Epic",
+      "gridiron" : "Rootziel",
+      "earth" : "Nature",
+      "224" : "142",
+      "2760" : "2800",
+      "metal" : "Light",
+      "2650" : "2330"
+   },
+   {
+      "23481" : "24215",
+      "epic" : "Epic",
+      "gridiron" : "Teddy Fear",
+      "earth" : "Dark",
+      "224" : "142",
+      "2760" : "2800",
+      "metal" : "Earth",
+      "2650" : "2340"
+   },
+   {
+      "23481" : "20301",
+      "epic" : "Epic",
+      "gridiron" : "Bjarni",
+      "earth" : "Thunder",
+      "224" : "142",
+      "2760" : "2780",
+      "metal" : "Fire",
+      "2650" : "2760"
+   },
+   {
+      "23481" : "20301",
+      "epic" : "Epic",
+      "gridiron" : "Kal'Drekk",
+      "earth" : "Nature",
+      "224" : "142",
+      "2760" : "2780",
+      "metal" : "Dark",
+      "2650" : "2760"
+   },
+   {
+      "23481" : "19812",
+      "epic" : "Epic",
+      "gridiron" : "Rockamura",
+      "earth" : "Water",
+      "224" : "224",
+      "2760" : "2770",
+      "metal" : "Earth",
+      "2650" : "2770"
+   },
+   {
+      "23481" : "19812",
+      "epic" : "Epic",
+      "gridiron" : "Rockanne",
+      "earth" : "Water",
+      "224" : "224",
+      "2760" : "2740",
+      "metal" : "Earth",
+      "2650" : "2760"
+   },
+   {
+      "23481" : "20057",
+      "epic" : "Epic",
+      "gridiron" : "Drop Elemental",
+      "earth" : "Magic",
+      "224" : "142",
+      "2760" : "2730",
+      "metal" : "Water",
+      "2650" : "2080"
+   },
+   {
+      "23481" : "20301",
+      "epic" : "Epic",
+      "gridiron" : "Hyperion",
+      "earth" : "Thunder",
+      "224" : "142",
+      "2760" : "2730",
+      "metal" : "Metal",
+      "2650" : "2800"
+   },
+   {
+      "23481" : "19078",
+      "epic" : "Epic",
+      "gridiron" : "Rockiesta",
+      "earth" : "Fire",
+      "224" : "224",
+      "2760" : "2720",
+      "metal" : "Earth",
+      "2650" : "2770"
+   },
+   {
+      "23481" : "22258",
+      "epic" : "Epic",
+      "gridiron" : "Plethodon",
+      "earth" : "Earth",
+      "224" : "224",
+      "2760" : "2700",
+      "metal" : "Fire",
+      "2650" : "2780"
+   },
+   {
+      "23481" : "18834",
+      "epic" : "Epic",
+      "gridiron" : "Rock Li-Sun",
+      "earth" : "Fire",
+      "224" : "224",
+      "2760" : "2700",
+      "metal" : "Earth",
+      "2650" : "2670"
+   },
+   {
+      "23481" : "18834",
+      "epic" : "Epic",
+      "gridiron" : "Coldberus",
+      "earth" : "Water",
+      "224" : "142",
+      "2760" : "2670",
+      "metal" : "Dark",
+      "2650" : "2600"
+   },
+   {
+      "23481" : "20057",
+      "epic" : "Epic",
+      "gridiron" : "Freeza",
+      "earth" : "Magic",
+      "224" : "224",
+      "2760" : "2610",
+      "metal" : "Water",
+      "2650" : "2810"
+   },
+   {
+      "23481" : "18345",
+      "epic" : "Epic",
+      "gridiron" : "Arnu",
+      "earth" : "Water",
+      "224" : "142",
+      "2760" : "2600",
+      "metal" : "Nature",
+      "2650" : "2070"
+   },
+   {
+      "23481" : "15654",
+      "epic" : "Epic",
+      "gridiron" : "Fliploch",
+      "earth" : "Dark",
+      "224" : "142",
+      "2760" : "2600",
+      "metal" : "Water",
+      "2650" : "2860"
+   },
+   {
+      "23481" : "21524",
+      "epic" : "Epic",
+      "gridiron" : "Frank S. Tein",
+      "earth" : "Earth",
+      "224" : "142",
+      "2760" : "2600",
+      "metal" : "Dark",
+      "2650" : "2590"
+   },
+   {
+      "23481" : "16143",
+      "epic" : "Epic",
+      "gridiron" : "Medussha",
+      "earth" : "Rock",
+      "224" : "224",
+      "2760" : "2600",
+      "metal" : "Light",
+      "2650" : "2650"
+   },
+   {
+      "23481" : "17855",
+      "epic" : "Epic",
+      "gridiron" : "Pegasus",
+      "earth" : "Light",
+      "224" : "142",
+      "2760" : "2600",
+      "metal" : "Nature",
+      "2650" : "2600"
+   },
+   {
+      "23481" : "17855",
+      "epic" : "Epic",
+      "gridiron" : "Scorchpeg",
+      "earth" : "Light",
+      "224" : "142",
+      "2760" : "2600",
+      "metal" : "Fire",
+      "2650" : "2600"
+   },
+   {
+      "23481" : "16877",
+      "epic" : "Epic",
+      "gridiron" : "Kimmel's Gift",
+      "earth" : "Magic",
+      "224" : "142",
+      "2760" : "2570",
+      "metal" : "Dark",
+      "2650" : "2720"
+   },
+   {
+      "23481" : "20301",
+      "epic" : "Epic",
+      "gridiron" : "Cthulhu",
+      "earth" : "Water",
+      "224" : "142",
+      "2760" : "2560",
+      "metal" : "Dark",
+      "2650" : "2800"
+   },
+   {
+      "23481" : "20301",
+      "epic" : "Epic",
+      "gridiron" : "Freedom Feather",
+      "earth" : "Water",
+      "224" : "224",
+      "2760" : "2560",
+      "metal" : "Fire",
+      "2650" : "2800"
+   },
+   {
+      "23481" : "19323",
+      "epic" : "Epic",
+      "gridiron" : "Hellberus",
+      "earth" : "Fire",
+      "224" : "224",
+      "2760" : "2380",
+      "metal" : "Dark",
+      "2650" : "2740"
+   },
+   {
+      "23481" : "22258",
+      "epic" : "Epic",
+      "gridiron" : "Rock Druid",
+      "earth" : "Light",
+      "224" : "224",
+      "2760" : "2350",
+      "metal" : "Rock",
+      "2650" : "2630"
+   },
+   {
+      "23481" : "18834",
+      "epic" : "Epic",
+      "gridiron" : "w'Olftagnan",
+      "earth" : "Dark",
+      "224" : "114",
+      "2760" : "2350",
+      "metal" : "Light",
+      "2650" : "2630"
+   },
+   {
+      "23481" : "20057",
+      "epic" : "Epic",
+      "gridiron" : "Ao Loong",
+      "earth" : "Rock",
+      "224" : "224",
+      "2760" : "2340",
+      "metal" : "Fire",
+      "2650" : "2540"
+   },
+   {
+      "23481" : "21524",
+      "epic" : "Epic",
+      "gridiron" : "Dragonian Beast",
+      "earth" : "Nature",
+      "224" : "224",
+      "2760" : "2340",
+      "metal" : "Rock",
+      "2650" : "2600"
+   },
+   {
+      "23481" : "20301",
+      "epic" : "Epic",
+      "gridiron" : "Elder Sporeling",
+      "earth" : "Fire",
+      "224" : "224",
+      "2760" : "2340",
+      "metal" : "Nature",
+      "2650" : "2670"
+   },
+   {
+      "23481" : "20057",
+      "epic" : "Epic",
+      "gridiron" : "Musu",
+      "earth" : "Water",
+      "224" : "224",
+      "2760" : "2340",
+      "metal" : "Rock",
+      "2650" : "2540"
+   },
+   {
+      "23481" : "17855",
+      "epic" : "Epic",
+      "gridiron" : "Razfeesh",
+      "earth" : "Water",
+      "224" : "142",
+      "2760" : "2340",
+      "metal" : "Dark",
+      "2650" : "2860"
+   },
+   {
+      "23481" : "22992",
+      "epic" : "Epic",
+      "gridiron" : "Tartarus",
+      "earth" : "Magic",
+      "224" : "224",
+      "2760" : "2080",
+      "metal" : "Earth",
+      "2650" : "2730"
+   },
+   {
+      "23481" : "22503",
+      "epic" : "Epic",
+      "gridiron" : "Donaturtle",
+      "earth" : "Water",
+      "224" : "142",
+      "2760" : "2050",
+      "metal" : "Nature",
+      "2650" : "2340"
+   },
+   {
+      "23481" : "20057",
+      "epic" : "Epic",
+      "gridiron" : "Skipples",
+      "earth" : "Fire",
+      "224" : "142",
+      "2760" : "1990",
+      "metal" : "Light",
+      "2650" : "2860"
+   },
+   {
+      "23481" : "20057",
+      "epic" : "Epic",
+      "gridiron" : "Faymelina",
+      "earth" : "Dark",
+      "224" : "114",
+      "2760" : "1980",
+      "metal" : "Light",
+      "2650" : "2860"
+   },
+   {
+      "23481" : "24460",
+      "epic" : "Epic",
+      "gridiron" : "Goldcore",
+      "earth" : "Earth",
+      "224" : "142",
+      "2760" : "1950",
+      "metal" : "Light",
+      "2650" : "2280"
+   },
+   {
+      "23481" : "22992",
+      "epic" : "Epic",
+      "gridiron" : "Irockman",
+      "earth" : "Thunder",
+      "224" : "224",
+      "2760" : "1950",
+      "metal" : "Rock",
+      "2650" : "2860"
+   },
+   {
+      "23481" : "22503",
+      "epic" : "Epic",
+      "gridiron" : "Beetrat",
+      "earth" : "Nature",
+      "224" : "142",
+      "2760" : "2340",
+      "metal" : "Magic",
+      "2650" : "2340"
+   }
+]
+}

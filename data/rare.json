@@ -1,0 +1,405 @@
+{ 
+    "data":
+[
+   {
+      "1581" : "1581",
+      "204" : "154",
+      "1989" : "1989",
+      "rare" : "Rare",
+      "nature" : "Nature",
+      "molem" : "Tarzape",
+      "14479" : "14479",
+      "earth" : "Earth"
+   },
+   {
+      "1581" : "1530",
+      "204" : "154",
+      "1989" : "2295",
+      "rare" : "Rare",
+      "nature" : "Fire",
+      "molem" : "Freettle",
+      "14479" : "14479",
+      "earth" : "Earth"
+   },
+   {
+      "1581" : "2133",
+      "204" : "102",
+      "1989" : "2142",
+      "rare" : "Rare",
+      "nature" : "Nature",
+      "molem" : "LaCroc",
+      "14479" : "14139",
+      "earth" : "Earth"
+   },
+   {
+      "1581" : "2040",
+      "204" : "102",
+      "1989" : "2227",
+      "rare" : "Rare",
+      "nature" : "Nature",
+      "molem" : "Trevor",
+      "14479" : "14139",
+      "earth" : "Earth"
+   },
+   {
+      "1581" : "2244",
+      "204" : "154",
+      "1989" : "2286",
+      "rare" : "Rare",
+      "nature" : "Earth",
+      "molem" : "Sludger",
+      "14479" : "13968",
+      "earth" : "Water"
+   },
+   {
+      "1581" : "2142",
+      "204" : "154",
+      "1989" : "2091",
+      "rare" : "Rare",
+      "nature" : "Earth",
+      "molem" : "Cristobal",
+      "14479" : "13968",
+      "earth" : "Water"
+   },
+   {
+      "1581" : "1938",
+      "204" : "128",
+      "1989" : "2286",
+      "rare" : "Rare",
+      "nature" : "Nature",
+      "molem" : "Crux",
+      "14479" : "13116",
+      "earth" : "Metal"
+   },
+   {
+      "1581" : "2201",
+      "204" : "204",
+      "1989" : "2193",
+      "rare" : "Rare",
+      "nature" : "Light",
+      "molem" : "Boneticore",
+      "14479" : "13116",
+      "earth" : "Fire"
+   },
+   {
+      "1581" : "2142",
+      "204" : "102",
+      "1989" : "2252",
+      "rare" : "Rare",
+      "nature" : "Nature",
+      "molem" : "Crushmore",
+      "14479" : "13116",
+      "earth" : "Earth"
+   },
+   {
+      "1581" : "2040",
+      "204" : "154",
+      "1989" : "1785",
+      "rare" : "Rare",
+      "nature" : "Earth",
+      "molem" : "Bonbon",
+      "14479" : "12946",
+      "earth" : "Thunder"
+   },
+   {
+      "1581" : "2193",
+      "204" : "103",
+      "1989" : "2040",
+      "rare" : "Rare",
+      "nature" : "Nature",
+      "molem" : "Nereida",
+      "14479" : "12946",
+      "earth" : "Magic"
+   },
+   {
+      "1581" : "1530",
+      "204" : "154",
+      "1989" : "2295",
+      "rare" : "Rare",
+      "nature" : "Fire",
+      "molem" : "Djinn",
+      "14479" : "12946",
+      "earth" : "Magic"
+   },
+   {
+      "1581" : "2303",
+      "204" : "103",
+      "1989" : "1632",
+      "rare" : "Rare",
+      "nature" : "Magic",
+      "molem" : "Zim",
+      "14479" : "12946",
+      "earth" : "Light"
+   },
+   {
+      "1581" : "2295",
+      "204" : "103",
+      "1989" : "1632",
+      "rare" : "Rare",
+      "nature" : "Thunder",
+      "molem" : "Pulseprism",
+      "14479" : "12946",
+      "earth" : "Light"
+   },
+   {
+      "1581" : "2040",
+      "204" : "103",
+      "1989" : "1785",
+      "rare" : "Rare",
+      "nature" : "Water",
+      "molem" : "Raane",
+      "14479" : "12946",
+      "earth" : "Light"
+   },
+   {
+      "1581" : "1785",
+      "204" : "103",
+      "1989" : "2040",
+      "rare" : "Rare",
+      "nature" : "Nature",
+      "molem" : "Rudicius",
+      "14479" : "12946",
+      "earth" : "Light"
+   },
+   {
+      "1581" : "1530",
+      "204" : "103",
+      "1989" : "2295",
+      "rare" : "Rare",
+      "nature" : "Earth",
+      "molem" : "Beefcake",
+      "14479" : "12946",
+      "earth" : "Dark"
+   },
+   {
+      "1581" : "2082",
+      "204" : "128",
+      "1989" : "2142",
+      "rare" : "Rare",
+      "nature" : "Light",
+      "molem" : "Aurinia",
+      "14479" : "12435",
+      "earth" : "Metal"
+   },
+   {
+      "1581" : "2286",
+      "204" : "128",
+      "1989" : "2278",
+      "rare" : "Rare",
+      "nature" : "Earth",
+      "molem" : "Slayentaur",
+      "14479" : "12435",
+      "earth" : "Light"
+   },
+   {
+      "1581" : "2286",
+      "204" : "128",
+      "1989" : "2142",
+      "rare" : "Rare",
+      "nature" : "Dark",
+      "molem" : "Vortux",
+      "14479" : "11583",
+      "earth" : "Metal"
+   },
+   {
+      "1581" : "1734",
+      "204" : "103",
+      "1989" : "2346",
+      "rare" : "Rare",
+      "nature" : "Thunder",
+      "molem" : "Shanky",
+      "14479" : "11414",
+      "earth" : "Dark"
+   },
+   {
+      "1581" : "2142",
+      "204" : "154",
+      "1989" : "1938",
+      "rare" : "Rare",
+      "nature" : "Nature",
+      "molem" : "Komocat",
+      "14479" : "11413",
+      "earth" : "Water"
+   },
+   {
+      "1581" : "2040",
+      "204" : "103",
+      "1989" : "2040",
+      "rare" : "Rare",
+      "nature" : "Nature",
+      "molem" : "Bumblesnout",
+      "14479" : "11413",
+      "earth" : "Water"
+   },
+   {
+      "1581" : "2286",
+      "204" : "154",
+      "1989" : "1793",
+      "rare" : "Rare",
+      "nature" : "Water",
+      "molem" : "Octocrush",
+      "14479" : "11413",
+      "earth" : "Magic"
+   },
+   {
+      "1581" : "2295",
+      "204" : "130",
+      "1989" : "2040",
+      "rare" : "Rare",
+      "nature" : "Dark",
+      "molem" : "Rhodent",
+      "14479" : "11243",
+      "earth" : "Thunder"
+   },
+   {
+      "1581" : "2295",
+      "204" : "128",
+      "1989" : "2040",
+      "rare" : "Rare",
+      "nature" : "Magic",
+      "molem" : "Dommeath",
+      "14479" : "10902",
+      "earth" : "Metal"
+   },
+   {
+      "1581" : "1887",
+      "204" : "128",
+      "1989" : "2244",
+      "rare" : "Rare",
+      "nature" : "Earth",
+      "molem" : "Gravoid",
+      "14479" : "10902",
+      "earth" : "Metal"
+   },
+   {
+      "1581" : "2244",
+      "204" : "128",
+      "1989" : "2303",
+      "rare" : "Rare",
+      "nature" : "Thunder",
+      "molem" : "Dan Felino",
+      "14479" : "10902",
+      "earth" : "Light"
+   },
+   {
+      "1581" : "2278",
+      "204" : "128",
+      "1989" : "2303",
+      "rare" : "Rare",
+      "nature" : "Water",
+      "molem" : "Metaselach",
+      "14479" : "10391",
+      "earth" : "Metal"
+   },
+   {
+      "1581" : "2295",
+      "204" : "154",
+      "1989" : "2040",
+      "rare" : "Rare",
+      "nature" : "Thunder",
+      "molem" : "Koopigg",
+      "14479" : "10221",
+      "earth" : "Water"
+   },
+   {
+      "1581" : "2040",
+      "204" : "154",
+      "1989" : "2295",
+      "rare" : "Rare",
+      "nature" : "Fire",
+      "molem" : "Vapwhirl",
+      "14479" : "10221",
+      "earth" : "Water"
+   },
+   {
+      "1581" : "2040",
+      "204" : "154",
+      "1989" : "2295",
+      "rare" : "Rare",
+      "nature" : "Fire",
+      "molem" : "Pandaken",
+      "14479" : "10221",
+      "earth" : "Nature"
+   },
+   {
+      "1581" : "2031",
+      "204" : "128",
+      "1989" : "2312",
+      "rare" : "Rare",
+      "nature" : "Fire",
+      "molem" : "Fornax",
+      "14479" : "10221",
+      "earth" : "Metal"
+   },
+   {
+      "1581" : "2550",
+      "204" : "154",
+      "1989" : "1785",
+      "rare" : "Rare",
+      "nature" : "Thunder",
+      "molem" : "Sparkwedge",
+      "14479" : "10221",
+      "earth" : "Magic"
+   },
+   {
+      "1581" : "2040",
+      "204" : "103",
+      "1989" : "2295",
+      "rare" : "Rare",
+      "nature" : "Nature",
+      "molem" : "Dendrosaur",
+      "14479" : "10221",
+      "earth" : "Dark"
+   },
+   {
+      "1581" : "2286",
+      "204" : "128",
+      "1989" : "2303",
+      "rare" : "Rare",
+      "nature" : "Thunder",
+      "molem" : "Garuda M3",
+      "14479" : "10050",
+      "earth" : "Metal"
+   },
+   {
+      "1581" : "2295",
+      "204" : "154",
+      "1989" : "2295",
+      "rare" : "Rare",
+      "nature" : "Fire",
+      "molem" : "Thundenix",
+      "14479" : "8517",
+      "earth" : "Thunder"
+   },
+   {
+      "1581" : "1785",
+      "204" : "103",
+      "1989" : "2448",
+      "rare" : "Rare",
+      "nature" : "Fire",
+      "molem" : "Firetaur",
+      "14479" : "8517",
+      "earth" : "Dark"
+   },
+   {
+      "1581" : "2295",
+      "204" : "103",
+      "1989" : "2337",
+      "rare" : "Rare",
+      "nature" : "Dark",
+      "molem" : "Haze",
+      "14479" : "8347",
+      "earth" : "Magic"
+   },
+   {
+      "1581" : "2184",
+      "204" : "103",
+      "1989" : "2261",
+      "rare" : "Rare",
+      "nature" : "Nature",
+      "molem" : "Thunderon",
+      "14479" : "13287",
+      "earth" : "Thunder"
+   }
+]
+}

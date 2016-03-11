@@ -1,0 +1,125 @@
+{ 
+    "data":
+[
+   {
+      "type1" : "Fire",
+      "type2" : "",
+      "gpm" : "62",
+      "name" : "Fire Lion",
+      "tier" : "Common",
+      "speed" : "875",
+      "power" : "1100",
+      "life" : "2480"
+   },
+   {
+      "type1" : "Water",
+      "type2" : "",
+      "gpm" : "32",
+      "name" : "Turtle",
+      "tier" : "Common",
+      "speed" : "1000",
+      "power" : "1000",
+      "life" : "2777"
+   },
+   {
+      "type1" : "Nature",
+      "type2" : "",
+      "gpm" : "32",
+      "name" : "Panda",
+      "tier" : "Common",
+      "speed" : "1000",
+      "power" : "950",
+      "life" : "2777"
+   },
+   {
+      "type1" : "Earth",
+      "type2" : "",
+      "gpm" : "62",
+      "name" : "Rockilla",
+      "tier" : "Common",
+      "speed" : "875",
+      "power" : "875",
+      "life" : "3521"
+   },
+   {
+      "type1" : "Light",
+      "type2" : null,
+      "gpm" : "17",
+      "name" : "Light Spirit",
+      "tier" : "Common",
+      "speed" : "875",
+      "power" : "875",
+      "life" : "3521"
+   },
+   {
+      "type1" : "Metal",
+      "type2" : "",
+      "gpm" : "32",
+      "name" : "Metalsaur",
+      "tier" : "Common",
+      "speed" : "1000",
+      "power" : "1120",
+      "life" : "2976"
+   },
+   {
+      "type1" : "Water",
+      "type2" : "",
+      "gpm" : "32",
+      "name" : "Mersnake",
+      "tier" : "Common",
+      "speed" : "1000",
+      "power" : "1125",
+      "life" : "2777"
+   },
+   {
+      "type1" : "Nature",
+      "type2" : "",
+      "gpm" : "32",
+      "name" : "Treezard",
+      "tier" : "Common",
+      "speed" : "100",
+      "power" : "1125",
+      "life" : "2777"
+   },
+   {
+      "type1" : "Thunder",
+      "type2" : "",
+      "gpm" : "62",
+      "name" : "Thunder Eagle",
+      "tier" : "Common",
+      "speed" : "1250",
+      "power" : "875",
+      "life" : "2480"
+   },
+   {
+      "type1" : "Fire",
+      "type2" : "",
+      "gpm" : "62",
+      "name" : "Firesaur",
+      "tier" : "Common",
+      "speed" : "875",
+      "power" : "1375",
+      "life" : "2480"
+   },
+   {
+      "type1" : "Magic",
+      "type2" : "",
+      "gpm" : "32",
+      "name" : "Genie",
+      "tier" : "Common",
+      "speed" : "1250",
+      "power" : "950",
+      "life" : "2480"
+   },
+   {
+      "type1" : "Dark",
+      "type2" : "",
+      "gpm" : "17",
+      "name" : "Tyrannoking",
+      "tier" : "Common",
+      "speed" : "875",
+      "power" : "1150",
+      "life" : "2480"
+   }
+]
+}

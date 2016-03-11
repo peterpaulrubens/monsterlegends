@@ -1,0 +1,824 @@
+{ 
+    "data":
+[
+   {
+      "3542" : "3278",
+      "244" : "244",
+      "the_judgment" : "Toy Master",
+      "3377" : "3465",
+      "29556" : "27143",
+      "nature" : "Magic",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3388",
+      "244" : "244",
+      "the_judgment" : "Blockheart",
+      "3377" : "3432",
+      "29556" : "24429",
+      "nature" : "Magic",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3234",
+      "244" : "244",
+      "the_judgment" : "Sarah",
+      "3377" : "3476",
+      "29556" : "27445",
+      "nature" : "Nature",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3234",
+      "244" : "244",
+      "the_judgment" : "The Prisoner",
+      "3377" : "2816",
+      "29556" : "31667",
+      "nature" : "Water",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3531",
+      "244" : "244",
+      "the_judgment" : "Anton Acorne",
+      "3377" : "3465",
+      "29556" : "28350",
+      "nature" : "Water",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3509",
+      "244" : "305",
+      "the_judgment" : "Uru",
+      "3377" : "3465",
+      "29556" : "26239",
+      "nature" : "Magic",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3388",
+      "244" : "305",
+      "the_judgment" : "ML-1 Yamato",
+      "3377" : "3399",
+      "29556" : "29255",
+      "nature" : "Metal",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3531",
+      "244" : "305",
+      "the_judgment" : "Scarr The Outcast",
+      "3377" : "3465",
+      "29556" : "31366",
+      "nature" : "Magic",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3300",
+      "244" : "305",
+      "the_judgment" : "General Alces",
+      "3377" : "3432",
+      "29556" : "30461",
+      "nature" : "Nature",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3157",
+      "244" : "305",
+      "the_judgment" : "Galante",
+      "3377" : "3476",
+      "29556" : "28350",
+      "nature" : "Magic",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3245",
+      "244" : "305",
+      "the_judgment" : "Darude",
+      "3377" : "3355",
+      "29556" : "31667",
+      "nature" : "Earth",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3388",
+      "244" : "244",
+      "the_judgment" : "Sphyyrnus",
+      "3377" : "3432",
+      "29556" : "28651",
+      "nature" : "Water",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3553",
+      "244" : "305",
+      "the_judgment" : "Malair",
+      "3377" : "3454",
+      "29556" : "27445",
+      "nature" : "Magic",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3322",
+      "244" : "244",
+      "the_judgment" : "Lux Aura",
+      "3377" : "3454",
+      "29556" : "29255",
+      "nature" : "Light",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "2926",
+      "244" : "244",
+      "the_judgment" : "Lostyghost",
+      "3377" : "3542",
+      "29556" : "33779",
+      "nature" : "Dark",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "2464",
+      "244" : "244",
+      "the_judgment" : "Panda Claus",
+      "3377" : "3542",
+      "29556" : "31668",
+      "nature" : "Magic",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "2310",
+      "244" : "305",
+      "the_judgment" : "Cupid",
+      "3377" : "3542",
+      "29556" : "25334",
+      "nature" : "Magic",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3124",
+      "244" : "244",
+      "the_judgment" : "Krampus",
+      "3377" : "3531",
+      "29556" : "28651",
+      "nature" : "Dark",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "2926",
+      "244" : "305",
+      "the_judgment" : "Thorder",
+      "3377" : "3509",
+      "29556" : "21112",
+      "nature" : "Thunder",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3223",
+      "244" : "244",
+      "the_judgment" : "Queen Luthien",
+      "3377" : "3476",
+      "29556" : "27143",
+      "nature" : "Light",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3047",
+      "244" : "305",
+      "the_judgment" : "Laomu",
+      "3377" : "3476",
+      "29556" : "29556",
+      "nature" : "Nature",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3322",
+      "244" : "305",
+      "the_judgment" : "R.O.F.L",
+      "3377" : "3476",
+      "29556" : "26540",
+      "nature" : "Thunder",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3509",
+      "244" : "244",
+      "the_judgment" : "Klectus",
+      "3377" : "3465",
+      "29556" : "22318",
+      "nature" : "Dark",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3146",
+      "244" : "244",
+      "the_judgment" : "Lilysha",
+      "3377" : "3465",
+      "29556" : "25635",
+      "nature" : "Dark",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3300",
+      "244" : "244",
+      "the_judgment" : "Noctum",
+      "3377" : "3465",
+      "29556" : "27144",
+      "nature" : "Dark",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3146",
+      "244" : "244",
+      "the_judgment" : "Caillech",
+      "3377" : "3465",
+      "29556" : "28651",
+      "nature" : "Water",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3509",
+      "244" : "305",
+      "the_judgment" : "Darmith",
+      "3377" : "3465",
+      "29556" : "27747",
+      "nature" : "Fire",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3575",
+      "244" : "305",
+      "the_judgment" : "Annihilator R2",
+      "3377" : "3465",
+      "29556" : "27747",
+      "nature" : "Metal",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3355",
+      "244" : "305",
+      "the_judgment" : "VoltaiK",
+      "3377" : "3465",
+      "29556" : "24429",
+      "nature" : "Thunder",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3267",
+      "244" : "244",
+      "the_judgment" : "Oghma",
+      "3377" : "3454",
+      "29556" : "29255",
+      "nature" : "Light",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3080",
+      "244" : "244",
+      "the_judgment" : "Cavenfish",
+      "3377" : "3454",
+      "29556" : "28651",
+      "nature" : "Water",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3399",
+      "244" : "305",
+      "the_judgment" : "Raccoon",
+      "3377" : "3454",
+      "29556" : "28651",
+      "nature" : "Fire",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3311",
+      "244" : "305",
+      "the_judgment" : "Greedy Dragon",
+      "3377" : "3454",
+      "29556" : "28651",
+      "nature" : "Fire",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3454",
+      "244" : "305",
+      "the_judgment" : "Shannara",
+      "3377" : "3454",
+      "29556" : "25334",
+      "nature" : "Magic",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3322",
+      "244" : "305",
+      "the_judgment" : "Ultrabot",
+      "3377" : "3454",
+      "29556" : "28652",
+      "nature" : "Metal",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3553",
+      "244" : "305",
+      "the_judgment" : "Killeraptor",
+      "3377" : "3432",
+      "29556" : "29858",
+      "nature" : "Earth",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3311",
+      "244" : "305",
+      "the_judgment" : "White Pandalf",
+      "3377" : "3432",
+      "29556" : "29255",
+      "nature" : "Magic",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3454",
+      "244" : "305",
+      "the_judgment" : "Uria",
+      "3377" : "3432",
+      "29556" : "29858",
+      "nature" : "Thunder",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3157",
+      "244" : "244",
+      "the_judgment" : "Dr. Hazard",
+      "3377" : "3421",
+      "29556" : "30461",
+      "nature" : "Dark",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3355",
+      "244" : "244",
+      "the_judgment" : "Master Skeel",
+      "3377" : "3421",
+      "29556" : "30461",
+      "nature" : "Dark",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3311",
+      "244" : "244",
+      "the_judgment" : "Mmonster",
+      "3377" : "3421",
+      "29556" : "26239",
+      "nature" : "Dark",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3278",
+      "244" : "244",
+      "the_judgment" : "Thetys",
+      "3377" : "3421",
+      "29556" : "26540",
+      "nature" : "Water",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3432",
+      "244" : "305",
+      "the_judgment" : "Qin",
+      "3377" : "3421",
+      "29556" : "30763",
+      "nature" : "Earth",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3278",
+      "244" : "305",
+      "the_judgment" : "Pixelion",
+      "3377" : "3421",
+      "29556" : "29255",
+      "nature" : "Magic",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3157",
+      "244" : "305",
+      "the_judgment" : "Reptie",
+      "3377" : "3421",
+      "29556" : "26540",
+      "nature" : "Magic",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3542",
+      "244" : "305",
+      "the_judgment" : "Drazz",
+      "3377" : "3421",
+      "29556" : "31366",
+      "nature" : "Metal",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3542",
+      "244" : "305",
+      "the_judgment" : "Metalhead",
+      "3377" : "3421",
+      "29556" : "31366",
+      "nature" : "Metal",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3300",
+      "244" : "244",
+      "the_judgment" : "Akhenotep",
+      "3377" : "3399",
+      "29556" : "29556",
+      "nature" : "Dark",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3344",
+      "244" : "244",
+      "the_judgment" : "Count Vlad",
+      "3377" : "3399",
+      "29556" : "29556",
+      "nature" : "Dark",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3454",
+      "244" : "244",
+      "the_judgment" : "King Daeron",
+      "3377" : "3399",
+      "29556" : "27747",
+      "nature" : "Light",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3311",
+      "244" : "244",
+      "the_judgment" : "Varuna",
+      "3377" : "3399",
+      "29556" : "28652",
+      "nature" : "Water",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3454",
+      "244" : "305",
+      "the_judgment" : "Atum",
+      "3377" : "3399",
+      "29556" : "31969",
+      "nature" : "Earth",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3575",
+      "244" : "305",
+      "the_judgment" : "Megaosteum",
+      "3377" : "3399",
+      "29556" : "26239",
+      "nature" : "Fire",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3467",
+      "244" : "244",
+      "the_judgment" : "Barbatos",
+      "3377" : "3388",
+      "29556" : "28350",
+      "nature" : "Dark",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "2772",
+      "244" : "244",
+      "the_judgment" : "Nemestrinus",
+      "3377" : "3388",
+      "29556" : "29556",
+      "nature" : "Nature",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "2926",
+      "244" : "244",
+      "the_judgment" : "Lord Atlantis",
+      "3377" : "3388",
+      "29556" : "26540",
+      "nature" : "Water",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3542",
+      "244" : "305",
+      "the_judgment" : "Deadwolf",
+      "3377" : "3388",
+      "29556" : "27143",
+      "nature" : "Earth",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3509",
+      "244" : "305",
+      "the_judgment" : "Monster Clutch",
+      "3377" : "3388",
+      "29556" : "32572",
+      "nature" : "Magic",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "2310",
+      "244" : "305",
+      "the_judgment" : "Timerion",
+      "3377" : "3388",
+      "29556" : "26239",
+      "nature" : "Metal",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3003",
+      "244" : "305",
+      "the_judgment" : "Thundhare",
+      "3377" : "3388",
+      "29556" : "22016",
+      "nature" : "Thunder",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3388",
+      "244" : "305",
+      "the_judgment" : "Minotarus",
+      "3377" : "3377",
+      "29556" : "31366",
+      "nature" : "Earth",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3509",
+      "244" : "305",
+      "the_judgment" : "Megapolaris",
+      "3377" : "3377",
+      "29556" : "27143",
+      "nature" : "Metal",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3531",
+      "244" : "305",
+      "the_judgment" : "Exo Skeel",
+      "3377" : "3377",
+      "29556" : "29652",
+      "nature" : "Thunder",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3278",
+      "244" : "305",
+      "the_judgment" : "Basthet",
+      "3377" : "3355",
+      "29556" : "30763",
+      "nature" : "Earth",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3465",
+      "244" : "305",
+      "the_judgment" : "Ralbog",
+      "3377" : "3344",
+      "29556" : "30763",
+      "nature" : "Fire",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3498",
+      "244" : "244",
+      "the_judgment" : "Layth",
+      "3377" : "3311",
+      "29556" : "31969",
+      "nature" : "Light",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3234",
+      "244" : "244",
+      "the_judgment" : "Ingvar",
+      "3377" : "3267",
+      "29556" : "31366",
+      "nature" : "Light",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3465",
+      "244" : "305",
+      "the_judgment" : "Cyan",
+      "3377" : "3267",
+      "29556" : "29858",
+      "nature" : "Nature",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3047",
+      "244" : "244",
+      "the_judgment" : "Uriel",
+      "3377" : "3245",
+      "29556" : "31366",
+      "nature" : "Light",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3201",
+      "244" : "305",
+      "the_judgment" : "Flirty",
+      "3377" : "3245",
+      "29556" : "31969",
+      "nature" : "Nature",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3311",
+      "244" : "244",
+      "the_judgment" : "Darkzgul",
+      "3377" : "3234",
+      "29556" : "19000",
+      "nature" : "Dark",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "2772",
+      "244" : "244",
+      "the_judgment" : "Nebotus",
+      "3377" : "3234",
+      "29556" : "25032",
+      "nature" : "Dark",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3300",
+      "244" : "305",
+      "the_judgment" : "Chocolove",
+      "3377" : "3234",
+      "29556" : "28651",
+      "nature" : "Magic",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3388",
+      "244" : "305",
+      "the_judgment" : "Son-Cookie",
+      "3377" : "3157",
+      "29556" : "25636",
+      "nature" : "Magic",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3322",
+      "244" : "305",
+      "the_judgment" : "CYMO",
+      "3377" : "3157",
+      "29556" : "26540",
+      "nature" : "Thunder",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "2761",
+      "244" : "305",
+      "the_judgment" : "Firelequin",
+      "3377" : "3124",
+      "29556" : "29255",
+      "nature" : "Fire",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3465",
+      "244" : "244",
+      "the_judgment" : "Lord Mammoth",
+      "3377" : "3091",
+      "29556" : "31667",
+      "nature" : "Water",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3575",
+      "244" : "305",
+      "the_judgment" : "The Firestorm",
+      "3377" : "3091",
+      "29556" : "28652",
+      "nature" : "Fire",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3234",
+      "244" : "244",
+      "the_judgment" : "Sir Slumberly",
+      "3377" : "3080",
+      "29556" : "22016",
+      "nature" : "Dark",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3080",
+      "244" : "244",
+      "the_judgment" : "Arch Knight",
+      "3377" : "3080",
+      "29556" : "23524",
+      "nature" : "Light",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "2464",
+      "244" : "244",
+      "the_judgment" : "Goldfield",
+      "3377" : "3080",
+      "29556" : "32572",
+      "nature" : "Magic",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3080",
+      "244" : "244",
+      "the_judgment" : "White Walker",
+      "3377" : "3080",
+      "29556" : "23524",
+      "nature" : "Water",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3322",
+      "244" : "305",
+      "the_judgment" : "Lord Moltus",
+      "3377" : "3080",
+      "29556" : "25334",
+      "nature" : "Fire",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "2937",
+      "244" : "305",
+      "the_judgment" : "Roastie",
+      "3377" : "3080",
+      "29556" : "29255",
+      "nature" : "Nature",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3311",
+      "244" : "305",
+      "the_judgment" : "Vadamagma",
+      "3377" : "3003",
+      "29556" : "25032",
+      "nature" : "Fire",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "2970",
+      "244" : "244",
+      "the_judgment" : "Firus",
+      "3377" : "2926",
+      "29556" : "29858",
+      "nature" : "Nature",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "2926",
+      "244" : "305",
+      "the_judgment" : "Shi Hou",
+      "3377" : "2926",
+      "29556" : "27445",
+      "nature" : "Earth",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "2937",
+      "244" : "244",
+      "the_judgment" : "Lagerchaun",
+      "3377" : "2783",
+      "29556" : "27144",
+      "nature" : "Nature",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3498",
+      "244" : "305",
+      "the_judgment" : "Ouros",
+      "3377" : "2772",
+      "29556" : "40112",
+      "nature" : "Earth",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3311",
+      "244" : "305",
+      "the_judgment" : "Rockantium",
+      "3377" : "2464",
+      "29556" : "32572",
+      "nature" : "Earth",
+      "legendary" : "Legendary"
+   },
+   {
+      "3542" : "3619",
+      "244" : "244",
+      "the_judgment" : "Worker Hulk",
+      "3377" : "2156",
+      "29556" : "26540",
+      "nature" : "Magic",
+      "legendary" : "Legendary"
+   }
+]
+}
