@@ -2,12 +2,12 @@ Tier,Name,Power,Life,Speed,GPM,Type1,Type2
 Common,Fire Lion,1100,2480,875,62,Fire,
 Common,Turtle,1000,2777,1000,32,Water,
 Common,Panda,950,2777,1000,32,Nature,
-Common,Rockilla,875,3521,875,62,Earth,Light
-Common,Light Spirit,875,3521,875,17,Light,Dark
-Common,Metalsaur,1120,2976,1000,32,Metal,Water
-Common,Mersnake,1125,2777,1000,32,Water,Light
-Common,Treezard,1125,2777,100,32,Nature,Earth
-Common,Thunder Eagle,875,2480,1250,62,Thunder,Light
-Common,Firesaur,1375,2480,875,62,Fire,Thunder
-Common,Genie,950,2480,1250,32,Magic,Earth
-Common,Tyrannoking,1150,2480,875,17,Dark,Light
+Common,Rockilla,875,3521,875,62,Earth,
+Common,Light Spirit,875,3521,875,17,Light
+Common,Metalsaur,1120,2976,1000,32,Metal,
+Common,Mersnake,1125,2777,1000,32,Water,
+Common,Treezard,1125,2777,100,32,Nature,
+Common,Thunder Eagle,875,2480,1250,62,Thunder,
+Common,Firesaur,1375,2480,875,62,Fire,
+Common,Genie,950,2480,1250,32,Magic,
+Common,Tyrannoking,1150,2480,875,17,Dark,
