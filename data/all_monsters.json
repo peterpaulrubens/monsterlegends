@@ -3,7 +3,7 @@
 [
    {
       "type1" : "Fire",
-      "type2" : "",
+      "type2" : "null",
       "gpm" : "62",
       "name" : "Fire Lion",
       "tier" : "Common",
@@ -13,7 +13,7 @@
    },
    {
       "type1" : "Water",
-      "type2" : "",
+      "type2" : "null",
       "gpm" : "32",
       "name" : "Turtle",
       "tier" : "Common",
@@ -23,7 +23,7 @@
    },
    {
       "type1" : "Nature",
-      "type2" : "",
+      "type2" : "null",
       "gpm" : "32",
       "name" : "Panda",
       "tier" : "Common",
@@ -33,7 +33,7 @@
    },
    {
       "type1" : "Earth",
-      "type2" : "",
+      "type2" : "null",
       "gpm" : "62",
       "name" : "Rockilla",
       "tier" : "Common",
@@ -42,7 +42,7 @@
       "life" : "3521"
    },
    {
-      "type1" : "Light",
+      "type1" : "Lightnull",
       "type2" : null,
       "gpm" : "17",
       "name" : "Light Spirit",
@@ -53,7 +53,7 @@
    },
    {
       "type1" : "Metal",
-      "type2" : "",
+      "type2" : "null",
       "gpm" : "32",
       "name" : "Metalsaur",
       "tier" : "Common",
@@ -63,7 +63,7 @@
    },
    {
       "type1" : "Water",
-      "type2" : "",
+      "type2" : "null",
       "gpm" : "32",
       "name" : "Mersnake",
       "tier" : "Common",
@@ -73,7 +73,7 @@
    },
    {
       "type1" : "Nature",
-      "type2" : "",
+      "type2" : "null",
       "gpm" : "32",
       "name" : "Treezard",
       "tier" : "Common",
@@ -83,7 +83,7 @@
    },
    {
       "type1" : "Thunder",
-      "type2" : "",
+      "type2" : "null",
       "gpm" : "62",
       "name" : "Thunder Eagle",
       "tier" : "Common",
@@ -93,7 +93,7 @@
    },
    {
       "type1" : "Fire",
-      "type2" : "",
+      "type2" : "null",
       "gpm" : "62",
       "name" : "Firesaur",
       "tier" : "Common",
@@ -103,7 +103,7 @@
    },
    {
       "type1" : "Magic",
-      "type2" : "",
+      "type2" : "null",
       "gpm" : "32",
       "name" : "Genie",
       "tier" : "Common",
@@ -113,7 +113,7 @@
    },
    {
       "type1" : "Dark",
-      "type2" : "",
+      "type2" : "null",
       "gpm" : "17",
       "name" : "Tyrannoking",
       "tier" : "Common",
@@ -892,7 +892,7 @@
       "life" : "15899"
    },
    {
-      "type1" : "Rock",
+      "type1" : "Earth",
       "type2" : "Dark",
       "gpm" : "142",
       "name" : "Greygoyle",
@@ -1383,7 +1383,7 @@
    },
    {
       "type1" : "Water",
-      "type2" : "Rock",
+      "type2" : "Earth",
       "gpm" : "224",
       "name" : "Ledovech",
       "tier" : "Epic",
@@ -1633,7 +1633,7 @@
    },
    {
       "type1" : "Light",
-      "type2" : "Rock",
+      "type2" : "Earth",
       "gpm" : "224",
       "name" : "Medussha",
       "tier" : "Epic",
@@ -1702,7 +1702,7 @@
       "life" : "19323"
    },
    {
-      "type1" : "Rock",
+      "type1" : "Earth",
       "type2" : "Light",
       "gpm" : "224",
       "name" : "Rock Druid",
@@ -1723,7 +1723,7 @@
    },
    {
       "type1" : "Fire",
-      "type2" : "Rock",
+      "type2" : "Earth",
       "gpm" : "224",
       "name" : "Ao Loong",
       "tier" : "Epic",
@@ -1732,7 +1732,7 @@
       "life" : "20057"
    },
    {
-      "type1" : "Rock",
+      "type1" : "Earth",
       "type2" : "Nature",
       "gpm" : "224",
       "name" : "Dragonian Beast",
@@ -1752,7 +1752,7 @@
       "life" : "20301"
    },
    {
-      "type1" : "Rock",
+      "type1" : "Earth",
       "type2" : "Water",
       "gpm" : "224",
       "name" : "Musu",
@@ -1822,7 +1822,7 @@
       "life" : "24460"
    },
    {
-      "type1" : "Rock",
+      "type1" : "Earth",
       "type2" : "Thunder",
       "gpm" : "224",
       "name" : "Irockman",

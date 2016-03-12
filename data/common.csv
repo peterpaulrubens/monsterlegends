@@ -1,13 +1,13 @@
 Tier,Name,Power,Life,Speed,GPM,Type1,Type2
-Common,Fire Lion,1100,2480,875,62,Fire,
-Common,Turtle,1000,2777,1000,32,Water,
-Common,Panda,950,2777,1000,32,Nature,
-Common,Rockilla,875,3521,875,62,Earth,
-Common,Light Spirit,875,3521,875,17,Light
-Common,Metalsaur,1120,2976,1000,32,Metal,
-Common,Mersnake,1125,2777,1000,32,Water,
-Common,Treezard,1125,2777,100,32,Nature,
-Common,Thunder Eagle,875,2480,1250,62,Thunder,
-Common,Firesaur,1375,2480,875,62,Fire,
-Common,Genie,950,2480,1250,32,Magic,
-Common,Tyrannoking,1150,2480,875,17,Dark,
+Common,Fire Lion,1100,2480,875,62,Fire,null
+Common,Turtle,1000,2777,1000,32,Water,null
+Common,Panda,950,2777,1000,32,Nature,null
+Common,Rockilla,875,3521,875,62,Earth,null
+Common,Light Spirit,875,3521,875,17,Lightnull
+Common,Metalsaur,1120,2976,1000,32,Metal,null
+Common,Mersnake,1125,2777,1000,32,Water,null
+Common,Treezard,1125,2777,100,32,Nature,null
+Common,Thunder Eagle,875,2480,1250,62,Thunder,null
+Common,Firesaur,1375,2480,875,62,Fire,null
+Common,Genie,950,2480,1250,32,Magic,null
+Common,Tyrannoking,1150,2480,875,17,Dark,null
