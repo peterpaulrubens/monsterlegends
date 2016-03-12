@@ -238,7 +238,7 @@
    {
       "3542" : "3509",
       "244" : "305",
-      "the_judgment" : "Darmith",
+      "the_judgment" : "General Darmith",
       "3377" : "3465",
       "29556" : "27747",
       "nature" : "Fire",
@@ -301,7 +301,7 @@
    {
       "3542" : "3454",
       "244" : "305",
-      "the_judgment" : "Shannara",
+      "the_judgment" : "General Shannara",
       "3377" : "3454",
       "29556" : "25334",
       "nature" : "Magic",
@@ -337,7 +337,7 @@
    {
       "3542" : "3454",
       "244" : "305",
-      "the_judgment" : "Uria",
+      "the_judgment" : "General Uria",
       "3377" : "3432",
       "29556" : "29858",
       "nature" : "Thunder",
@@ -373,7 +373,7 @@
    {
       "3542" : "3278",
       "244" : "244",
-      "the_judgment" : "Thetys",
+      "the_judgment" : "General Thetys",
       "3377" : "3421",
       "29556" : "26540",
       "nature" : "Water",
@@ -463,7 +463,7 @@
    {
       "3542" : "3454",
       "244" : "305",
-      "the_judgment" : "Atum",
+      "the_judgment" : "General Atum",
       "3377" : "3399",
       "29556" : "31969",
       "nature" : "Earth",
@@ -598,7 +598,7 @@
    {
       "3542" : "3234",
       "244" : "244",
-      "the_judgment" : "Ingvar",
+      "the_judgment" : "General Ingvar",
       "3377" : "3267",
       "29556" : "31366",
       "nature" : "Light",
