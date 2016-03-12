@@ -15,9 +15,29 @@
                             { "data": "gpm" },
                             { "data": "type1" },
                             { "data": "type2" }
-                    ]
-                } );
-            } );
+                    ],
+                    initComplete: function () {
+                                this.api().columns().every( function () {
+                                    var column = this;
+                                    var select = $('<select><option value=""></option></select>')
+                                        .appendTo( $(column.footer()).empty() )
+                                        .on( 'change', function () {
+                                            var val = $.fn.dataTable.util.escapeRegex(
+                                                $(this).val()
+                                            );
+                    
+                                            column
+                                                .search( val ? '^'+val+'$' : '', true, false )
+                                                .draw();
+                                        } );
+                    
+                                    column.data().unique().sort().each( function ( d, j ) {
+                                        select.append( '<option value="'+d+'">'+d+'</option>' )
+                                    } );
+                                } );
+                            }
+                });
+            });
         </script>
     </head>
     <body>
@@ -26,16 +46,28 @@
             <table id="monsters" class="display" width="100%" role="grid">
                 <thead>
                     <tr>
-                        <th>tier</th>
-                        <th>name</th>
-                        <th>speed</th>
-                        <th>power</th>
-                        <th>life</th>
-                        <th>gpm</th>
-                        <th>type1</th>
-                        <th>type2</th>
+                        <th>Tier</th>
+                        <th>Name</th>
+                        <th>Speed</th>
+                        <th>Power</th>
+                        <th>Life</th>
+                        <th>Gpm</th>
+                        <th>Type1</th>
+                        <th>Type2</th>
                     </tr>
                 </thead>
+                <tfoot>
+                    <tr>
+                        <th>Tier</th>
+                        <th>Name</th>
+                        <th>Speed</th>
+                        <th>Power</th>
+                        <th>Life</th>
+                        <th>Gpm</th>
+                        <th>Type1</th>
+                        <th>Type2</th>
+                    </tr>
+                </tfoot>
             </table>
         </div>
     </body>
