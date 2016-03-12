@@ -42,8 +42,8 @@
       "life" : "3521"
    },
    {
-      "type1" : "Lightnull",
-      "type2" : null,
+      "type1" : "Light",
+      "type2" : "null",
       "gpm" : "17",
       "name" : "Light Spirit",
       "tier" : "Common",
