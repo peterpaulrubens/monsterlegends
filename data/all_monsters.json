@@ -862,6 +862,16 @@
       "life" : "13287"
    },
    {
+      "type1" : "Nature",
+      "type2" : "Metal",
+      "gpm" : "0",
+      "name" : "Sham-Rokku",
+      "tier" : "Epic",
+      "speed" : "2860",
+      "power" : "2730",
+      "life" : "18834"
+   },
+   {
       "type1" : "Metal",
       "type2" : "Earth",
       "gpm" : "224",
