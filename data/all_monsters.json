@@ -862,6 +862,16 @@
       "life" : "13287"
    },
    {
+      "type1" : "Dark",
+      "type2" : "Magic",
+      "gpm" : "224",
+      "name" : "Chocobunny",
+      "tier" : "Epic",
+      "speed" : "2930",
+      "power" : "2650",
+      "life" : "17122"
+   },
+   {
       "type1" : "Nature",
       "type2" : "Metal",
       "gpm" : "0",
