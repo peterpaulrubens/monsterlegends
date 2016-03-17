@@ -452,6 +452,16 @@
       "life" : "4932"
    },
    {
+      "type1" : "Dark",
+      "type2" : "Earth",
+      "gpm" : "103",
+      "name" : "Eggknock",
+      "tier" : "Rare",
+      "speed" : "1836",
+      "power" : "2176",
+      "life" : "12605"
+   },
+   {
       "type1" : "Earth",
       "type2" : "Nature",
       "gpm" : "204",
