@@ -1862,6 +1862,16 @@
       "life" : "22503"
    },
    {
+      "type1" : "Fire",
+      "type2" : "Legendary",
+      "gpm" : "305",
+      "name" : "Tryon",
+      "tier" : "Legendary",
+      "speed" : "3278",
+      "power" : "3465",
+      "life" : "25334"
+   },
+   {
       "type1" : "Nature",
       "type2" : "Legendary",
       "gpm" : "244",
