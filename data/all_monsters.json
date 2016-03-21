@@ -1872,6 +1872,16 @@
       "life" : "22503"
    },
    {
+      "type1" : "Magic",
+      "type2" : "Legendary",
+      "gpm" : "244",
+      "name" : "Eggeater",
+      "tier" : "Legendary",
+      "speed" : "3399",
+      "power" : "3157",
+      "life" : "30461"
+   },
+   {
       "type1" : "Dark",
       "type2" : "Legendary",
       "gpm" : "244",
