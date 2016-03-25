@@ -872,6 +872,16 @@
       "life" : "13287"
    },
    {
+      "type1" : "Nature",
+      "type2" : "Light",
+      "gpm" : "142",
+      "name" : "Lepu",
+      "tier" : "Epic",
+      "speed" : "2860",
+      "power" : "2700",
+      "life" : "21524"
+   },
+   {
       "type1" : "Dark",
       "type2" : "Magic",
       "gpm" : "224",
@@ -1870,6 +1880,16 @@
       "speed" : "2340",
       "power" : "2340",
       "life" : "22503"
+   },
+   {
+      "type1" : "Thunder",
+      "type2" : "Legendary",
+      "gpm" : "305",
+      "name" : "Dr Viktor",
+      "tier" : "Legendary",
+      "speed" : "3454",
+      "power" : "3531",
+      "life" : "22318"
    },
    {
       "type1" : "Magic",
