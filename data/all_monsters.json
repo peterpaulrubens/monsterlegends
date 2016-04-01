@@ -1882,14 +1882,14 @@
       "life" : "22503"
    },
    {
-      "type1" : "Thunder",
+      "type1" : "Metal",
       "type2" : "Legendary",
       "gpm" : "305",
-      "name" : "Dr Viktor",
+      "name" : "General Holter",
       "tier" : "Legendary",
-      "speed" : "3454",
-      "power" : "3531",
-      "life" : "22318"
+      "speed" : "3421",
+      "power" : "3542",
+      "life" : "23524"
    },
    {
       "type1" : "Magic",
