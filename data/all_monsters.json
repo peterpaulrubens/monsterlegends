@@ -1882,6 +1882,16 @@
       "life" : "22503"
    },
    {
+      "type1" : "Nature",
+      "type2" : "Legendary",
+      "gpm" : "244",
+      "name" : "Gullin",
+      "tier" : "Legendary",
+      "speed" : "3388",
+      "power" : "3267",
+      "life" : "31366"
+   },
+   {
       "type1" : "Metal",
       "type2" : "Legendary",
       "gpm" : "305",
