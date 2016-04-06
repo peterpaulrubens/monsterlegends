@@ -1882,6 +1882,16 @@
       "life" : "22503"
    },
    {
+      "type1" : "Thunder",
+      "type2" : "Legendary",
+      "gpm" : "305",
+      "name" : "Vanoss",
+      "tier" : "Legendary",
+      "speed" : "3322",
+      "power" : "3377",
+      "life" : "27445"
+   },
+   {
       "type1" : "Nature",
       "type2" : "Legendary",
       "gpm" : "244",
