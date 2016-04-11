@@ -1882,6 +1882,16 @@
       "life" : "22503"
    },
    {
+      "type1" : "Fire",
+      "type2" : "Legendary",
+      "gpm" : "305",
+      "name" : "Tyros",
+      "tier" : "Legendary",
+      "speed" : "3399",
+      "power" : "3575",
+      "life" : "22318"
+   },
+   {
       "type1" : "Thunder",
       "type2" : "Legendary",
       "gpm" : "305",
