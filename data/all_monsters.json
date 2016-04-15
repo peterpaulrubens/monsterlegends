@@ -872,6 +872,16 @@
       "life" : "13287"
    },
    {
+      "type1" : "Water",
+      "type2" : "Earth",
+      "gpm" : "224",
+      "name" : "Avaast",
+      "tier" : "Epic",
+      "speed" : "2700",
+      "power" : "2570",
+      "life" : "20791"
+   },
+   {
       "type1" : "Nature",
       "type2" : "Light",
       "gpm" : "142",
@@ -1880,6 +1890,36 @@
       "speed" : "2340",
       "power" : "2340",
       "life" : "22503"
+   },
+   {
+      "type1" : "Water",
+      "type2" : "Legendary",
+      "gpm" : "244",
+      "name" : "Hydrok The Forgotten",
+      "tier" : "Legendary",
+      "speed" : "3421",
+      "power" : "3531",
+      "life" : "31366"
+   },
+   {
+      "type1" : "Fire",
+      "type2" : "Legendary",
+      "gpm" : "305",
+      "name" : "Commander Alvid",
+      "tier" : "Legendary",
+      "speed" : "3432",
+      "power" : "3465",
+      "life" : "22318"
+   },
+   {
+      "type1" : "Dark",
+      "type2" : "Legendary",
+      "gpm" : "244",
+      "name" : "Will Razor Face",
+      "tier" : "Legendary",
+      "speed" : "3454",
+      "power" : "3509",
+      "life" : "28651"
    },
    {
       "type1" : "Fire",
