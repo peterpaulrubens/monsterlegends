@@ -86,6 +86,7 @@ Rare,Thundenix,2295,8517,2295,154,Thunder,Fire
 Rare,Firetaur,2448,8517,1785,103,Dark,Fire
 Rare,Haze,2337,8347,2295,103,Magic,Dark
 Rare,Thunderon,2261,13287,2184,103,Thunder,Nature
+Epic,Anaitis,2560,18834,2860,142,Light,Water
 Epic,Avaast,2570,20791,2700,224,Water,Earth
 Epic,Lepu,2700,21524,2860,142,Nature,Light
 Epic,Chocobunny,2650,17122,2930,224,Dark,Magic
@@ -188,6 +189,8 @@ Epic,Faymelina,2860,20057,1980,114,Light,Dark
 Epic,Goldcore,2280,24460,1950,142,Light,Earth
 Epic,Irockman,2860,22992,1950,224,Earth,Thunder
 Epic,Beetrat,2340,22503,2340,142,Magic,Nature
+Legendary,Dracontium,3575,24429,3377,244,Fire,Legendary
+Legendary,Nidaria,3377,29255,3464,155,Water,Legendary
 Legendary,Hydrok The Forgotten,3531,31366,3421,244,Water,Legendary
 Legendary,Commander Alvid,3465,22318,3432,305,Fire,Legendary
 Legendary,Will Razor Face,3509,28651,3454,244,Dark,Legendary

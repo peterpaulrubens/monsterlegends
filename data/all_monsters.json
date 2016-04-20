@@ -872,6 +872,16 @@
       "life" : "13287"
    },
    {
+      "type1" : "Light",
+      "type2" : "Water",
+      "gpm" : "142",
+      "name" : "Anaitis",
+      "tier" : "Epic",
+      "speed" : "2860",
+      "power" : "2560",
+      "life" : "18834"
+   },
+   {
       "type1" : "Water",
       "type2" : "Earth",
       "gpm" : "224",
@@ -1890,6 +1900,26 @@
       "speed" : "2340",
       "power" : "2340",
       "life" : "22503"
+   },
+   {
+      "type1" : "Fire",
+      "type2" : "Legendary",
+      "gpm" : "244",
+      "name" : "Dracontium",
+      "tier" : "Legendary",
+      "speed" : "3377",
+      "power" : "3575",
+      "life" : "24429"
+   },
+   {
+      "type1" : "Water",
+      "type2" : "Legendary",
+      "gpm" : "155",
+      "name" : "Nidaria",
+      "tier" : "Legendary",
+      "speed" : "3464",
+      "power" : "3377",
+      "life" : "29255"
    },
    {
       "type1" : "Water",
