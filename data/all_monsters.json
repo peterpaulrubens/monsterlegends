@@ -872,6 +872,16 @@
       "life" : "13287"
    },
    {
+      "type1" : "Water",
+      "type2" : "Dark",
+      "gpm" : "142",
+      "name" : "Rorcal",
+      "tier" : "Epic",
+      "speed" : "2770",
+      "power" : "2700",
+      "life" : "19812"
+   },
+   {
       "type1" : "Light",
       "type2" : "Water",
       "gpm" : "142",
@@ -1900,6 +1910,16 @@
       "speed" : "2340",
       "power" : "2340",
       "life" : "22503"
+   },
+   {
+      "type1" : "Dark",
+      "type2" : "Legendary",
+      "gpm" : "155",
+      "name" : "Lotan",
+      "tier" : "Legendary",
+      "speed" : "3388",
+      "power" : "3157",
+      "life" : "30763"
    },
    {
       "type1" : "Fire",

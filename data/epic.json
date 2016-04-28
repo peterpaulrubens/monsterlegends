@@ -2,1024 +2,1034 @@
     "data":
 [
    {
-      "2860" : "2700",
-      "142" : "224",
-      "epic" : "Epic",
-      "light" : "Water",
-      "water" : "Earth",
-      "2560" : "2570",
-      "anaitis" : "Avaast",
-      "18834" : "20791"
-   },
-   {
-      "2860" : "2860",
+      "2700" : "2560",
       "142" : "142",
+      "rorcal" : "Anaitis",
       "epic" : "Epic",
-      "light" : "Nature",
       "water" : "Light",
-      "2560" : "2700",
-      "anaitis" : "Lepu",
-      "18834" : "21524"
+      "19812" : "18834",
+      "dark" : "Water",
+      "2770" : "2860"
    },
    {
-      "2860" : "2930",
+      "2700" : "2570",
       "142" : "224",
+      "rorcal" : "Avaast",
       "epic" : "Epic",
-      "light" : "Dark",
-      "water" : "Magic",
-      "2560" : "2650",
-      "anaitis" : "Chocobunny",
-      "18834" : "17122"
+      "water" : "Water",
+      "19812" : "20791",
+      "dark" : "Earth",
+      "2770" : "2700"
    },
    {
-      "2860" : "2860",
+      "2700" : "2700",
       "142" : "142",
+      "rorcal" : "Lepu",
       "epic" : "Epic",
-      "light" : "Nature",
+      "water" : "Nature",
+      "19812" : "21524",
+      "dark" : "Light",
+      "2770" : "2860"
+   },
+   {
+      "2700" : "2650",
+      "142" : "224",
+      "rorcal" : "Chocobunny",
+      "epic" : "Epic",
+      "water" : "Dark",
+      "19812" : "17122",
+      "dark" : "Magic",
+      "2770" : "2930"
+   },
+   {
+      "2700" : "2730",
+      "142" : "142",
+      "rorcal" : "Sham-Rokku",
+      "epic" : "Epic",
+      "water" : "Nature",
+      "19812" : "18834",
+      "dark" : "Metal",
+      "2770" : "2860"
+   },
+   {
+      "2700" : "2650",
+      "142" : "224",
+      "rorcal" : "Gridiron",
+      "epic" : "Epic",
       "water" : "Metal",
-      "2560" : "2730",
-      "anaitis" : "Sham-Rokku",
-      "18834" : "18834"
+      "19812" : "23481",
+      "dark" : "Earth",
+      "2770" : "2760"
    },
    {
-      "2860" : "2760",
-      "142" : "224",
-      "epic" : "Epic",
-      "light" : "Metal",
-      "water" : "Earth",
-      "2560" : "2650",
-      "anaitis" : "Gridiron",
-      "18834" : "23481"
-   },
-   {
-      "2860" : "2810",
+      "2700" : "2700",
       "142" : "142",
+      "rorcal" : "Sambacadabra",
       "epic" : "Epic",
-      "light" : "Magic",
-      "water" : "Nature",
-      "2560" : "2700",
-      "anaitis" : "Sambacadabra",
-      "18834" : "19323"
-   },
-   {
-      "2860" : "2930",
-      "142" : "142",
-      "epic" : "Epic",
-      "light" : "Magic",
-      "water" : "Nature",
-      "2560" : "2600",
-      "anaitis" : "Super Pandalf",
-      "18834" : "15899"
-   },
-   {
-      "2860" : "3120",
-      "142" : "142",
-      "epic" : "Epic",
-      "light" : "Earth",
-      "water" : "Dark",
-      "2560" : "2600",
-      "anaitis" : "Greygoyle",
-      "18834" : "15899"
-   },
-   {
-      "2860" : "3070",
-      "142" : "142",
-      "epic" : "Epic",
-      "light" : "Nature",
-      "water" : "Dark",
-      "2560" : "2860",
-      "anaitis" : "Rosanha",
-      "18834" : "16632"
-   },
-   {
-      "2860" : "3060",
-      "142" : "224",
-      "epic" : "Epic",
-      "light" : "Thunder",
-      "water" : "Water",
-      "2560" : "2280",
-      "anaitis" : "Volray",
-      "18834" : "18834"
-   },
-   {
-      "2860" : "2990",
-      "142" : "142",
-      "epic" : "Epic",
-      "light" : "Magic",
-      "water" : "Dark",
-      "2560" : "2080",
-      "anaitis" : "Darknubis",
-      "18834" : "21524"
-   },
-   {
-      "2860" : "2990",
-      "142" : "142",
-      "epic" : "Epic",
-      "light" : "Nature",
       "water" : "Magic",
-      "2560" : "1950",
-      "anaitis" : "Erpham",
-      "18834" : "20057"
+      "19812" : "19323",
+      "dark" : "Nature",
+      "2770" : "2810"
    },
    {
-      "2860" : "2990",
+      "2700" : "2600",
       "142" : "142",
+      "rorcal" : "Super Pandalf",
       "epic" : "Epic",
-      "light" : "Nature",
-      "water" : "Dark",
-      "2560" : "2630",
-      "anaitis" : "Evaranae",
-      "18834" : "20301"
+      "water" : "Magic",
+      "19812" : "15899",
+      "dark" : "Nature",
+      "2770" : "2930"
    },
    {
-      "2860" : "2990",
+      "2700" : "2600",
       "142" : "142",
+      "rorcal" : "Greygoyle",
       "epic" : "Epic",
-      "light" : "Magic",
-      "water" : "Dark",
-      "2560" : "2850",
-      "anaitis" : "Horus",
-      "18834" : "23237"
+      "water" : "Earth",
+      "19812" : "15899",
+      "dark" : "Dark",
+      "2770" : "3120"
    },
    {
-      "2860" : "2990",
-      "142" : "224",
+      "2700" : "2860",
+      "142" : "142",
+      "rorcal" : "Rosanha",
       "epic" : "Epic",
-      "light" : "Magic",
-      "water" : "Thunder",
-      "2560" : "2460",
-      "anaitis" : "Rodolph",
-      "18834" : "17855"
-   },
-   {
-      "2860" : "2990",
-      "142" : "224",
-      "epic" : "Epic",
-      "light" : "Thunder",
       "water" : "Nature",
-      "2560" : "2730",
-      "anaitis" : "Wolfkami",
-      "18834" : "14431"
+      "19812" : "16632",
+      "dark" : "Dark",
+      "2770" : "3070"
    },
    {
-      "2860" : "2980",
-      "142" : "142",
+      "2700" : "2280",
+      "142" : "224",
+      "rorcal" : "Volray",
       "epic" : "Epic",
-      "light" : "Light",
       "water" : "Thunder",
-      "2560" : "2700",
-      "anaitis" : "Goath'el",
-      "18834" : "18834"
+      "19812" : "18834",
+      "dark" : "Water",
+      "2770" : "3060"
    },
    {
-      "2860" : "2980",
+      "2700" : "2080",
+      "142" : "142",
+      "rorcal" : "Darknubis",
+      "epic" : "Epic",
+      "water" : "Magic",
+      "19812" : "21524",
+      "dark" : "Dark",
+      "2770" : "2990"
+   },
+   {
+      "2700" : "1950",
+      "142" : "142",
+      "rorcal" : "Erpham",
+      "epic" : "Epic",
+      "water" : "Nature",
+      "19812" : "20057",
+      "dark" : "Magic",
+      "2770" : "2990"
+   },
+   {
+      "2700" : "2630",
+      "142" : "142",
+      "rorcal" : "Evaranae",
+      "epic" : "Epic",
+      "water" : "Nature",
+      "19812" : "20301",
+      "dark" : "Dark",
+      "2770" : "2990"
+   },
+   {
+      "2700" : "2850",
+      "142" : "142",
+      "rorcal" : "Horus",
+      "epic" : "Epic",
+      "water" : "Magic",
+      "19812" : "23237",
+      "dark" : "Dark",
+      "2770" : "2990"
+   },
+   {
+      "2700" : "2460",
+      "142" : "224",
+      "rorcal" : "Rodolph",
+      "epic" : "Epic",
+      "water" : "Magic",
+      "19812" : "17855",
+      "dark" : "Thunder",
+      "2770" : "2990"
+   },
+   {
+      "2700" : "2730",
+      "142" : "224",
+      "rorcal" : "Wolfkami",
+      "epic" : "Epic",
+      "water" : "Thunder",
+      "19812" : "14431",
+      "dark" : "Nature",
+      "2770" : "2990"
+   },
+   {
+      "2700" : "2700",
+      "142" : "142",
+      "rorcal" : "Goath'el",
+      "epic" : "Epic",
+      "water" : "Light",
+      "19812" : "18834",
+      "dark" : "Thunder",
+      "2770" : "2980"
+   },
+   {
+      "2700" : "2570",
       "142" : "250",
+      "rorcal" : "Griffex",
       "epic" : "Epic",
-      "light" : "Thunder",
-      "water" : "Nature",
-      "2560" : "2570",
-      "anaitis" : "Griffex",
-      "18834" : "13697"
-   },
-   {
-      "2860" : "2980",
-      "142" : "224",
-      "epic" : "Epic",
-      "light" : "Metal",
       "water" : "Thunder",
-      "2560" : "2720",
-      "anaitis" : "Mecharasu",
-      "18834" : "20057"
+      "19812" : "13697",
+      "dark" : "Nature",
+      "2770" : "2980"
    },
    {
-      "2860" : "2980",
+      "2700" : "2720",
       "142" : "224",
+      "rorcal" : "Mecharasu",
       "epic" : "Epic",
-      "light" : "Dark",
-      "water" : "Magic",
-      "2560" : "2820",
-      "anaitis" : "Punchie",
-      "18834" : "19323"
+      "water" : "Metal",
+      "19812" : "20057",
+      "dark" : "Thunder",
+      "2770" : "2980"
    },
    {
-      "2860" : "2960",
+      "2700" : "2820",
       "142" : "224",
+      "rorcal" : "Punchie",
       "epic" : "Epic",
-      "light" : "Magic",
-      "water" : "Thunder",
-      "2560" : "2650",
-      "anaitis" : "Chordim",
-      "18834" : "19812"
-   },
-   {
-      "2860" : "2960",
-      "142" : "224",
-      "epic" : "Epic",
-      "light" : "Metal",
-      "water" : "Fire",
-      "2560" : "2870",
-      "anaitis" : "Gold Ra",
-      "18834" : "19812"
-   },
-   {
-      "2860" : "2950",
-      "142" : "142",
-      "epic" : "Epic",
-      "light" : "Water",
-      "water" : "Fire",
-      "2560" : "2670",
-      "anaitis" : "Aiden",
-      "18834" : "18345"
-   },
-   {
-      "2860" : "2950",
-      "142" : "224",
-      "epic" : "Epic",
-      "light" : "Magic",
-      "water" : "Earth",
-      "2560" : "2080",
-      "anaitis" : "Duchess",
-      "18834" : "20057"
-   },
-   {
-      "2860" : "2950",
-      "142" : "224",
-      "epic" : "Epic",
-      "light" : "Thunder",
       "water" : "Dark",
-      "2560" : "2670",
-      "anaitis" : "Karasu",
-      "18834" : "18100"
+      "19812" : "19323",
+      "dark" : "Magic",
+      "2770" : "2980"
    },
    {
-      "2860" : "2950",
+      "2700" : "2650",
       "142" : "224",
+      "rorcal" : "Chordim",
       "epic" : "Epic",
-      "light" : "Thunder",
+      "water" : "Magic",
+      "19812" : "19812",
+      "dark" : "Thunder",
+      "2770" : "2960"
+   },
+   {
+      "2700" : "2870",
+      "142" : "224",
+      "rorcal" : "Gold Ra",
+      "epic" : "Epic",
+      "water" : "Metal",
+      "19812" : "19812",
+      "dark" : "Fire",
+      "2770" : "2960"
+   },
+   {
+      "2700" : "2670",
+      "142" : "142",
+      "rorcal" : "Aiden",
+      "epic" : "Epic",
       "water" : "Water",
-      "2560" : "2830",
-      "anaitis" : "Stoirm",
-      "18834" : "19078"
+      "19812" : "18345",
+      "dark" : "Fire",
+      "2770" : "2950"
    },
    {
-      "2860" : "2940",
+      "2700" : "2080",
       "142" : "224",
+      "rorcal" : "Duchess",
       "epic" : "Epic",
-      "light" : "Metal",
-      "water" : "Light",
-      "2560" : "2650",
-      "anaitis" : "Eburwin",
-      "18834" : "21280"
-   },
-   {
-      "2860" : "2940",
-      "142" : "224",
-      "epic" : "Epic",
-      "light" : "Dark",
-      "water" : "Fire",
-      "2560" : "2860",
-      "anaitis" : "Firesque",
-      "18834" : "18100"
-   },
-   {
-      "2860" : "2940",
-      "142" : "224",
-      "epic" : "Epic",
-      "light" : "Earth",
-      "water" : "Fire",
-      "2560" : "2650",
-      "anaitis" : "Rockovan",
-      "18834" : "20301"
-   },
-   {
-      "2860" : "2930",
-      "142" : "224",
-      "epic" : "Epic",
-      "light" : "Metal",
-      "water" : "Dark",
-      "2560" : "2860",
-      "anaitis" : "MonsterFace",
-      "18834" : "19323"
-   },
-   {
-      "2860" : "2930",
-      "142" : "142",
-      "epic" : "Epic",
-      "light" : "Magic",
-      "water" : "Nature",
-      "2560" : "2600",
-      "anaitis" : "Pandafest",
-      "18834" : "15899"
-   },
-   {
-      "2860" : "2930",
-      "142" : "142",
-      "epic" : "Epic",
-      "light" : "Magic",
-      "water" : "Nature",
-      "2560" : "2600",
-      "anaitis" : "Pandalf",
-      "18834" : "15899"
-   },
-   {
-      "2860" : "2930",
-      "142" : "142",
-      "epic" : "Epic",
-      "light" : "Magic",
-      "water" : "Nature",
-      "2560" : "2600",
-      "anaitis" : "Pandaval",
-      "18834" : "15899"
-   },
-   {
-      "2860" : "2930",
-      "142" : "142",
-      "epic" : "Epic",
-      "light" : "Magic",
-      "water" : "Nature",
-      "2560" : "2600",
-      "anaitis" : "Pandaxplorer",
-      "18834" : "15899"
-   },
-   {
-      "2860" : "2930",
-      "142" : "224",
-      "epic" : "Epic",
-      "light" : "Thunder",
-      "water" : "Nature",
-      "2560" : "2600",
-      "anaitis" : "Rabidex",
-      "18834" : "15899"
-   },
-   {
-      "2860" : "2930",
-      "142" : "224",
-      "epic" : "Epic",
-      "light" : "Nature",
-      "water" : "Thunder",
-      "2560" : "2280",
-      "anaitis" : "Rhynex",
-      "18834" : "17855"
-   },
-   {
-      "2860" : "2930",
-      "142" : "224",
-      "epic" : "Epic",
-      "light" : "Thunder",
-      "water" : "Dark",
-      "2560" : "2830",
-      "anaitis" : "Skeel Trooper",
-      "18834" : "19078"
-   },
-   {
-      "2860" : "2930",
-      "142" : "224",
-      "epic" : "Epic",
-      "light" : "Dark",
       "water" : "Magic",
-      "2560" : "2650",
-      "anaitis" : "Skuller",
-      "18834" : "17122"
+      "19812" : "20057",
+      "dark" : "Earth",
+      "2770" : "2950"
    },
    {
-      "2860" : "2930",
+      "2700" : "2670",
       "142" : "224",
+      "rorcal" : "Karasu",
       "epic" : "Epic",
-      "light" : "Metal",
+      "water" : "Thunder",
+      "19812" : "18100",
+      "dark" : "Dark",
+      "2770" : "2950"
+   },
+   {
+      "2700" : "2830",
+      "142" : "224",
+      "rorcal" : "Stoirm",
+      "epic" : "Epic",
+      "water" : "Thunder",
+      "19812" : "19078",
+      "dark" : "Water",
+      "2770" : "2950"
+   },
+   {
+      "2700" : "2650",
+      "142" : "224",
+      "rorcal" : "Eburwin",
+      "epic" : "Epic",
+      "water" : "Metal",
+      "19812" : "21280",
+      "dark" : "Light",
+      "2770" : "2940"
+   },
+   {
+      "2700" : "2860",
+      "142" : "224",
+      "rorcal" : "Firesque",
+      "epic" : "Epic",
+      "water" : "Dark",
+      "19812" : "18100",
+      "dark" : "Fire",
+      "2770" : "2940"
+   },
+   {
+      "2700" : "2650",
+      "142" : "224",
+      "rorcal" : "Rockovan",
+      "epic" : "Epic",
       "water" : "Earth",
-      "2560" : "2850",
-      "anaitis" : "Squamata Jr.",
-      "18834" : "18834"
+      "19812" : "20301",
+      "dark" : "Fire",
+      "2770" : "2940"
    },
    {
-      "2860" : "2930",
+      "2700" : "2860",
       "142" : "224",
+      "rorcal" : "MonsterFace",
       "epic" : "Epic",
-      "light" : "Earth",
-      "water" : "Magic",
-      "2560" : "1950",
-      "anaitis" : "Terracrank",
-      "18834" : "20057"
+      "water" : "Metal",
+      "19812" : "19323",
+      "dark" : "Dark",
+      "2770" : "2930"
    },
    {
-      "2860" : "2930",
+      "2700" : "2600",
       "142" : "142",
+      "rorcal" : "Pandafest",
       "epic" : "Epic",
-      "light" : "Magic",
-      "water" : "Nature",
-      "2560" : "2600",
-      "anaitis" : "Zomdalf",
-      "18834" : "15899"
+      "water" : "Magic",
+      "19812" : "15899",
+      "dark" : "Nature",
+      "2770" : "2930"
    },
    {
-      "2860" : "2910",
-      "142" : "224",
+      "2700" : "2600",
+      "142" : "142",
+      "rorcal" : "Pandalf",
       "epic" : "Epic",
-      "light" : "Metal",
+      "water" : "Magic",
+      "19812" : "15899",
+      "dark" : "Nature",
+      "2770" : "2930"
+   },
+   {
+      "2700" : "2600",
+      "142" : "142",
+      "rorcal" : "Pandaval",
+      "epic" : "Epic",
+      "water" : "Magic",
+      "19812" : "15899",
+      "dark" : "Nature",
+      "2770" : "2930"
+   },
+   {
+      "2700" : "2600",
+      "142" : "142",
+      "rorcal" : "Pandaxplorer",
+      "epic" : "Epic",
+      "water" : "Magic",
+      "19812" : "15899",
+      "dark" : "Nature",
+      "2770" : "2930"
+   },
+   {
+      "2700" : "2600",
+      "142" : "224",
+      "rorcal" : "Rabidex",
+      "epic" : "Epic",
+      "water" : "Thunder",
+      "19812" : "15899",
+      "dark" : "Nature",
+      "2770" : "2930"
+   },
+   {
+      "2700" : "2280",
+      "142" : "224",
+      "rorcal" : "Rhynex",
+      "epic" : "Epic",
+      "water" : "Nature",
+      "19812" : "17855",
+      "dark" : "Thunder",
+      "2770" : "2930"
+   },
+   {
+      "2700" : "2830",
+      "142" : "224",
+      "rorcal" : "Skeel Trooper",
+      "epic" : "Epic",
+      "water" : "Thunder",
+      "19812" : "19078",
+      "dark" : "Dark",
+      "2770" : "2930"
+   },
+   {
+      "2700" : "2650",
+      "142" : "224",
+      "rorcal" : "Skuller",
+      "epic" : "Epic",
       "water" : "Dark",
-      "2560" : "2890",
-      "anaitis" : "Haku",
-      "18834" : "19078"
+      "19812" : "17122",
+      "dark" : "Magic",
+      "2770" : "2930"
    },
    {
-      "2860" : "2900",
-      "142" : "142",
-      "epic" : "Epic",
-      "light" : "Metal",
-      "water" : "Thunder",
-      "2560" : "2850",
-      "anaitis" : "Ipug",
-      "18834" : "18100"
-   },
-   {
-      "2860" : "2900",
-      "142" : "142",
-      "epic" : "Epic",
-      "light" : "Metal",
-      "water" : "Thunder",
-      "2560" : "2850",
-      "anaitis" : "Xpug",
-      "18834" : "18100"
-   },
-   {
-      "2860" : "2890",
+      "2700" : "2850",
       "142" : "224",
+      "rorcal" : "Squamata Jr.",
       "epic" : "Epic",
-      "light" : "Earth",
-      "water" : "Thunder",
-      "2560" : "2770",
-      "anaitis" : "Van Rock",
-      "18834" : "20057"
+      "water" : "Metal",
+      "19812" : "18834",
+      "dark" : "Earth",
+      "2770" : "2930"
    },
    {
-      "2860" : "2870",
+      "2700" : "1950",
       "142" : "224",
+      "rorcal" : "Terracrank",
       "epic" : "Epic",
-      "light" : "Dark",
+      "water" : "Earth",
+      "19812" : "20057",
+      "dark" : "Magic",
+      "2770" : "2930"
+   },
+   {
+      "2700" : "2600",
+      "142" : "142",
+      "rorcal" : "Zomdalf",
+      "epic" : "Epic",
       "water" : "Magic",
-      "2560" : "2700",
-      "anaitis" : "Rascal",
-      "18834" : "20057"
+      "19812" : "15899",
+      "dark" : "Nature",
+      "2770" : "2930"
    },
    {
-      "2860" : "2870",
+      "2700" : "2890",
       "142" : "224",
+      "rorcal" : "Haku",
       "epic" : "Epic",
-      "light" : "Earth",
-      "water" : "Magic",
-      "2560" : "2760",
-      "anaitis" : "Rockham",
-      "18834" : "19323"
+      "water" : "Metal",
+      "19812" : "19078",
+      "dark" : "Dark",
+      "2770" : "2910"
    },
    {
-      "2860" : "2870",
-      "142" : "224",
-      "epic" : "Epic",
-      "light" : "Earth",
-      "water" : "Thunder",
-      "2560" : "2730",
-      "anaitis" : "Rockinho",
-      "18834" : "19323"
-   },
-   {
-      "2860" : "2860",
+      "2700" : "2850",
       "142" : "142",
+      "rorcal" : "Ipug",
       "epic" : "Epic",
-      "light" : "Fire",
-      "water" : "Light",
-      "2560" : "2340",
-      "anaitis" : "Esthirel",
-      "18834" : "21524"
+      "water" : "Metal",
+      "19812" : "18100",
+      "dark" : "Thunder",
+      "2770" : "2900"
    },
    {
-      "2860" : "2860",
-      "142" : "224",
-      "epic" : "Epic",
-      "light" : "Earth",
-      "water" : "Water",
-      "2560" : "2860",
-      "anaitis" : "Neandertaler",
-      "18834" : "19078"
-   },
-   {
-      "2860" : "2860",
-      "142" : "224",
-      "epic" : "Epic",
-      "light" : "Earth",
-      "water" : "Nature",
-      "2560" : "2860",
-      "anaitis" : "Sasquach",
-      "18834" : "19078"
-   },
-   {
-      "2860" : "2860",
+      "2700" : "2850",
       "142" : "142",
+      "rorcal" : "Xpug",
       "epic" : "Epic",
-      "light" : "Dark",
-      "water" : "Nature",
-      "2560" : "2730",
-      "anaitis" : "Tao Tao",
-      "18834" : "22258"
+      "water" : "Metal",
+      "19812" : "18100",
+      "dark" : "Thunder",
+      "2770" : "2900"
    },
    {
-      "2860" : "2859",
+      "2700" : "2770",
+      "142" : "224",
+      "rorcal" : "Van Rock",
+      "epic" : "Epic",
+      "water" : "Earth",
+      "19812" : "20057",
+      "dark" : "Thunder",
+      "2770" : "2890"
+   },
+   {
+      "2700" : "2700",
+      "142" : "224",
+      "rorcal" : "Rascal",
+      "epic" : "Epic",
+      "water" : "Dark",
+      "19812" : "20057",
+      "dark" : "Magic",
+      "2770" : "2870"
+   },
+   {
+      "2700" : "2760",
+      "142" : "224",
+      "rorcal" : "Rockham",
+      "epic" : "Epic",
+      "water" : "Earth",
+      "19812" : "19323",
+      "dark" : "Magic",
+      "2770" : "2870"
+   },
+   {
+      "2700" : "2730",
+      "142" : "224",
+      "rorcal" : "Rockinho",
+      "epic" : "Epic",
+      "water" : "Earth",
+      "19812" : "19323",
+      "dark" : "Thunder",
+      "2770" : "2870"
+   },
+   {
+      "2700" : "2340",
+      "142" : "142",
+      "rorcal" : "Esthirel",
+      "epic" : "Epic",
+      "water" : "Fire",
+      "19812" : "21524",
+      "dark" : "Light",
+      "2770" : "2860"
+   },
+   {
+      "2700" : "2860",
+      "142" : "224",
+      "rorcal" : "Neandertaler",
+      "epic" : "Epic",
+      "water" : "Earth",
+      "19812" : "19078",
+      "dark" : "Water",
+      "2770" : "2860"
+   },
+   {
+      "2700" : "2860",
+      "142" : "224",
+      "rorcal" : "Sasquach",
+      "epic" : "Epic",
+      "water" : "Earth",
+      "19812" : "19078",
+      "dark" : "Nature",
+      "2770" : "2860"
+   },
+   {
+      "2700" : "2730",
+      "142" : "142",
+      "rorcal" : "Tao Tao",
+      "epic" : "Epic",
+      "water" : "Dark",
+      "19812" : "22258",
+      "dark" : "Nature",
+      "2770" : "2860"
+   },
+   {
+      "2700" : "2780",
       "142" : "114",
+      "rorcal" : "Seraphim",
       "epic" : "Epic",
-      "light" : "Light",
-      "water" : "Dark",
-      "2560" : "2780",
-      "anaitis" : "Seraphim",
-      "18834" : "19812"
+      "water" : "Light",
+      "19812" : "19812",
+      "dark" : "Dark",
+      "2770" : "2859"
    },
    {
-      "2860" : "2850",
+      "2700" : "2610",
       "142" : "142",
+      "rorcal" : "Hydnora",
       "epic" : "Epic",
-      "light" : "Magic",
+      "water" : "Magic",
+      "19812" : "15654",
+      "dark" : "Nature",
+      "2770" : "2850"
+   },
+   {
+      "2700" : "2730",
+      "142" : "224",
+      "rorcal" : "Rockidson",
+      "epic" : "Epic",
+      "water" : "Earth",
+      "19812" : "19812",
+      "dark" : "Thunder",
+      "2770" : "2850"
+   },
+   {
+      "2700" : "2740",
+      "142" : "224",
+      "rorcal" : "Rocksteiger",
+      "epic" : "Epic",
+      "water" : "Earth",
+      "19812" : "20301",
+      "dark" : "Magic",
+      "2770" : "2850"
+   },
+   {
+      "2700" : "2810",
+      "142" : "224",
+      "rorcal" : "Ledovech",
+      "epic" : "Epic",
+      "water" : "Water",
+      "19812" : "20057",
+      "dark" : "Earth",
+      "2770" : "2830"
+   },
+   {
+      "2700" : "2730",
+      "142" : "224",
+      "rorcal" : "Rockadona",
+      "epic" : "Epic",
+      "water" : "Earth",
+      "19812" : "19078",
+      "dark" : "Magic",
+      "2770" : "2830"
+   },
+   {
+      "2700" : "2720",
+      "142" : "224",
+      "rorcal" : "Rockarito",
+      "epic" : "Epic",
+      "water" : "Earth",
+      "19812" : "19078",
+      "dark" : "Magic",
+      "2770" : "2830"
+   },
+   {
+      "2700" : "2600",
+      "142" : "142",
+      "rorcal" : "Wisteria",
+      "epic" : "Epic",
+      "water" : "Dark",
+      "19812" : "19323",
+      "dark" : "Magic",
+      "2770" : "2830"
+   },
+   {
+      "2700" : "2870",
+      "142" : "224",
+      "rorcal" : "Rhinoram",
+      "epic" : "Epic",
+      "water" : "Metal",
+      "19812" : "20791",
+      "dark" : "Fire",
+      "2770" : "2820"
+   },
+   {
+      "2700" : "2340",
+      "142" : "142",
+      "rorcal" : "Dusty Fear",
+      "epic" : "Epic",
+      "water" : "Magic",
+      "19812" : "24215",
+      "dark" : "Dark",
+      "2770" : "2800"
+   },
+   {
+      "2700" : "2770",
+      "142" : "224",
+      "rorcal" : "Hellborne",
+      "epic" : "Epic",
+      "water" : "Fire",
+      "19812" : "19812",
+      "dark" : "Dark",
+      "2770" : "2800"
+   },
+   {
+      "2700" : "2770",
+      "142" : "224",
+      "rorcal" : "Master Fong",
+      "epic" : "Epic",
+      "water" : "Fire",
+      "19812" : "19812",
+      "dark" : "Light",
+      "2770" : "2800"
+   },
+   {
+      "2700" : "2760",
+      "142" : "224",
+      "rorcal" : "Rockaggio",
+      "epic" : "Epic",
+      "water" : "Earth",
+      "19812" : "20057",
+      "dark" : "Water",
+      "2770" : "2800"
+   },
+   {
+      "2700" : "2330",
+      "142" : "142",
+      "rorcal" : "Rootziel",
+      "epic" : "Epic",
+      "water" : "Light",
+      "19812" : "19078",
+      "dark" : "Nature",
+      "2770" : "2800"
+   },
+   {
+      "2700" : "2340",
+      "142" : "142",
+      "rorcal" : "Teddy Fear",
+      "epic" : "Epic",
+      "water" : "Earth",
+      "19812" : "24215",
+      "dark" : "Dark",
+      "2770" : "2800"
+   },
+   {
+      "2700" : "2760",
+      "142" : "142",
+      "rorcal" : "Bjarni",
+      "epic" : "Epic",
+      "water" : "Fire",
+      "19812" : "20301",
+      "dark" : "Thunder",
+      "2770" : "2780"
+   },
+   {
+      "2700" : "2760",
+      "142" : "142",
+      "rorcal" : "Kal'Drekk",
+      "epic" : "Epic",
+      "water" : "Dark",
+      "19812" : "20301",
+      "dark" : "Nature",
+      "2770" : "2780"
+   },
+   {
+      "2700" : "2770",
+      "142" : "224",
+      "rorcal" : "Rockamura",
+      "epic" : "Epic",
+      "water" : "Earth",
+      "19812" : "19812",
+      "dark" : "Water",
+      "2770" : "2770"
+   },
+   {
+      "2700" : "2760",
+      "142" : "224",
+      "rorcal" : "Rockanne",
+      "epic" : "Epic",
+      "water" : "Earth",
+      "19812" : "19812",
+      "dark" : "Water",
+      "2770" : "2740"
+   },
+   {
+      "2700" : "2080",
+      "142" : "142",
+      "rorcal" : "Drop Elemental",
+      "epic" : "Epic",
+      "water" : "Water",
+      "19812" : "20057",
+      "dark" : "Magic",
+      "2770" : "2730"
+   },
+   {
+      "2700" : "2800",
+      "142" : "142",
+      "rorcal" : "Hyperion",
+      "epic" : "Epic",
+      "water" : "Metal",
+      "19812" : "20301",
+      "dark" : "Thunder",
+      "2770" : "2730"
+   },
+   {
+      "2700" : "2770",
+      "142" : "224",
+      "rorcal" : "Rockiesta",
+      "epic" : "Epic",
+      "water" : "Earth",
+      "19812" : "19078",
+      "dark" : "Fire",
+      "2770" : "2720"
+   },
+   {
+      "2700" : "2780",
+      "142" : "224",
+      "rorcal" : "Plethodon",
+      "epic" : "Epic",
+      "water" : "Fire",
+      "19812" : "22258",
+      "dark" : "Earth",
+      "2770" : "2700"
+   },
+   {
+      "2700" : "2670",
+      "142" : "224",
+      "rorcal" : "Rock Li-Sun",
+      "epic" : "Epic",
+      "water" : "Earth",
+      "19812" : "18834",
+      "dark" : "Fire",
+      "2770" : "2700"
+   },
+   {
+      "2700" : "2600",
+      "142" : "142",
+      "rorcal" : "Coldberus",
+      "epic" : "Epic",
+      "water" : "Dark",
+      "19812" : "18834",
+      "dark" : "Water",
+      "2770" : "2670"
+   },
+   {
+      "2700" : "2810",
+      "142" : "224",
+      "rorcal" : "Freeza",
+      "epic" : "Epic",
+      "water" : "Water",
+      "19812" : "20057",
+      "dark" : "Magic",
+      "2770" : "2610"
+   },
+   {
+      "2700" : "2070",
+      "142" : "142",
+      "rorcal" : "Arnu",
+      "epic" : "Epic",
       "water" : "Nature",
-      "2560" : "2610",
-      "anaitis" : "Hydnora",
-      "18834" : "15654"
+      "19812" : "18345",
+      "dark" : "Water",
+      "2770" : "2600"
    },
    {
-      "2860" : "2850",
-      "142" : "224",
-      "epic" : "Epic",
-      "light" : "Earth",
-      "water" : "Thunder",
-      "2560" : "2730",
-      "anaitis" : "Rockidson",
-      "18834" : "19812"
-   },
-   {
-      "2860" : "2850",
-      "142" : "224",
-      "epic" : "Epic",
-      "light" : "Earth",
-      "water" : "Magic",
-      "2560" : "2740",
-      "anaitis" : "Rocksteiger",
-      "18834" : "20301"
-   },
-   {
-      "2860" : "2830",
-      "142" : "224",
-      "epic" : "Epic",
-      "light" : "Water",
-      "water" : "Earth",
-      "2560" : "2810",
-      "anaitis" : "Ledovech",
-      "18834" : "20057"
-   },
-   {
-      "2860" : "2830",
-      "142" : "224",
-      "epic" : "Epic",
-      "light" : "Earth",
-      "water" : "Magic",
-      "2560" : "2730",
-      "anaitis" : "Rockadona",
-      "18834" : "19078"
-   },
-   {
-      "2860" : "2830",
-      "142" : "224",
-      "epic" : "Epic",
-      "light" : "Earth",
-      "water" : "Magic",
-      "2560" : "2720",
-      "anaitis" : "Rockarito",
-      "18834" : "19078"
-   },
-   {
-      "2860" : "2830",
+      "2700" : "2860",
       "142" : "142",
+      "rorcal" : "Fliploch",
       "epic" : "Epic",
-      "light" : "Dark",
-      "water" : "Magic",
-      "2560" : "2600",
-      "anaitis" : "Wisteria",
-      "18834" : "19323"
-   },
-   {
-      "2860" : "2820",
-      "142" : "224",
-      "epic" : "Epic",
-      "light" : "Metal",
-      "water" : "Fire",
-      "2560" : "2870",
-      "anaitis" : "Rhinoram",
-      "18834" : "20791"
-   },
-   {
-      "2860" : "2800",
-      "142" : "142",
-      "epic" : "Epic",
-      "light" : "Magic",
-      "water" : "Dark",
-      "2560" : "2340",
-      "anaitis" : "Dusty Fear",
-      "18834" : "24215"
-   },
-   {
-      "2860" : "2800",
-      "142" : "224",
-      "epic" : "Epic",
-      "light" : "Fire",
-      "water" : "Dark",
-      "2560" : "2770",
-      "anaitis" : "Hellborne",
-      "18834" : "19812"
-   },
-   {
-      "2860" : "2800",
-      "142" : "224",
-      "epic" : "Epic",
-      "light" : "Fire",
-      "water" : "Light",
-      "2560" : "2770",
-      "anaitis" : "Master Fong",
-      "18834" : "19812"
-   },
-   {
-      "2860" : "2800",
-      "142" : "224",
-      "epic" : "Epic",
-      "light" : "Earth",
       "water" : "Water",
-      "2560" : "2760",
-      "anaitis" : "Rockaggio",
-      "18834" : "20057"
+      "19812" : "15654",
+      "dark" : "Dark",
+      "2770" : "2600"
    },
    {
-      "2860" : "2800",
+      "2700" : "2590",
       "142" : "142",
+      "rorcal" : "Frank S. Tein",
       "epic" : "Epic",
-      "light" : "Light",
+      "water" : "Dark",
+      "19812" : "21524",
+      "dark" : "Earth",
+      "2770" : "2600"
+   },
+   {
+      "2700" : "2650",
+      "142" : "224",
+      "rorcal" : "Medussha",
+      "epic" : "Epic",
+      "water" : "Light",
+      "19812" : "16143",
+      "dark" : "Earth",
+      "2770" : "2600"
+   },
+   {
+      "2700" : "2600",
+      "142" : "142",
+      "rorcal" : "Pegasus",
+      "epic" : "Epic",
       "water" : "Nature",
-      "2560" : "2330",
-      "anaitis" : "Rootziel",
-      "18834" : "19078"
+      "19812" : "17855",
+      "dark" : "Light",
+      "2770" : "2600"
    },
    {
-      "2860" : "2800",
+      "2700" : "2600",
       "142" : "142",
+      "rorcal" : "Scorchpeg",
       "epic" : "Epic",
-      "light" : "Earth",
+      "water" : "Fire",
+      "19812" : "17855",
+      "dark" : "Light",
+      "2770" : "2600"
+   },
+   {
+      "2700" : "2720",
+      "142" : "142",
+      "rorcal" : "Kimmel's Gift",
+      "epic" : "Epic",
       "water" : "Dark",
-      "2560" : "2340",
-      "anaitis" : "Teddy Fear",
-      "18834" : "24215"
+      "19812" : "16877",
+      "dark" : "Magic",
+      "2770" : "2570"
    },
    {
-      "2860" : "2780",
+      "2700" : "2800",
       "142" : "142",
+      "rorcal" : "Cthulhu",
       "epic" : "Epic",
-      "light" : "Fire",
-      "water" : "Thunder",
-      "2560" : "2760",
-      "anaitis" : "Bjarni",
-      "18834" : "20301"
-   },
-   {
-      "2860" : "2780",
-      "142" : "142",
-      "epic" : "Epic",
-      "light" : "Dark",
-      "water" : "Nature",
-      "2560" : "2760",
-      "anaitis" : "Kal'Drekk",
-      "18834" : "20301"
-   },
-   {
-      "2860" : "2770",
-      "142" : "224",
-      "epic" : "Epic",
-      "light" : "Earth",
-      "water" : "Water",
-      "2560" : "2770",
-      "anaitis" : "Rockamura",
-      "18834" : "19812"
-   },
-   {
-      "2860" : "2740",
-      "142" : "224",
-      "epic" : "Epic",
-      "light" : "Earth",
-      "water" : "Water",
-      "2560" : "2760",
-      "anaitis" : "Rockanne",
-      "18834" : "19812"
-   },
-   {
-      "2860" : "2730",
-      "142" : "142",
-      "epic" : "Epic",
-      "light" : "Water",
-      "water" : "Magic",
-      "2560" : "2080",
-      "anaitis" : "Drop Elemental",
-      "18834" : "20057"
-   },
-   {
-      "2860" : "2730",
-      "142" : "142",
-      "epic" : "Epic",
-      "light" : "Metal",
-      "water" : "Thunder",
-      "2560" : "2800",
-      "anaitis" : "Hyperion",
-      "18834" : "20301"
-   },
-   {
-      "2860" : "2720",
-      "142" : "224",
-      "epic" : "Epic",
-      "light" : "Earth",
-      "water" : "Fire",
-      "2560" : "2770",
-      "anaitis" : "Rockiesta",
-      "18834" : "19078"
-   },
-   {
-      "2860" : "2700",
-      "142" : "224",
-      "epic" : "Epic",
-      "light" : "Fire",
-      "water" : "Earth",
-      "2560" : "2780",
-      "anaitis" : "Plethodon",
-      "18834" : "22258"
-   },
-   {
-      "2860" : "2700",
-      "142" : "224",
-      "epic" : "Epic",
-      "light" : "Earth",
-      "water" : "Fire",
-      "2560" : "2670",
-      "anaitis" : "Rock Li-Sun",
-      "18834" : "18834"
-   },
-   {
-      "2860" : "2670",
-      "142" : "142",
-      "epic" : "Epic",
-      "light" : "Dark",
-      "water" : "Water",
-      "2560" : "2600",
-      "anaitis" : "Coldberus",
-      "18834" : "18834"
-   },
-   {
-      "2860" : "2610",
-      "142" : "224",
-      "epic" : "Epic",
-      "light" : "Water",
-      "water" : "Magic",
-      "2560" : "2810",
-      "anaitis" : "Freeza",
-      "18834" : "20057"
-   },
-   {
-      "2860" : "2600",
-      "142" : "142",
-      "epic" : "Epic",
-      "light" : "Nature",
-      "water" : "Water",
-      "2560" : "2070",
-      "anaitis" : "Arnu",
-      "18834" : "18345"
-   },
-   {
-      "2860" : "2600",
-      "142" : "142",
-      "epic" : "Epic",
-      "light" : "Water",
       "water" : "Dark",
-      "2560" : "2860",
-      "anaitis" : "Fliploch",
-      "18834" : "15654"
+      "19812" : "20301",
+      "dark" : "Water",
+      "2770" : "2560"
    },
    {
-      "2860" : "2600",
-      "142" : "142",
-      "epic" : "Epic",
-      "light" : "Dark",
-      "water" : "Earth",
-      "2560" : "2590",
-      "anaitis" : "Frank S. Tein",
-      "18834" : "21524"
-   },
-   {
-      "2860" : "2600",
+      "2700" : "2800",
       "142" : "224",
+      "rorcal" : "Freedom Feather",
       "epic" : "Epic",
-      "light" : "Light",
-      "water" : "Earth",
-      "2560" : "2650",
-      "anaitis" : "Medussha",
-      "18834" : "16143"
-   },
-   {
-      "2860" : "2600",
-      "142" : "142",
-      "epic" : "Epic",
-      "light" : "Nature",
-      "water" : "Light",
-      "2560" : "2600",
-      "anaitis" : "Pegasus",
-      "18834" : "17855"
-   },
-   {
-      "2860" : "2600",
-      "142" : "142",
-      "epic" : "Epic",
-      "light" : "Fire",
-      "water" : "Light",
-      "2560" : "2600",
-      "anaitis" : "Scorchpeg",
-      "18834" : "17855"
-   },
-   {
-      "2860" : "2570",
-      "142" : "142",
-      "epic" : "Epic",
-      "light" : "Dark",
-      "water" : "Magic",
-      "2560" : "2720",
-      "anaitis" : "Kimmel's Gift",
-      "18834" : "16877"
-   },
-   {
-      "2860" : "2560",
-      "142" : "142",
-      "epic" : "Epic",
-      "light" : "Dark",
-      "water" : "Water",
-      "2560" : "2800",
-      "anaitis" : "Cthulhu",
-      "18834" : "20301"
-   },
-   {
-      "2860" : "2560",
-      "142" : "224",
-      "epic" : "Epic",
-      "light" : "Fire",
-      "water" : "Water",
-      "2560" : "2800",
-      "anaitis" : "Freedom Feather",
-      "18834" : "20301"
-   },
-   {
-      "2860" : "2380",
-      "142" : "224",
-      "epic" : "Epic",
-      "light" : "Dark",
       "water" : "Fire",
-      "2560" : "2740",
-      "anaitis" : "Hellberus",
-      "18834" : "19323"
+      "19812" : "20301",
+      "dark" : "Water",
+      "2770" : "2560"
    },
    {
-      "2860" : "2350",
+      "2700" : "2740",
       "142" : "224",
+      "rorcal" : "Hellberus",
       "epic" : "Epic",
-      "light" : "Earth",
-      "water" : "Light",
-      "2560" : "2630",
-      "anaitis" : "Rock Druid",
-      "18834" : "22258"
+      "water" : "Dark",
+      "19812" : "19323",
+      "dark" : "Fire",
+      "2770" : "2380"
    },
    {
-      "2860" : "2350",
+      "2700" : "2630",
+      "142" : "224",
+      "rorcal" : "Rock Druid",
+      "epic" : "Epic",
+      "water" : "Earth",
+      "19812" : "22258",
+      "dark" : "Light",
+      "2770" : "2350"
+   },
+   {
+      "2700" : "2630",
       "142" : "114",
+      "rorcal" : "w'Olftagnan",
       "epic" : "Epic",
-      "light" : "Light",
-      "water" : "Dark",
-      "2560" : "2630",
-      "anaitis" : "w'Olftagnan",
-      "18834" : "18834"
+      "water" : "Light",
+      "19812" : "18834",
+      "dark" : "Dark",
+      "2770" : "2350"
    },
    {
-      "2860" : "2340",
+      "2700" : "2540",
       "142" : "224",
+      "rorcal" : "Ao Loong",
       "epic" : "Epic",
-      "light" : "Fire",
+      "water" : "Fire",
+      "19812" : "20057",
+      "dark" : "Earth",
+      "2770" : "2340"
+   },
+   {
+      "2700" : "2600",
+      "142" : "224",
+      "rorcal" : "Dragonian Beast",
+      "epic" : "Epic",
       "water" : "Earth",
-      "2560" : "2540",
-      "anaitis" : "Ao Loong",
-      "18834" : "20057"
+      "19812" : "21524",
+      "dark" : "Nature",
+      "2770" : "2340"
    },
    {
-      "2860" : "2340",
+      "2700" : "2670",
       "142" : "224",
+      "rorcal" : "Elder Sporeling",
       "epic" : "Epic",
-      "light" : "Earth",
       "water" : "Nature",
-      "2560" : "2600",
-      "anaitis" : "Dragonian Beast",
-      "18834" : "21524"
+      "19812" : "20301",
+      "dark" : "Fire",
+      "2770" : "2340"
    },
    {
-      "2860" : "2340",
+      "2700" : "2540",
       "142" : "224",
+      "rorcal" : "Musu",
       "epic" : "Epic",
-      "light" : "Nature",
-      "water" : "Fire",
-      "2560" : "2670",
-      "anaitis" : "Elder Sporeling",
-      "18834" : "20301"
+      "water" : "Earth",
+      "19812" : "20057",
+      "dark" : "Water",
+      "2770" : "2340"
    },
    {
-      "2860" : "2340",
+      "2700" : "2860",
+      "142" : "142",
+      "rorcal" : "Razfeesh",
+      "epic" : "Epic",
+      "water" : "Dark",
+      "19812" : "17855",
+      "dark" : "Water",
+      "2770" : "2340"
+   },
+   {
+      "2700" : "2730",
       "142" : "224",
+      "rorcal" : "Tartarus",
       "epic" : "Epic",
-      "light" : "Earth",
-      "water" : "Water",
-      "2560" : "2540",
-      "anaitis" : "Musu",
-      "18834" : "20057"
+      "water" : "Earth",
+      "19812" : "22992",
+      "dark" : "Magic",
+      "2770" : "2080"
    },
    {
-      "2860" : "2340",
+      "2700" : "2340",
       "142" : "142",
+      "rorcal" : "Donaturtle",
       "epic" : "Epic",
-      "light" : "Dark",
-      "water" : "Water",
-      "2560" : "2860",
-      "anaitis" : "Razfeesh",
-      "18834" : "17855"
+      "water" : "Nature",
+      "19812" : "22503",
+      "dark" : "Water",
+      "2770" : "2050"
    },
    {
-      "2860" : "2080",
-      "142" : "224",
-      "epic" : "Epic",
-      "light" : "Earth",
-      "water" : "Magic",
-      "2560" : "2730",
-      "anaitis" : "Tartarus",
-      "18834" : "22992"
-   },
-   {
-      "2860" : "2050",
+      "2700" : "2860",
       "142" : "142",
+      "rorcal" : "Skipples",
       "epic" : "Epic",
-      "light" : "Nature",
-      "water" : "Water",
-      "2560" : "2340",
-      "anaitis" : "Donaturtle",
-      "18834" : "22503"
+      "water" : "Light",
+      "19812" : "20057",
+      "dark" : "Fire",
+      "2770" : "1990"
    },
    {
-      "2860" : "1990",
-      "142" : "142",
-      "epic" : "Epic",
-      "light" : "Light",
-      "water" : "Fire",
-      "2560" : "2860",
-      "anaitis" : "Skipples",
-      "18834" : "20057"
-   },
-   {
-      "2860" : "1980",
+      "2700" : "2860",
       "142" : "114",
+      "rorcal" : "Faymelina",
       "epic" : "Epic",
-      "light" : "Light",
-      "water" : "Dark",
-      "2560" : "2860",
-      "anaitis" : "Faymelina",
-      "18834" : "20057"
+      "water" : "Light",
+      "19812" : "20057",
+      "dark" : "Dark",
+      "2770" : "1980"
    },
    {
-      "2860" : "1950",
+      "2700" : "2280",
       "142" : "142",
+      "rorcal" : "Goldcore",
       "epic" : "Epic",
-      "light" : "Light",
-      "water" : "Earth",
-      "2560" : "2280",
-      "anaitis" : "Goldcore",
-      "18834" : "24460"
+      "water" : "Light",
+      "19812" : "24460",
+      "dark" : "Earth",
+      "2770" : "1950"
    },
    {
-      "2860" : "1950",
+      "2700" : "2860",
       "142" : "224",
+      "rorcal" : "Irockman",
       "epic" : "Epic",
-      "light" : "Earth",
-      "water" : "Thunder",
-      "2560" : "2860",
-      "anaitis" : "Irockman",
-      "18834" : "22992"
+      "water" : "Earth",
+      "19812" : "22992",
+      "dark" : "Thunder",
+      "2770" : "1950"
    },
    {
-      "2860" : "2340",
+      "2700" : "2340",
       "142" : "142",
+      "rorcal" : "Beetrat",
       "epic" : "Epic",
-      "light" : "Magic",
-      "water" : "Nature",
-      "2560" : "2340",
-      "anaitis" : "Beetrat",
-      "18834" : "22503"
+      "water" : "Magic",
+      "19812" : "22503",
+      "dark" : "Nature",
+      "2770" : "2340"
    }
 ]
 }
