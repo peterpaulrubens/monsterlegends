@@ -872,6 +872,16 @@
       "life" : "13287"
    },
    {
+      "type1" : "Earth",
+      "type2" : "Thunder",
+      "gpm" : "224",
+      "name" : "Captain Legends",
+      "tier" : "Epic",
+      "speed" : "2950",
+      "power" : "2730",
+      "life" : "19812"
+   },
+   {
       "type1" : "Water",
       "type2" : "Dark",
       "gpm" : "142",
