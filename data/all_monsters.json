@@ -1925,6 +1925,16 @@
       "type1" : "Dark",
       "type2" : "Legendary",
       "gpm" : "155",
+      "name" : "Mommy",
+      "tier" : "Legendary",
+      "speed" : "3465",
+      "power" : "3080",
+      "life" : "32874"
+   },
+   {
+      "type1" : "Dark",
+      "type2" : "Legendary",
+      "gpm" : "155",
       "name" : "Lotan",
       "tier" : "Legendary",
       "speed" : "3388",
